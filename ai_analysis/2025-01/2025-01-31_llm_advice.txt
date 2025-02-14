@@ -1,0 +1,42 @@
+Okay, here's a summary of the stock news, focusing on sentiment and potential stocks to watch:
+
+**1. Stocks Mentioned:**
+
+*   **US Stocks:** S&P 500, Dow Jones Industrial Average, Nasdaq Composite
+*   **Tech:** Apple (AAPL), Nvidia (NVDA), Microsoft (MSFT), Meta (META), Oracle, Broadcom, Samsung, Intel (INTC)
+*   **Energy:** Exxon Mobil (XOM), Chevron (CVX), Phillips 66 (PSX), Padma Oil (DSE:PADMAOIL), PTT Exploration and Production (SET:PTTEP), Itochu Enex (TSE:8133)
+*   **Consumer:** Colgate-Palmolive (CL), Deckers Outdoor (DECK), UPS, DoshishaLtd (TSE:7483)
+*   **Financials:** MicroStrategy (MSTR), Peoples Bancorp (NasdaqGS:PEBO), Southside Bancshares (NYSE:SBSI), Citizens & Northern (NasdaqCM:CZNC), Guaranty Trust Holding (NGSE:GTCO)
+*   **Industrials/Transportation:** GE Aerospace, Royal Caribbean, IBM, HUAYU Automotive Systems (SHSE:600741)
+*   **Utilities:** Constellation Energy, Edison International
+*   **Healthcare:** Vertex Pharmaceuticals (VRTX)
+*   **Other:** China South Publishing & Media Group (SHSE:601098), Guangxi LiuYao Group (SHSE:603368), Techno Ryowa (TSE:1965)
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Nvidia (NVDA):** Heavily impacted by DeepSeek's cheaper AI model; market value has tanked.
+*   **Deckers Outdoor (DECK):** Stock fell due to conservative sales guidance despite strong recent performance.
+*   **Colgate-Palmolive (CL):** Stock declined as future performance guidance didn't meet investor expectations.
+*   **Swatch:** Weak sales and a major slump in operating profits due to weak demand from Chinese consumers
+
+**3. Stocks with Good Sentiment:**
+
+*   **Vertex Pharmaceuticals (VRTX):** FDA approval of new painkiller drove positive sentiment and stock increase.
+*    **Meta (META):** Stock climbed with plans to invest heavily in AI infrastructure.
+*   **Exxon Mobil (XOM):** Earnings surpassed analyst predictions, leading to an uptick in stock.
+*   **Apple (AAPL):** Upbeat outlook and earnings helped boost stock.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA):** Monitor how it adapts to competition from DeepSeek and its impact on AI chip demand.
+*   **AMD:** While still positive, assess if they can benefit from Nvidia's struggles and find a space to compete.
+*   **MicroStrategy (MSTR):** Watch if the company is able to raise enough money to cover their debt, given low cash flow
+*   **Apple (AAPL):** Good news, tax tips for investors and advice from the Moneyist
+
+**Additional Notes:**
+
+*   **DeepSeek Impact:** The emergence of DeepSeek is causing a re-evaluation of AI infrastructure spending and potentially impacting companies like Nvidia. It's also prompting reactions from Big Tech, as they assess its implications.
+*   **Tariffs:** Potential tariffs imposed by the Trump administration are creating uncertainty in global markets.
+*   **Dividend Stocks:** Dividend stocks may offer stability amidst fluctuating market conditions.
+
+**Disclaimer:** This analysis is based solely on the provided news snippets and does not constitute comprehensive investment advice. Consider consulting with a financial advisor before making any investment decisions.
