@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  airflow:
+    image: my_airflow_image:test_v1
+    ports:
+      - "8000:8080"
+    command: >
+      bash -c '
+      airflow db init &&
+      airflow users create \
+        --username admin \
+        --password admin \
+        --firstname Admin \
+        --lastname User \
+        --role Admin \
+        --email admin@example.com &&
+      airflow webserver & airflow scheduler
+      '
+    volumes:
+      - airflow-db:/home/airflow/airflow
+      - ./dags:/opt/airflow/dags
+    restart: on-failure
+
+volumes:
+  airflow-db:
