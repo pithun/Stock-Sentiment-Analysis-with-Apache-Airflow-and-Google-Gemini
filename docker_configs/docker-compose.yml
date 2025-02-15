@@ -15,15 +15,16 @@ services:
         --role Admin \
         --email admin@example.com &&
       airflow webserver & airflow scheduler &&
-      mkdir 1. make the directory for the dbt subfolders and create a subfolder for this project
-      2. run dbt init in there
-      3. delete the examples folder in models
-      4. create one for airflow
-      5. in news python file, replace the paths so match with the files created here
+      mkdir /app/News-Api-Project/My_DBT/ &&
+      cd /app/News-Api-Project/My_DBT/ &&
+      dbt init Airflow_Stock_Sentiment_Project &&
+      rm -r /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/examples &&
+      mkdir /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models &&
+      cp /home/airflow/dags/schema.yml /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models &&
       '
     volumes:
       - airflow-db:/home/airflow/airflow
-      - ./dags:/home/airflow/dags
+      - ./dags_and_stuff:/home/airflow/dags
     restart: on-failure
 
 volumes:

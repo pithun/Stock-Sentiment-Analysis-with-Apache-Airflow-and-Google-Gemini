@@ -13,6 +13,8 @@ WORKDIR /app
 ENV AIRFLOW_HOME=/home/airflow
 
 USER root
+#enabling passwordless sudo
+RUN echo "airflow ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
 RUN apt-get update -qq && apt-get install vim wget -qqq
 
 # This means copy requirements.txt file from the dir where the docker file is to the root dir of our docker image
@@ -24,10 +26,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install -q -U google-genai
 RUN mkdir -p /app/News-Api-Project/models /app/News-Api-Project/ai_analysis /app/News-Api-Project/compressed_data /app/News-Api-Project/data /app/News-Api-Project/labeled_data
 
-COPY news_sentiment.py /opt/airflow/dags
+COPY news_sentiment_docker.py /opt/airflow/dags
 COPY models/* /app/News-Api-Project/models
 COPY functions.py /app/News-Api-Project
-COPY profiles.yml ./.dbt
+COPY profiles.yml /home/airflow/.dbt
 
 # Apparently, we need this in our image to be able to allow the docker container get exposed to our localhost. This expose seems
 # to be saying 4000 is the port we're allowing you to expose to the local host. Now if an application isn't running on 4000, 

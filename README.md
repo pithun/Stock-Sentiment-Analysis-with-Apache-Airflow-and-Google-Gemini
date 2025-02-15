@@ -3,13 +3,16 @@
 ---
 
 ## Table of Contents
-1. [Project Overview](##Project-Overview)
-2. [Architecture and Workflow](#architecture-and-workflow)
-3. [Installation and Setup](##installation-and-setup)
-4. [Configure Environment Variables](##configure-environment-variables)
-5. [Code Walkthrough](#code-walkthrough)
-6. [Project Story and Journey](#project-story-and-journey)
-7. [To Do / Future Enhancements](#to-do--future-enhancements)
+1. [Project Overview](#Project-Overview)
+2. [Technical Architecture](#technical-architecture)
+3. [Directory Structure of Main Project Folder](#directory-structure-of-main-project-folder)
+4. [Implementation Details](#implementation-details)
+5. [DAG Structure](#dag-structure)
+6. [Reproducing this Project](#reproducing-this-project)
+7. [Testing & Debugging](#testing--debugging)
+8. [Monitoring & Maintenance](#monitoring--maintenance)
+9. [Future Enhancements](#future-enhancements)
+10. [Contributing](#contributing)
 
 ---
 
@@ -17,7 +20,7 @@
 This project features an end-to-end pipeline that automates the collection, processing and analysis of news related to the stock market and delivers stock sentiment insights. 
 
 Using Apache Airflow to orchestrate tasks, it retrieves news data from NewsAPI, processes and classifies the articles using natural language processing (NLP) and machine learning, loads the data into a Vertica database, compresses historical data as needed, runs dbt for further transformation, and finally leverages Gemini AI to generate summarized analysis that is sent via email.
-An initial set of articles into stock related and non stock related using a deep learning model `FacebookAI/roberta-large-mnli` which served as our labeled dataset. After which `lightgbm` model was pretrained using traditional NLP techniques (Bag of Words, TFIDF for vectorization and ngrams of 1) for a more efficient modeling. loads the data into a Vertica database, compresses historical data as needed, runs dbt for further transformation, and finally leverages Gemini AI to generate summarized analysis that is sent via email.
+The initial set of articles were classified into stock related and non stock related using a deep learning model `FacebookAI/roberta-large-mnli` which served as our labeled dataset. After which `lightgbm` model was pretrained using traditional NLP techniques (Bag of Words, TFIDF for vectorization and ngrams of 1) for a more efficient modeling. 
 
 ## Technical Architecture
 
@@ -58,30 +61,29 @@ An initial set of articles into stock related and non stock related using a deep
 3. Gmail App Password for SMTP
 
 ### System Requirements
-- Python 3.8+
+- Python 3.11+
 - Apache Airflow 2.0+
 - Vertica Database
 - dbt Core
 - Docker environment
-- NLTK data files:
-  - wordnet
-  - averaged_perceptron_tagger_eng
+
 
 ### Python Dependencies
+These can also seen in the requirements.txt file of the `docker_configs` dir of this repo.
 ```bash
-pip install apache-airflow
-pip install apache-airflow-providers-vertica
-pip install google-generativeai
-pip install nltk
-pip install beautifulsoup4
-pip install dbt-vertica
-pip install cloudpickle
-pip install joblib
-pip install pandas
-pip install protobuf==4.25.3  # Required for specific compatibility
+protobuf==4.25.3 # Required for specific compatibility
+dbt-vertica
+joblib==1.4.2
+nltk==3.9.1
+cloudpickle==3.1.1
+scikit-learn==1.6.1
+beautifulsoup4==4.12.3
+numpy==1.26.3
+pandas==2.1.4
+Markdown==3.5.2 
 ```
 
-## Directory Structure
+## Directory Structure of Main Project Folder
 ```
 project_root/
 ├── data/                    # Raw news data organized by month
@@ -131,7 +133,7 @@ def filter_news(** ):
     with open(f"{model_path}/tfidf_vectorizer_300.pkl", "rb") as f:
         tfidf_loaded = cloudpickle.load(f)
     
-    # Transform and predict
+    # Transform and predict with pretrained lgbm mdodel
     char_array = tfidf_loaded.transform(df.content).toarray()
     frequency_matrix = pd.DataFrame(char_array, 
                                   columns=tfidf_loaded.get_feature_names_out())
@@ -154,7 +156,7 @@ def compress_choice(**context):
 ```
 
 ### dbt Implementation
-The project uses dbt for data transformation with incremental loading:
+The project uses dbt for data transformation with incremental loading with model files being dynamically generated.
 
 1. **Stock News Model**
 ```sql
@@ -232,57 +234,72 @@ def LLM_advice(**context):
 *Figure: High-level architecture of the Stock Sentiment Analysis pipeline*
 
 
-## Configuration Guide
+## Reproducing this Project
+I compiled all the codes and model files I created into a single image and have made that accessible on docker hub. Find below the steps to replcate.
+1. Make a clone of this repo
+2. Start the Docker deskop application
+3. Navigate to the `docker_configs` dir from powershell or preferred command line interface.
+4. Run the below which will pull the created custom image as well as the vertica DB community edition image. 
+   ```bash
+   docker compose up
+   ```
+### API Section
+5. Generate an API key from [NewsAPI](https://newsapi.org/).
+6. Generate free API key from [Google Gemini](https://ai.google.dev/gemini-api/docs/api-key).
+7. Populate airflow variables with below configuration commands in the airflow container. Note: These can also be set via the airflow UI
+   ```bash
+   # Email Configuration
+   airflow variables set email_vars '{
+      "smtp_user": "your_email@gmail.com",
+      "smtp_password": "app_specific_password",
+      "smtp_url": "smtp://smtp.gmail.com:587"
+   }' -j --description "These are the email variables"
 
-### Airflow Variables
-You can set Airflow Variables via command as shown below or in the Airflow UI.
+   # API Keys
+   airflow variables set NEWS_API_KEY "your_key"
+   airflow variables set GEMINI_API_KEY "your_key"
+   ```
+### Vertica Section
+8. In the Vertica container, navigate to the vsql tool by running the below command.
+   ```bash
+   /opt/vertica/bin/vsql
+   ```
+9. Create a new schema within the default DB created `VMart` with the following commands.
+   ```sql
+   CREATE SCHEMA News_DB DEFAULT INCLUDE SCHEMA PRIVILEGES;
+   CREATE TABLE News_DB.Full_News_Table (date date, context LONG VARCHAR, label int);
+   CREATE TABLE News_DB.Stock_News like News_DB.Full_News_Table;
+   CREATE TABLE News_DB.Non_Stock_News like News_DB.Full_News_Table;
+   ````
 
-```bash
-# Email Configuration
-airflow variables set email_vars '{
-    "smtp_user": "your_email@gmail.com",
-    "smtp_password": "app_specific_password",
-    "smtp_url": "smtp://smtp.gmail.com:587"
-}' -j
+10. Configure Airflow Connection. It'll be better to set this via GUI. 
+      ```
+      Navigate to Admin>>connections
+      ```
+### DBT section
+11. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in th `[smtp]` section of the file.
+      ```bash
+      export AIRFLOW__EMAIL__SMTP_HOST=smtp.gmail.com
+      export AIRFLOW__EMAIL__SMTP_PORT=587
+      export AIRFLOW__EMAIL__SMTP_USER=youremail@gmail.com
+      export AIRFLOW__EMAIL__SMTP_STARTTLS=True
+      export AIRFLOW__EMAIL__SMTP_PASSWORD=mbzrpwzidygchygm
+      ```
+## General 
+12. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)
 
-# API Keys
-airflow variables set NEWS_API_KEY "your_key"
-airflow variables set GEMINI_API_KEY "your_key"
-```
 
-### Vertica Setup
-Veri
-```bash
-# Start Vertica Container
-docker run -p 6433:5433 -p 6444:5444 \
-    --mount "type=bind,source=/path/to/labeled_data,target=/home/data,ro" \
-    --name vertica_ce_synced vertica/vertica-ce
-
-# Configure Airflow Connection
-airflow connections add \
-    --conn-json '{
-        "conn_type": "vertica",
-        "login": "dbadmin",
-        "password": "",
-        "host": "127.0.0.1",
-        "port": 6433,
-        "schema": "VMart"
-    }' vertica
-```
 
 ## Testing & Debugging
 
 ### Common Issues
 
-1. **Vertica Connection**
-   - Enable connection testing: `export AIRFLOW__CORE__TEST_CONNECTION=Enabled`
+1. **Vertica Connection**: After configuring your connection details, you can test it via commands. If you run into an error, try enabling this parameter and test again.
+   - Enable connection testing `export AIRFLOW__CORE__TEST_CONNECTION=Enabled`
    - Test connection: `airflow connections test vertica`
-   - Check port forwarding: 6433:5433, 6444:5444
 
-2. **API Rate Limits**
-   - NewsAPI has daily request limits
-   - Implement exponential backoff
-   - Monitor usage in NewsAPI dashboard
+2. **API Limits**
+   - The free plan of NewsAPI is limited to only the past 30 days
 
 3. **Data Persistence**
    - Verify mounted volumes
@@ -293,6 +310,17 @@ airflow connections add \
    - Validate model files exist
    - Check incremental logic
    - Verify table permissions
+
+5. **News Collection Fails**
+   ```bash
+   airflow tasks test Stock_sentiment_analysis get_news_data 2024-02-11
+   ```
+
+6. **ML Processing Issues**
+   - Check model files exist
+   - Verify NLTK downloads
+   - Review input data format
+
 
 ## Monitoring & Maintenance
 
@@ -328,35 +356,6 @@ airflow connections add \
    - Implement automated backups
    - Add CI/CD pipeline
 
-## Troubleshooting Guide
-
-### Task Failures
-
-1. **News Collection Fails**
-   ```bash
-   airflow tasks test Stock_sentiment_analysis get_news_data 2024-02-11
-   ```
-
-2. **ML Processing Issues**
-   - Check model files exist
-   - Verify NLTK downloads
-   - Review input data format
-
-3. **Database Issues**
-   ```bash
-   vsql -h localhost -p 6433 -U dbadmin -w ""
-   ```
-
-## Reproducing this Project
-I compiled all the codes and model files I created into a single image and have made that accessible on docker hub. Find below the steps to replcate.
-1. Pull the image
-   ```bash
-   docker pull stock_sentiment_with_airflow_and_gemini
-   ```
-2. Populate the variables.
-3. Add the connections.
-
-
 ## Contributing
 
 1. Fork the repository
@@ -364,7 +363,3 @@ I compiled all the codes and model files I created into a single image and have 
 3. Follow PEP 8 guidelines
 4. Add appropriate tests
 5. Submit pull request
-
-## License
-
-This project is licensed under the MIT License. See LICENSE file for details.

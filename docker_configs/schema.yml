@@ -1,0 +1,18 @@
+version: 2
+
+Sources:
+  - name: Positive_Table
+    Database: VMart
+    description: "Table for all the stock news"
+    schema: News_DB
+    tables:
+      - name: Stock_News
+        description: "Contains only stock news data as per our model"
+
+  - name: Negative_Table
+    Database: VMart
+    description: "Table for all the NON stock news"
+    schema: News_DB
+    tables:
+      - name: Non_Stock_News
+        description: "Contains NON stock news data as per our model"
