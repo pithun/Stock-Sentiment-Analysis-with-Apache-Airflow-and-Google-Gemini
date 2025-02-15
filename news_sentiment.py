@@ -68,7 +68,7 @@ default_args = {
     'start_date': dt.datetime(2024, 12, 1),
 }
 
-parent_path="/mnt/c/Users/User/News-Project/Stock-Sentiment-Analysis-With-Airflow-and-Google-Gemini/"
+parent_path="/mnt/c/Users/User/News-Project/Stock-Sentiment-Analysis-with-Apache-Airflow-and-Google-Gemini/"
 data_path=f"{parent_path}data/"
 labeled_data_path=f"{parent_path}labeled_data/"
 model_path=f"{parent_path}models/"

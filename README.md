@@ -277,7 +277,7 @@ I compiled all the codes and model files I created into a single image and have 
       Navigate to Admin>>connections
       ```
 ### DBT section
-11. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in th `[smtp]` section of the file.
+11. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file.
       ```bash
       export AIRFLOW__EMAIL__SMTP_HOST=smtp.gmail.com
       export AIRFLOW__EMAIL__SMTP_PORT=587
