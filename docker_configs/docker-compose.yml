@@ -14,17 +14,16 @@ services:
         --lastname User \
         --role Admin \
         --email admin@example.com &&
-      airflow webserver & airflow scheduler &&
       mkdir /app/News-Api-Project/My_DBT/ &&
       cd /app/News-Api-Project/My_DBT/ &&
-      dbt init Airflow_Stock_Sentiment_Project &&
-      rm -r /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/examples &&
+      dbt init Airflow_Stock_Sentiment_Project -s &&
+      rm -r /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/example &&
       mkdir /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models &&
-      cp /home/airflow/dags/schema.yml /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models &&
+      airflow webserver & airflow scheduler 
       '
     volumes:
       - airflow-db:/home/airflow/airflow
-      - ./dags_and_stuff:/home/airflow/dags
+      - ./other_stuff:/home/airflow/other_stuff
     restart: on-failure
 
 volumes:

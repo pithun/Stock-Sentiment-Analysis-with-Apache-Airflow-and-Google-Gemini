@@ -26,7 +26,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install -q -U google-genai
 RUN mkdir -p /app/News-Api-Project/models /app/News-Api-Project/ai_analysis /app/News-Api-Project/compressed_data /app/News-Api-Project/data /app/News-Api-Project/labeled_data
 
-COPY news_sentiment_docker.py /opt/airflow/dags
+COPY news_sentiment_docker.py /home/airflow/dags
 COPY models/* /app/News-Api-Project/models
 COPY functions.py /app/News-Api-Project
 COPY profiles.yml /home/airflow/.dbt
