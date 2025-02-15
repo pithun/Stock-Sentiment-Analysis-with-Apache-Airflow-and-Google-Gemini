@@ -3,7 +3,7 @@
 ---
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
+1. [Project Overview](##Project-Overview)
 2. [Architecture and Workflow](#architecture-and-workflow)
 3. [Installation and Setup](##installation-and-setup)
 4. [Configure Environment Variables](##configure-environment-variables)
@@ -13,7 +13,7 @@
 
 ---
 
-## Overview
+## Project Overview
 This project features an end-to-end pipeline that automates the collection, processing and analysis of news related to the stock market and delivers stock sentiment insights. 
 
 Using Apache Airflow to orchestrate tasks, it retrieves news data from NewsAPI, processes and classifies the articles using natural language processing (NLP) and machine learning, loads the data into a Vertica database, compresses historical data as needed, runs dbt for further transformation, and finally leverages Gemini AI to generate summarized analysis that is sent via email.
@@ -353,6 +353,8 @@ I compiled all the codes and model files I created into a single image and have 
    ```bash
    docker pull stock_sentiment_with_airflow_and_gemini
    ```
+2. Populate the variables.
+3. Add the connections.
 
 
 ## Contributing

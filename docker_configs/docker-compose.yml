@@ -14,11 +14,16 @@ services:
         --lastname User \
         --role Admin \
         --email admin@example.com &&
-      airflow webserver & airflow scheduler
+      airflow webserver & airflow scheduler &&
+      mkdir 1. make the directory for the dbt subfolders and create a subfolder for this project
+      2. run dbt init in there
+      3. delete the examples folder in models
+      4. create one for airflow
+      5. in news python file, replace the paths so match with the files created here
       '
     volumes:
       - airflow-db:/home/airflow/airflow
-      - ./dags:/opt/airflow/dags
+      - ./dags:/home/airflow/dags
     restart: on-failure
 
 volumes:

@@ -68,7 +68,7 @@ default_args = {
     'start_date': dt.datetime(2024, 12, 1),
 }
 
-parent_path="/mnt/c/Users/User/News-Project/Stock-Sentiment-Analysis-With-Airflow-and-Google-Gemini/"
+parent_path="/app/News-Api-Project/"
 data_path=f"{parent_path}data/"
 labeled_data_path=f"{parent_path}labeled_data/"
 model_path=f"{parent_path}models/"
@@ -76,9 +76,9 @@ compressed_data_path=f"{parent_path}compressed_data/"
 ai_content=f"{parent_path}ai_analysis/"
 
 #dbt file paths
-stock_news_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Stock_News.sql"
-non_stock_news_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Non_Stock_News.sql"
-dbt_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project"
+stock_news_path="/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Stock_News.sql"
+non_stock_news_path="/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Non_Stock_News.sql"
+dbt_path="/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project"
 
 stock_news_dbt_file_content="""{{ config(materialized='incremental',
 unique_key='content') }}

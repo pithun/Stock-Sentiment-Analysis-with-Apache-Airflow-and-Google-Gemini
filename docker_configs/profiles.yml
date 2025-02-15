@@ -1,0 +1,15 @@
+Airflow_Stock_Sentiment_Project:
+  outputs:
+    dev:
+      connection_load_balance: true
+      database: VMart
+      host: 127.0.0.1
+      oauth_access_token: ''
+      password: ''
+      port: 5433
+      retries: 2
+      schema: News_DB
+      threads: 1
+      type: vertica
+      username: dbadmin
+  target: dev
