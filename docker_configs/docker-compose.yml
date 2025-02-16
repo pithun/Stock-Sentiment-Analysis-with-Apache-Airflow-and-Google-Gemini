@@ -4,23 +4,7 @@ services:
     image: my_airflow_image:test_v1
     ports:
       - "8000:8080"
-    command: >
-      bash -c '
-      airflow db init &&
-      airflow users create \
-        --username admin \
-        --password admin \
-        --firstname Admin \
-        --lastname User \
-        --role Admin \
-        --email admin@example.com &&
-      mkdir /app/News-Api-Project/My_DBT/ &&
-      cd /app/News-Api-Project/My_DBT/ &&
-      dbt init Airflow_Stock_Sentiment_Project -s &&
-      rm -r /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/example &&
-      mkdir /app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models &&
-      airflow webserver & airflow scheduler 
-      '
+    entrypoint: /app/News-Api-Project/entrypoint.sh
     volumes:
       - airflow-db:/home/airflow/airflow
       - ./other_stuff:/home/airflow/other_stuff

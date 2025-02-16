@@ -26,10 +26,10 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install -q -U google-genai
 RUN mkdir -p /app/News-Api-Project/models /app/News-Api-Project/ai_analysis /app/News-Api-Project/compressed_data /app/News-Api-Project/data /app/News-Api-Project/labeled_data
 
-COPY news_sentiment_docker.py /home/airflow/dags
+COPY news_sentiment_docker.py /home/airflow/dags/news_sentiment_docker.py
 COPY models/* /app/News-Api-Project/models
-COPY functions.py /app/News-Api-Project
-COPY profiles.yml /home/airflow/.dbt
+COPY entrypoint.sh /app/News-Api-Project/
+COPY profiles.yml /home/airflow/.dbt/profiles.yml
 
 # Apparently, we need this in our image to be able to allow the docker container get exposed to our localhost. This expose seems
 # to be saying 4000 is the port we're allowing you to expose to the local host. Now if an application isn't running on 4000, 

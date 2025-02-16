@@ -80,7 +80,9 @@ scikit-learn==1.6.1
 beautifulsoup4==4.12.3
 numpy==1.26.3
 pandas==2.1.4
-Markdown==3.5.2 
+Markdown==3.5.2
+apache-airflow-providers-vertica==4.0.0
+lightgbm==4.5.0
 ```
 
 ## Directory Structure of Main Project Folder

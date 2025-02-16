@@ -19,7 +19,6 @@ nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 import cloudpickle
-from functions import lemmatized
 import shutil
 from google import genai
 from google.genai import types
@@ -408,7 +407,7 @@ def notify_email(**context):
 
 # Using with clause and specifying DAG structure
 with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args, 
-         schedule_interval="@daily", catchup=True) as dag:
+         schedule_interval="@daily", catchup=False) as dag:
     get_data=PythonOperator(task_id='get_news_data', python_callable=connect_to_api_csv)
     filter_data=PythonOperator(task_id='get_only_stock_news', python_callable=filter_news)
     load_to_table=SQLExecuteQueryOperator(
