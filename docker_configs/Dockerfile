@@ -15,7 +15,7 @@ ENV AIRFLOW_HOME=/home/airflow
 USER root
 #enabling passwordless sudo
 RUN echo "airflow ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers
-RUN apt-get update -qq && apt-get install vim wget -qqq
+RUN apt-get update -qq && apt-get install vim wget -qqq && apt-get install -y libgomp1
 
 # This means copy requirements.txt file from the dir where the docker file is to the root dir of our docker image
 # Runs
