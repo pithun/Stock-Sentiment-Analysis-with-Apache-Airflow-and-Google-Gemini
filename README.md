@@ -285,7 +285,7 @@ I compiled all the codes and model files I created into a single image and have 
       export AIRFLOW__EMAIL__SMTP_PORT=587
       export AIRFLOW__EMAIL__SMTP_USER=youremail@gmail.com
       export AIRFLOW__EMAIL__SMTP_STARTTLS=True
-      export AIRFLOW__EMAIL__SMTP_PASSWORD=mbzrpwzidygchygm
+      export AIRFLOW__EMAIL__SMTP_PASSWORD=pwd
       ```
 ## General 
 12. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)
