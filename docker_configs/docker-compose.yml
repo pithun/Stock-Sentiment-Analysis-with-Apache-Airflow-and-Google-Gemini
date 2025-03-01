@@ -10,5 +10,25 @@ services:
       - ./other_stuff:/home/airflow/other_stuff
     restart: on-failure
 
+    networks:
+      - my_network
+    depends_on:
+      - vertica
+
+  vertica:
+    image: vertica/vertica-ce:latest
+    ports:
+      - "5433:5433"
+      - "5444:5444"
+    volumes:
+      - vertica-data:/home/dbadmin/mydb
+    networks:
+      - my_network
+
 volumes:
   airflow-db:
+  vertica-data:
+
+networks:
+  my_network:
+    driver: bridge

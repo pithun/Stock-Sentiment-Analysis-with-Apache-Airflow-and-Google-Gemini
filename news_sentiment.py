@@ -1,62 +1,48 @@
-#imports
+#Imports
+
+#Airflow Modules
+import airflow
+from airflow.models import Variable
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.operators.python import BranchPythonOperator
 from airflow.operators.bash import BashOperator
 from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
-from airflow.operators.email_operator import EmailOperator
-from airflow.utils.email import send_email
-import datetime as dt
 from airflow.operators.dummy import DummyOperator
-import airflow
-from airflow.models import Variable
+from airflow.utils.email import send_email
+
+#Trad NLP Modules
 from joblib import load
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 import nltk
 nltk.download("wordnet", quiet=True)
 nltk.download('averaged_perceptron_tagger_eng', quiet=True)
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 import cloudpickle
-from functions import lemmatized
-import shutil
-from google import genai
-from google.genai import types
-import markdown
 
-from bs4 import BeautifulSoup
-
-#for connecting to the API server
-import requests
-
-# I am saving the API key in the system with setx NEWS_API_KEY "content". So, I need to get it back
+#Useful Functionality Modules
+import pandas as pd
+import datetime as dt
 import os
-
-# using regular expression to extract date from the Json file
+from bs4 import BeautifulSoup
+import markdown
+import shutil
+import requests
 import re
 import datetime as dt
-#from datetime.datetime import strptime
 import pathlib
 import json
-import pandas as pd
+
+#Google Gemini Modules
+from google import genai
+from google.genai import types
 
 # Retrieve credentials from Airflow Variables
-# The variables are stored as a single variable in the json syntax so we don't have to make multiple connections to 
-# get all our variables
-# to create in linux, we use export var=val, in windows cmd setx var=val
-
-#command used 
-#airflow variables set email_vars '{"smtp_user":"udohchigozie2017@gmail.com", "smtp_password":"", "smtp_url":"smtp://smtp.gmail.com:587"}' -j --description "These are the email variables"
-#airflow variables set NEWS_API_KEY '' --description "News api key"
-#airflow variables set GEMINI_API_KEY '' --description "Gemini api key"
-
-
-#api_key=os.getenv("NEWS_API_KEY")
 api_key=Variable.get("NEWS_API_KEY")
 airflow_vars_str=Variable.get("email_vars", deserialize_json=True)
 airflow_vars = json.loads(airflow_vars_str)
-
 gemini_api_key=Variable.get("GEMINI_API_KEY")
 
 SMTP_URL=airflow_vars['smtp_url']
@@ -68,6 +54,7 @@ default_args = {
     'start_date': dt.datetime(2024, 12, 1),
 }
 
+#Defining path variables
 parent_path="/mnt/c/Users/User/News-Project/Stock-Sentiment-Analysis-with-Apache-Airflow-and-Google-Gemini/"
 data_path=f"{parent_path}data/"
 labeled_data_path=f"{parent_path}labeled_data/"
@@ -80,6 +67,7 @@ stock_news_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Proj
 non_stock_news_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Non_Stock_News.sql"
 dbt_path="/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project"
 
+#dbt file content
 stock_news_dbt_file_content="""{{ config(materialized='incremental',
 unique_key='content') }}
 
@@ -98,9 +86,10 @@ select * from News_DB.Full_News_Table
     where label =1 and date={{ ds }}
 {% endif %}"""
 
-# Generally, it seems there's constituents of the url, my brian is trying to remember the basic web concepts I learned before.
-
 def get_full_article(url):
+    """
+    Basic function to scrape news from news URL obtained from the news API
+    """
     try:
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
@@ -115,19 +104,13 @@ def get_full_article(url):
 
 
 def connect_to_api_csv(**context):
-    
-    # I want the DAG to be idempotent so that the model will use the same data to train the model or to do anything in any case 
-    # need to backfill
-    
-    exec_datetime = context["execution_date"]    #<datetime> type with timezone
+    """
+    Connects to the news API and 
+    """
+    exec_datetime = context["execution_date"]
     exec_date=exec_datetime.strftime("%Y-%m-%d")
     exec_month=exec_datetime.strftime("%Y-%m")
 
-    # One idea I had to implement branching had to do with saving the csvs on sunday only but this affects atomicity. If some 
-    # one decided to run the train model task only, how can he do that when they data is from teh past and not abailable?
-    # I was thinking that
-
-    # dropping csv if exists
     file_name=str(exec_date)+'_news_file.txt'
 
     # dropping file if exists
@@ -241,10 +224,6 @@ def compress_and_remove_files_(**context):
         shutil.rmtree(f"{data_path}{exec_month}")
     else:
         pass
-        #start_dbt
-
-#def start_dbt_():
-    #print('done')
 
 def LLM_advice(**context):
     exec_datetime = context["execution_date"]
@@ -275,28 +254,6 @@ def LLM_advice(**context):
     with open(llm_output, "w") as f:
         f.write(response.text)
 
-'''def send_email(**context):
-    exec_datetime = context["execution_date"]
-    exec_date=exec_datetime.strftime("%Y-%m-%d")
-    exec_month=exec_datetime.strftime("%Y-%m")
-
-    # creates SMTP session
-    s = smtplib.SMTP('smtp.gmail.com', 587)
-    # start TLS for security
-    s.starttls()
-    # Authentication
-    s.login(SMTP_USER, SMTP_PASSWORD)
-    # message to be sent
-    with open(f"{ai_content}{exec_month}/{exec_date}_llm_advice.txt", 'r', encoding='utf-8') as f:
-        body=f.read()
-    
-    subject = f"AI Analysis Report on Stock News Today {exec_date}"
-    message = f"Subject: {subject}\n\n{body}"
-
-    # sending the mail
-    s.sendmail(SMTP_USER, SMTP_USER, message.encode('utf-8'))
-    # terminating the session
-    s.quit()'''
 
 def format_file_to_html(file_path):
     """
@@ -392,20 +349,6 @@ def notify_email(**context):
     )
 
 
-# mount volume in local to vertica (it wasn't necessary actually except I was using ssh to first log into vertica server and then
-    #run the code)
-#docker run -p 6433:5433 -p 6444:5444 --mount "type=bind,source=C:/Users/User/News-Project/labeled_data,target=/home/data,ro" --name vertica_ce_synced vertica/vertica-ce
-#needed to add connection details
-#airflow connections add --conn-json '{"conn_type": "vertica", "login": "dbadmin", "password": "", "host": "127.0.0.1", "port": 6433, "schema": "VMart"}' vertica
-#used this to enable testing connection export AIRFLOW__CORE__TEST_CONNECTION=Enabled
-#then had ro pip install vertica I recall that recent version of airflow don't install these hooks any more
-#pip install apache-airflow-providers-vertica
-#the test suceeded after running airflow connections test vertica (which was the conn_id name I used when creating the
-#connection)
-
-# VERY USEFUL IN DEBUGGING SUDO issues IN KALI https://superuser.com/questions/1644520/apt-get-update-issue-in-kali
-# Had to install pip install protobuf==4.25.3 to buy pass some issue with dbt
-
 # Using with clause and specifying DAG structure
 with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args, 
          schedule_interval="@daily", catchup=True) as dag:
@@ -451,23 +394,18 @@ with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args,
     },
     trigger_rule="none_failed"
 )
-
-
     compress_or_not>>[compress_and_remove_files, do_nothing]>>start_dbt
-
+    
     
     extract_news_info=SQLExecuteQueryOperator(
         task_id="extract_stock_news_info",
         conn_id="vertica",
-        #change this table after dbt task is created
         sql=r"""select content from News_DB.Stock_News where date='{{ ds }}' and label=1;""",
         do_xcom_push=True
-        #params={'labeled_data_path':labeled_data_path}
     )
     get_ai_recommendation=PythonOperator(task_id='LLM_advice', python_callable=LLM_advice)
     start_dbt>>extract_news_info>>get_ai_recommendation
 
-    #notify=PythonOperator(task_id='send_ai_stock_insight', python_callable=send_email)
     notify= PythonOperator(task_id="send_ai_stock_insight", python_callable=notify_email)
     '''notify = EmailOperator( 
         task_id='send_ai_stock_insight', 
@@ -476,4 +414,3 @@ with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args,
         html_content="Date: {{ ds }}"
         )'''
     get_ai_recommendation>>notify
-    #get_data>>filter_data>>load_to_table>>notify

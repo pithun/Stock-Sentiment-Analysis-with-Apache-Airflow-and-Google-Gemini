@@ -1,0 +1,61 @@
+Here's a summarized analysis of the stock news:
+
+**1. Stocks Mentioned:**
+
+*   **ROOT (Root Insurance)**
+*   **Microsoft (MSFT)**
+*   **Western Union (WU)**
+*   **Matador Resources (MTDR)**
+*   **Nvidia (NVDA)**
+*   **WPP PLC (WPP)**
+*   **EBay (EBAY)**
+*   **Salesforce (CRM)**
+*   **Snowflake (SNOW)**
+*   **Warner Bros. Discovery (WBD)**
+*   **Broadcom (AVGO)**
+*   **Tesla (TSLA)**
+*   **Apple (AAPL)**
+*    **Advanced Micro Devices (AMD)**
+*   **Micron (MU)**
+*   **Intel (INTC)**
+*   **TSMC (TSM)**
+*   **MARA Holdings (MARA)**
+*   **Super Micro Computer (SMCI)**
+*   **Intuit (INTU)**
+*   **AppLovin(APP)**
+*   **Axon (AXON)**
+*   **NRG Energy, Inc. (NRG)**
+*   **Coinbase**
+*   **Robinhood**
+*   **Cleveland-Cliffs Inc.(CLF)**
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Microsoft (MSFT):** Faces challenges regarding AI chip access and potential disadvantages against Chinese suppliers.
+*   **Nvidia (NVDA):** Stock fell despite earnings beat, with gross margin outlook lower than estimates. There are also concerns about AI hype and high valuations.
+*   **WPP PLC (WPP):** Shares trading lower after reporting a decline in revenue.
+*   **EBay (EBAY):** Shares declined after falling short of current-quarter revenue guidance.
+*   **Salesforce (CRM):** Shares declined after reporting weaker-than-expected quarterly revenue and issuing a disappointing forecast.
+*   **Tesla (TSLA):** Stock price declined, sales slump abroad, brand value in question
+*   **Broadcom (AVGO):** Shares trading lower partially due to Nvidia's earnings.
+*   **Advanced Micro Devices (AMD):** Stock declined, shedding pre-opening gains.
+*   **Micron (MU):** Stock declined, shedding pre-opening gains.
+*   **Intel (INTC):** Stock declined, shedding pre-opening gains.
+*   **TSMC (TSM):** Fell due to government restrictions and lack of interest in a deal with Intel.
+*   **Cleveland-Cliffs Inc.(CLF):** Stock dropped 11% this week.
+
+**3. Stocks with Good Sentiment:**
+
+*   **ROOT (Root Insurance):** Stock soared after insurer clears Q4 views, posts first annual profit.
+*   **Matador Resources (MTDR):** Insider purchase by EVP indicates confidence.
+*   **Snowflake (SNOW):** Shares jumped on strong revenue and guidance.
+*   **Warner Bros. Discovery (WBD):** Rose due to positive outlook for streaming business and subscriber growth.
+*   **MARA Holdings (MARA):** Shares moved higher after reporting better-than-expected earnings.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA):** Despite the recent dip, it remains a key player in the AI sector, and its performance has broad implications for the market. Monitor its ability to maintain dominance amid competition and economic shifts.
+*   **Warner Bros. Discovery (WBD):** Their streaming strategy and ability to reach subscriber goals will be important.
+*   **Microsoft (MSFT):** Developments around AI chip access restrictions and their impact on the company's AI initiatives.
+
+**Disclaimer:** This analysis is based on the provided news snippets and does not constitute financial advice. Consider consulting with a financial advisor before making any investment decisions.
