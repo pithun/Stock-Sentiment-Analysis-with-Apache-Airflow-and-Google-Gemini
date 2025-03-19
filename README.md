@@ -8,7 +8,7 @@
 3. [Directory Structure of Main Project Folder](#directory-structure-of-main-project-folder)
 4. [Implementation Details](#implementation-details)
 5. [DAG Structure](#dag-structure)
-6. [Reproducing this Project](#reproducing-this-project) --(In progress!)
+6. [Reproducing this Project](#reproducing-this-project)
 7. [Testing & Debugging](#testing--debugging)
 8. [Monitoring & Maintenance](#monitoring--maintenance)
 9. [Future Enhancements](#future-enhancements)
@@ -277,6 +277,16 @@ I compiled all the codes and model files I created into a single image and have 
 10. Configure Airflow Connection. It'll be better to set this via GUI. 
       ```
       Navigate to Admin>>connections
+
+      Since the docker compose file creates a network and the vertica service name is "vertica". Create a new connection with Host named vertica and set the following parameters.
+
+      Connection id=vertica
+      Connection type=Vertica (this should be a drop down)
+      Host=vertica
+      Schema=VMart
+      Login=dbadmin
+      Password=(leave empty as Vertica default user has no password)
+      Port=5433
       ```
 ### DBT section
 11. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file.

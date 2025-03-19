@@ -57,7 +57,7 @@ default_args = {
 }
 
 # Defining path variables
-parent_path = "/mnt/c/Users/User/News-Project/Stock-Sentiment-Analysis-with-Apache-Airflow-and-Google-Gemini/"
+parent_path = "/app/News-Api-Project/"
 data_path = f"{parent_path}data/"
 labeled_data_path = f"{parent_path}labeled_data/"
 model_path = f"{parent_path}models/"
@@ -65,9 +65,9 @@ compressed_data_path = f"{parent_path}compressed_data/"
 ai_content = f"{parent_path}ai_analysis/"
 
 # DBT file paths
-stock_news_path = "/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Stock_News.sql"
-non_stock_news_path = "/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Non_Stock_News.sql"
-dbt_path = "/mnt/c/Users/User/Documents/My_DBT/Airflow_Stock_Sentiment_Project"
+stock_news_path = "/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Stock_News.sql"
+non_stock_news_path = "/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project/models/airflow_stock_sentiment_models/Non_Stock_News.sql"
+dbt_path = "/app/News-Api-Project/My_DBT/Airflow_Stock_Sentiment_Project"
 
 # DBT file content for stock news and non-stock news
 stock_news_dbt_file_content = """{{ config(materialized='incremental',
@@ -427,7 +427,7 @@ def notify_email(**context):
 
 # Define the DAG and its tasks using a context manager
 with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args, 
-         schedule_interval="@daily", catchup=True) as dag:
+         schedule_interval="@daily", catchup=False) as dag:
 
     # Task: Retrieve news data from the API and save as CSV
     get_data = PythonOperator(
