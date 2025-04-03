@@ -1,0 +1,81 @@
+Okay, here's a summarized analysis of the stock news you provided:
+
+**1. Stocks Mentioned Today:**
+
+*   Nvidia (NVDA)
+*   Tesla (TSLA)
+*   JPMorgan Equity Premium Income ETF (JEPI)
+*   U.S. Large Cap Buffer 3 ETF (GBXC)
+*   Micron Technology (MU)
+*   Intel (INTC)
+*   SBI 
+*   Axis Bank 
+*   HDFC Bank 
+*   Infosys 
+*   Wipro 
+*   NTPC
+*   Salesforce (CRM)
+*   Walmart (WMT)
+*   Baidu (BIDU)
+*   Berkshire Hathaway (BRK.A)
+*   Itochu Corp. (ITOCY)
+*   Sumitomo Corp. (SSUMY)
+*   Marubeni Corp. (MARUY)
+*   Mitsubishi Corp. (MSBHF)
+*   Mitsui (MITSY)
+*   Incyte (INCY)
+*   Netflix (NFLX)
+*   Norwegian Cruise Line (NCLH)
+*   JPMorgan Chase (JPM)
+*   Affirm (AFRM)
+*   Lionsgate
+*   TKO Group
+*   Warner Bros. Discovery
+*   Spotify
+*   AMC Entertainment
+*   Cinemark
+*   Disney
+*   Quantum Computing (QUBT)
+*   D-Wave
+*   IonQ (IONQ)
+*   Rigetti Computing (RGTI)
+*   Contemporary Amperex (CATL)
+*   Li Auto
+*   Alibaba
+*   Tencent
+*   Xiaomi
+*   XPeng
+*   SMIC
+*   Meituan
+*   Zeekr
+*   BYD
+*   ARM
+*   Credo Technology Group (CRDO)
+*   Schneider Electric
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Tesla (TSLA):**  Facing numerous challenges, including lowered price targets, intensifying competition in China, weakening brand perception, and delivery forecast cuts.
+*   **Affirm (AFRM):** Stock fell after news that Klarna will be the exclusive provider of buy now, pay later loans for Walmart.
+*   **Incyte (INCY):**  Experienced a drop after disappointing clinical trial results.
+*   **Contemporary Amperex (CATL):** Fell after missing analyst expectations for 2024 results.
+
+**3. Stocks with Good Sentiment:**
+
+*   **Intel (INTC):** Stock soared on news of an AI-strategy revamp.
+*   **Netflix (NFLX):** Received an upgrade from MoffettNathanson with a higher price target.
+*   **Berkshire Hathaway (BRK.A):** Warren Buffet's company. Overtook Bill Gates on the Bloomberg Billionaires Index.
+*   **Nvidia (NVDA):** Even though closed slightly lower, all eyes will be on CEO Jensen Huang’s keynote at the GPU Technology Conference.
+*   **Baidu (BIDU):** Gained after launching the “latest foundation model ERNIE 4.5 and the deep-thinking reasoning model ERNIE X1"
+*   **Norwegian Cruise Line (NCLH):** Received an upgrade from JPMorgan.
+*    **Quantum Computing (QUBT) & D-Wave:** Stock Climbed ahead of the GTC’s first “Quantum Day”.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Micron Technology (MU):**  Earnings report is coming up, pay attention to how it performs against expectations and its guidance.
+*   **Nvidia (NVDA):** Keep an eye on the announcements and reactions to its GPU Technology Conference.
+*   **Salesforce (CRM):**  Considered attractive but volatile; watch for market sensitivity and AI platform adoption.
+*   **Tesla (TSLA):** Monitor how they address competition in China, brand perception issues, and delivery struggles.
+*   **Intel (INTC):** To see if new CEO Lip-Bu Tan is really able to make the company a key player in AI.
+
+**Disclaimer:** This is just a summarized analysis based on the provided news snippets. This is not financial advice.

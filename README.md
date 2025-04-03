@@ -269,7 +269,7 @@ I compiled all the codes and model files I created into a single image and have 
 9. Create a new schema within the default DB created `VMart` with the following commands.
    ```sql
    CREATE SCHEMA News_DB DEFAULT INCLUDE SCHEMA PRIVILEGES;
-   CREATE TABLE News_DB.Full_News_Table (date date, context LONG VARCHAR, label int);
+   CREATE TABLE News_DB.Full_News_Table (date date, content LONG VARCHAR, label int);
    CREATE TABLE News_DB.Stock_News like News_DB.Full_News_Table;
    CREATE TABLE News_DB.Non_Stock_News like News_DB.Full_News_Table;
    ````
@@ -278,7 +278,7 @@ I compiled all the codes and model files I created into a single image and have 
       ```
       Navigate to Admin>>connections
 
-      Since the docker compose file creates a network and the vertica service name is "vertica". Create a new connection with Host named vertica and set the following parameters.
+      Since the docker compose file creates a network and the vertica service name is "vertica". Create a new connection with Host named vertica and set the following parameters. Essentially, the service name becomes the Host name.
 
       Connection id=vertica
       Connection type=Vertica (this should be a drop down)
@@ -288,8 +288,10 @@ I compiled all the codes and model files I created into a single image and have 
       Password=(leave empty as Vertica default user has no password)
       Port=5433
       ```
-### DBT section
-11. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file.
+### DBT Section
+11. The profiles.yml which is added to the custom image contains the host credentials and you don't have to worry about that.
+### Email Section
+12. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file.
       ```bash
       export AIRFLOW__EMAIL__SMTP_HOST=smtp.gmail.com
       export AIRFLOW__EMAIL__SMTP_PORT=587
@@ -298,7 +300,7 @@ I compiled all the codes and model files I created into a single image and have 
       export AIRFLOW__EMAIL__SMTP_PASSWORD=pwd
       ```
 ## General 
-12. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)
+13. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)
 
 
 

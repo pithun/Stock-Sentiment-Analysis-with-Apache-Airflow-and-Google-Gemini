@@ -1,0 +1,78 @@
+Here's a summary of the stock news, focusing on sentiment and potential investment advice:
+
+**1. Stocks Mentioned Today:**
+
+*   Nvidia (NVDA)
+*   Best Buy (BBY)
+*   Chipotle Mexican Grill (CMG)
+*   Target (TGT)
+*   Tesla (TSLA)
+*   Super Micro Computer (SMCI)
+*   Apple (AAPL)
+*   Microsoft (MSFT)
+*   Google (GOOGL) / Alphabet
+*   Meta (META)
+*   Amazon (AMZN)
+*   Palantir (PLTR)
+*   Salesforce (CRM)
+*   Lowe's (LOW)
+*   Home Depot (HD)
+*   Bank of America (BAC)
+*   Citibank
+*   Goldman Sachs
+*   JPMorgan Chase
+*   Ford
+*   GM
+*   SBI
+*   Axis Bank
+*   HDFC Bank
+*   Infosys
+*   Wipro
+*   NTPC
+*   InterGlobe Aviation
+*   Bajaj Finance
+*   Ola
+*   Hero Electric
+*   Firstsource
+*   IndusInd Bank
+*   Delhivery
+*   Standard Life Aberdeen/abrdn/Aberdeen
+*   DeepSeek
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Nvidia (NVDA):**  Dipped due to tariffs, AI spending concerns, and potential export restrictions.
+*   **Best Buy (BBY):**  Warned about price increases for consumers due to tariffs.
+*   **Chipotle Mexican Grill (CMG):** Concerns about dependence on Mexican avocados and tariff impact.
+*   **Target (TGT):** Expects a decline in first-quarter profits due to consumer uncertainty and tariffs.
+*   **Tesla (TSLA):** Declined due to rising fears about tariffs potentially increasing car prices and a price target reduction from Bank of America.
+*   **Super Micro Computer (SMCI):** Initially declined, mirroring Nvidia's slump, due to tariff uncertainties.
+*   **Apple (AAPL):** Mentioned as potentially vulnerable to retaliation, such as sales restrictions in China.
+*   **Ford**
+*   **GM**
+*   **Cybersecurity company:** Due to a larger-than-expected loss and disappointing profit guidance
+*   **IndusInd Bank:**'s derivatives portfolio is under pressure.
+
+**3. Stocks with Good/Neutral Sentiment:**
+
+*   **Best Buy (BBY):** Reported fourth-quarter results that exceeded Wall Street’s expectations.
+*   **Chipotle Mexican Grill (CMG):** The company has said its diverse supply chain could help it withstand tariffs.
+*   **Super Micro Computer (SMCI):** Recovered in the afternoon and gained 10%.
+*   **Lowe's (LOW):** Shares have risen due to the company exceeding Wall Street expectations with sales of $18.6 billion and earnings of $1.99 per share.
+*   **Microsoft (MSFT):**  Evercore ISI analysts seem positive on MSFT, despite the broader tech stock decline.
+*   **Aberdeen:** stock price jumped by 9% in London on the news, taking its year-to-date gain to about 26% due to rebranding.
+*   **Amazon (AMZN):** While volatile, analysts find AMZN stock attractive as its current valuation is very high.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA):**  Monitor how export controls and AI spending trends evolve.
+*   **Tesla (TSLA):**  Watch for further tariff-related news and how it impacts pricing and sales, especially in China.
+*   **Best Buy (BBY):**  See if price increases materialize and how consumers react.
+*   **Target (TGT):**  Observe if the expected profit decline occurs and how the company manages tariff pressures.
+*   **Microsoft (MSFT), Amazon (AMZN), Google (GOOGL), Meta (META):**  These "Big Tech" names are mentioned as potential targets for retaliatory measures. Any news of investigations or restrictions would be significant.
+*   **Lowe's (LOW):** Due to the company exceeding Wall Street expectations.
+*   **Bank of America (BAC):** Capital flows into Bank of America’s debt after investors moved away in recent days, as equity prices swoon.
+
+**Overall Advice:**
+
+The market is currently highly sensitive to tariff-related news. Be cautious about sectors heavily reliant on international trade (technology, automotive, retail). Look for companies with strong balance sheets and diverse supply chains, as they may be better positioned to weather the storm. Diversification is crucial in this uncertain environment.

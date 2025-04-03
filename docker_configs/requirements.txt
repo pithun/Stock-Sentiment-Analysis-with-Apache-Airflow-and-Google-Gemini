@@ -1,5 +1,6 @@
 protobuf==4.25.3
-dbt-vertica
+dbt-core==1.7.3
+dbt-vertica==1.7.3
 joblib==1.4.2
 nltk==3.9.1
 cloudpickle==3.1.1
@@ -9,4 +10,5 @@ numpy==1.26.3
 pandas==2.1.4
 Markdown==3.5.2
 apache-airflow-providers-vertica==4.0.0
+apache-airflow-providers-common-sql==1.19.0
 lightgbm==4.5.0

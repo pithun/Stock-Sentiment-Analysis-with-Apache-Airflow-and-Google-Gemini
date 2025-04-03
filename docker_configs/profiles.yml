@@ -3,7 +3,7 @@ Airflow_Stock_Sentiment_Project:
     dev:
       connection_load_balance: true
       database: VMart
-      host: 127.0.0.1
+      host: vertica
       oauth_access_token: ''
       password: ''
       port: 5433

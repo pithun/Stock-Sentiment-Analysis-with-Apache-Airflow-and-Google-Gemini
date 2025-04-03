@@ -1,0 +1,49 @@
+Okay, here's a summary of the stock news you provided:
+
+**1. Stocks Mentioned:**
+
+*   **Cryptocurrencies:** Bitcoin (BTC), Ethereum (ETH), XRP, Solana (SOL), Cardano (ADA)
+*   **Technology:** Nvidia (NVDA), Apple (AAPL), Taiwan Semiconductor (TSMC), Super Micro Computer (SMCI), Dell (DELL), Arista Networks, Service Now, C3.AI, Broadcom (AVGO), Intel (INTC), Xiaomi, ZTE
+*   **Retail:** Urban Outfitters (URBN), American Eagle Outfitters (AEO), Cal Maine Foods (CALM), VIP Shops ADR (VIPS), Amazon (AMZN), Taboola
+*   **Finance:** BNP Paribas, Cathay General Bancorp (CATY), Robinhood (HOOD), DoubleVerify, AppLovin, The Trade Desk, Magnite, PubMatic
+*   **Energy:** Total Energies
+*   **Pharmaceuticals:** Eli Lilly (LLY)
+*   **Mining:** Harmony Mining (HMY)
+*   **Autos:** Ford (F), General Motors (GM), Stellantis (STLA), Tesla (TSLA), InterGlobe Aviation, Li Auto, Hyundai
+*   **Other:** Core Scientific (CORZ), Bitdeer (BTDR), Semler Scientific (SMLR), MicroStrategy (MSTR), Siemens AG, Weyerhaeuser, Las Vegas Sands (LVS), Palantir (PLTR), Oracle (ORCL), Salesforce (CRM), Canopy Growth Corp., Mixue Group
+
+**2. Stocks with Negative Sentiment:**
+
+*   **Nvidia (NVDA):** Faced significant losses due to concerns over AI-related spending, export controls, and tariff implications.
+*   **Taiwan Semiconductor (TSMC):** Declined amidst concerns over servers shipped to Malaysia containing chips barred from China
+*   **Intel (INTC):** Declined amidst concerns over servers shipped to Malaysia containing chips barred from China
+*   **Broadcom (AVGO):** Declined amidst concerns over servers shipped to Malaysia containing chips barred from China
+*   **Urban Outfitters (URBN):** Flagship brand experiencing negative growth.
+*   **Core Scientific (CORZ):** Down year-to-date
+*   **Semler Scientific (SMLR):** Sizable losses due to DOJ investigation
+*   **Kroger (KR):** Stock fell after CEO resignation.
+*    **Canopy Growth Corp:** Fell to all-time low after stock announcement
+
+**3. Stocks with Positive Sentiment:**
+
+*   **Eli Lilly (LLY):** Attractive but volatile due to high valuation, but strong performance and financial condition.
+*   **Tesla (TSLA):** Surged after analyst upgrade.
+*   **Palantir (PLTR):** Wedbush analysts believe it will benefit from AI focus and government efficiency initiatives.
+*   **Las Vegas Sands (LVS):** Rose after debt restructuring
+*   **Urban Outfitters (URBN):** Record sales
+*   **BitCoin (BTC)** following Trumps announcement of Strategic Crypto Reserve
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA) & Super Micro Computer (SMCI):** Watch for developments regarding export controls and their impact on the AI industry.
+*   **Eli Lilly (LLY):** Monitor for volatility and potential impact of import tariffs.
+*   **Palantir (PLTR):** Track its ability to secure government contracts and capitalize on the AI trend.
+*   **Urban Outfitters (URBN):** Monitor how the flagship brand can catch up with the growth of Free People and Anthropologie
+*   **Bitcoin (BTC), XRP:** Monitor volatility around potential tariff escalations from the US administration
+
+**Additional Notes:**
+
+*   **Tariffs:** President Trump's tariffs on imports from Canada, Mexico, and China are a major concern, impacting various sectors, including autos and technology.
+*   **European Equities:** Europe is emerging as a compelling destination for value-oriented investors.
+*   **AI Sector:** The AI sector is experiencing volatility and reassessment of risks.
+*   **Market Fragility:** The overall stock market is considered fragile due to consumer pullback and trade uncertainties.

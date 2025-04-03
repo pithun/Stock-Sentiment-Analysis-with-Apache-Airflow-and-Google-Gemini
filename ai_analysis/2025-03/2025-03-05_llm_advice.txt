@@ -1,0 +1,35 @@
+Okay, here's a summarized analysis of the stock news you provided:
+
+**1. Stocks Mentioned:**
+
+*   **China/Hong Kong:** Full Truck Alliance (YMM), Xiaomi, Tencent, Alibaba, Meituan, Semiconductor Manufacturing International (SMIC), CK Hutchison (Hong Kong ticker 1), Ubtech Robotics, Hua Hong Semiconductors, CATL
+*   **US:** General Motors (GM), Ford (F), Moderna (MRNA), Novo Nordisk (NVO), CrowdStrike (CRWD), Tesla (TSLA), Trump Media and Technology Group, Nvidia (NVDA), Advanced Micro Devices(AMD), General Dynamics (GD), Lockheed Martin (LMT), Boeing (BA), Palantir
+*   **Europe:** Rheinmetall (Germany), Hensoldt (Germany), Leonardo (Italy), Thales (France), BAE Systems (UK), Eutelsat (France)
+*   **Other:** Polestar, BYD (China)
+
+**2. Stocks with Bad Sentiment:**
+
+*   **CrowdStrike (CRWD):** Disappointing earnings guidance led to a stock drop.
+*   **Li Auto (LI):** Sluggish sales growth, underperforming MEGA van, and lagging in autonomous driving tech.
+*   **Tesla (TSLA):** Plummeting sales in several countries, anti-Musk protests, and increased competition.
+*   **Nvidia (NVDA):** Concerns over U.S. export controls to China, potential tariff impacts, and increasing competition.
+*    **Boeing (BA):** Vulnerable to trade disruptions, weak operating performance, and financial condition.
+*   **Bristol Myers Squibb (BMY):** Declining sales of legacy drugs and anticipated generic competition.
+
+**3. Stocks with Good Sentiment:**
+
+*   **Xiaomi, Tencent, Alibaba, Meituan, Semiconductor Manufacturing International (SMIC), CK Hutchison:** Strong performance in Hong Kong market.
+*   **Full Truck Alliance (YMM):** Announced good Q4 results
+*   **General Motors (GM) & Ford (F):** Surged on potential tariff relief news.
+*   **Moderna (MRNA):** Stock purchases by CEO and board director boosted investor confidence.
+*   **Novo Nordisk (NVO):** Plans to sell Wegovy at a lower price through an online pharmacy.
+*   **European Defense Stocks (Rheinmetall, Hensoldt, Leonardo, Thales, BAE Systems):** Benefiting from increased European defense spending.
+*   **Eutelsat (ETL):** Shares skyrocketed amid concerns about Ukraine's access to Starlink.
+*   **General Dynamics (GD):** Stronger revenue growth and profitability compared to Lockheed Martin.
+*   **BYD (China):** Recorded a 90.4% increase in vehicle sales.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Li Auto (LI):** Potential recovery hinges on the success of new EV models and increased foreign capital inflows into China. Watch for the launch of the Li i8 SUV.
+*   **Nvidia (NVDA):** Monitor developments regarding U.S. export controls to China, potential tariff impacts, and increasing competition. Also, keep track of TSMC's fab construction in the US.
+*   **Boeing (BA):** A possible value trap, continue to avoid.
