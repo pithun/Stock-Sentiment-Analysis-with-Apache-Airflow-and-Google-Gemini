@@ -1,0 +1,10 @@
+Okay, I can help you analyze the stock news and provide a summarized investment advice. However, you haven't provided me with the actual news data! Please paste the news articles or provide a link to the news source so I can analyze the sentiment and give you a proper response.
+
+Once you provide the news, I will do the following:
+
+1.  **Identify Mentioned Stocks:** I will extract all the ticker symbols and company names mentioned in the news.
+2.  **Assess Sentiment:** I will analyze the context surrounding each stock mention to determine if the news sentiment is positive, negative, or neutral. I'll look for keywords, phrases, and overall tone to gauge market perception.
+3.  **Categorize Sentiment:** I will categorize each stock as having either "Bad Sentiment" or "Good Sentiment" based on my analysis.
+4.  **Investment Advice (Keep an Eye On):** Based on the sentiment analysis and any potential catalysts or risks identified in the news, I will suggest which stock(s) you should "Keep an Eye On." This will be based on potential for movement, either positive or negative, stemming from the news.
+
+I look forward to helping you once you provide the news data.

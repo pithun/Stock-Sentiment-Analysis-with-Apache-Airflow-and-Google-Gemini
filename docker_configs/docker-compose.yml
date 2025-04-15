@@ -1,7 +1,6 @@
-version: '3.8'
 services:
   airflow:
-    image: my_airflow_image:test_v1
+    image: stock-sentiment-analysis-with-apache-airflow-and-google-gemini:v1
     ports:
       - "8000:8080"
     entrypoint: /app/News-Api-Project/entrypoint.sh

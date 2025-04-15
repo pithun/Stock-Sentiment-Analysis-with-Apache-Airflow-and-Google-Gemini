@@ -291,13 +291,14 @@ I compiled all the codes and model files I created into a single image and have 
 ### DBT Section
 11. The profiles.yml which is added to the custom image contains the host credentials and you don't have to worry about that.
 ### Email Section
-12. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file.
+12. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file. Configure the following parameters.
       ```bash
-      export AIRFLOW__EMAIL__SMTP_HOST=smtp.gmail.com
-      export AIRFLOW__EMAIL__SMTP_PORT=587
-      export AIRFLOW__EMAIL__SMTP_USER=youremail@gmail.com
-      export AIRFLOW__EMAIL__SMTP_STARTTLS=True
-      export AIRFLOW__EMAIL__SMTP_PASSWORD=pwd
+      smtp_host = smtp.gmail.com
+      smtp_starttls = True
+      smtp_user = user@gmail.com
+      smtp_password = <pwd>
+      smtp_port = 587
+      smtp_mail_from = user@gmail.com
       ```
 ## General 
 13. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)

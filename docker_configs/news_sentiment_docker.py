@@ -53,7 +53,7 @@ SMTP_PASSWORD = airflow_vars['smtp_password']
 # Default arguments for the DAG
 default_args = {
     'owner': 'airflow',
-    'start_date': dt.datetime(2024, 12, 1),
+    'start_date': dt.datetime(2025, 4, 1),
 }
 
 # Defining path variables
@@ -427,7 +427,7 @@ def notify_email(**context):
 
 # Define the DAG and its tasks using a context manager
 with DAG(dag_id="Stock_sentiment_analysis", default_args=default_args, 
-         schedule_interval="@daily", catchup=False) as dag:
+         schedule_interval="@daily", catchup=True) as dag:
 
     # Task: Retrieve news data from the API and save as CSV
     get_data = PythonOperator(

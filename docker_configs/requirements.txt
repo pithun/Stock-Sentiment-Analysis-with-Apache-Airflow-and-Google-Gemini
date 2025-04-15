@@ -9,6 +9,7 @@ beautifulsoup4==4.12.3
 numpy==1.26.3
 pandas==2.1.4
 Markdown==3.5.2
-apache-airflow-providers-vertica==4.0.0
+apache-airflow-providers-vertica==3.8.0
 apache-airflow-providers-common-sql==1.19.0
 lightgbm==4.5.0
+sqlparse==0.4.4
