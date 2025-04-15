@@ -72,7 +72,8 @@ The initial set of articles were classified into stock related and non stock rel
 These can also seen in the requirements.txt file of the `docker_configs` dir of this repo.
 ```bash
 protobuf==4.25.3 # Required for specific compatibility
-dbt-vertica
+dbt-core==1.7.3
+dbt-vertica==1.7.3
 joblib==1.4.2
 nltk==3.9.1
 cloudpickle==3.1.1
@@ -81,8 +82,10 @@ beautifulsoup4==4.12.3
 numpy==1.26.3
 pandas==2.1.4
 Markdown==3.5.2
-apache-airflow-providers-vertica==4.0.0
+apache-airflow-providers-vertica==3.8.0
+apache-airflow-providers-common-sql==1.19.0
 lightgbm==4.5.0
+sqlparse==0.4.4
 ```
 
 ## Directory Structure of Main Project Folder
@@ -199,40 +202,8 @@ def LLM_advice(**context):
 
 ## DAG Structure
 
+![Alt text](other/dag_structure.png)
 
-```
-          ┌─────────────────────────────┐
-          │   Airflow DAG Scheduler     │
-          └────────────┬────────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │  Extract News Articles    │  (get_news_data)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │   Filter & Label News     │  (get_only_stock_news)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │   Load Data into Vertica  │  (SQLExecuteQueryOperator)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │  Compress/Archive Data    │  (BranchPythonOperator)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │    dbt Transformation     │  (BashOperator)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │   Generate AI Insights    │  (LLM_advice)
-         └─────────────┬─────────────┘
-                       │
-         ┌─────────────▼─────────────┐
-         │   Send Email Notification │  (send_ai_stock_insight)
-         └───────────────────────────┘
-```
 *Figure: High-level architecture of the Stock Sentiment Analysis pipeline*
 
 
