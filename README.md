@@ -271,6 +271,16 @@ I compiled all the codes and model files I created into a single image and have 
       smtp_port = 587
       smtp_mail_from = user@gmail.com
       ```
+Alternatively, use
+      ```bash
+      smtp_host = smtp.gmail.com
+      smtp_starttls = False
+      smtp_ssl = True
+      smtp_user = user@gmail.com
+      smtp_password = <pwd>
+      smtp_port = 465
+      smtp_mail_from = user@gmail.com
+      ```
 ## General 
 13. Turn on the DAG in airflow and receive amazing news insights directly in your mail box.
 
