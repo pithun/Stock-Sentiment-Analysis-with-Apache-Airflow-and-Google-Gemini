@@ -262,7 +262,7 @@ I compiled all the codes and model files I created into a single image and have 
 ### DBT Section
 11. The profiles.yml which is added to the custom image contains the host credentials and you don't have to worry about that.
 ### Email Section
-12. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the file. Configure the following parameters.
+12. The email task used the airflow's default `send email` function and thus, relevant email sections in the `airflow.cfg` must be updated with the below commands. You can directly make the relevant changes in the `[smtp]` section of the mounted `docker_airflow.cfg` file in the `other_stuff` dir. Configure the following parameters.
       ```bash
       smtp_host = smtp.gmail.com
       smtp_starttls = True
@@ -272,7 +272,7 @@ I compiled all the codes and model files I created into a single image and have 
       smtp_mail_from = user@gmail.com
       ```
 ## General 
-13. Turn on the DAG in airflow and receive amazing news insights directly in your mail box. (Add image below)
+13. Turn on the DAG in airflow and receive amazing news insights directly in your mail box.
 
 
 
