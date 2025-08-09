@@ -5,7 +5,8 @@ services:
       - "8000:8080"
     entrypoint: /app/News-Api-Project/entrypoint.sh
     volumes:
-      - airflow-db:/home/airflow/airflow.db
+      - airflow-db:/home/airflow/
+      - ./dags:/home/airflow/dags
       - ./other_stuff:/home/airflow/other_stuff
       - ./other_stuff/docker_airflow.cfg:/home/airflow/airflow.cfg
     restart: on-failure
