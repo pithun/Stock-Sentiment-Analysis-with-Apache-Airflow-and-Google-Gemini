@@ -1,0 +1,66 @@
+services:
+  - type: web
+    name: airflow
+    env: docker
+    plan: starter
+    autoDeploy: false
+    image:
+      url: docker.io/pithun/stock-sentiment-analysis-with-apache-airflow-and-google-gemini:v1
+    envVars:
+      - key: AIRFLOW__CORE__SQL_ALCHEMY_CONN
+        value: vertica+vertica_python://dbadmin:password123@vertica:5433/mydb
+      - key: AIRFLOW__CORE__EXECUTOR
+        value: LocalExecutor
+      - key: AIRFLOW__WEBSERVER__RBAC
+        value: "True"
+      - key: AIRFLOW__WEBSERVER__AUTHENTICATE
+        value: "True"
+      - key: AIRFLOW__WEBSERVER__AUTH_BACKEND
+        value: "airflow.contrib.auth.backends.password_auth"
+      - key: AIRFLOW_USERNAME
+        value: admin        # default username
+      - key: AIRFLOW_PASSWORD
+        value: strongpass!  # change to something safe
+      - key: AIRFLOW_FIRSTNAME
+        value: Admin
+      - key: AIRFLOW_LASTNAME
+        value: User
+      - key: AIRFLOW_EMAIL
+        value: admin@example.com
+      - key: AIRFLOW_ROLE
+        value: Admin
+      - key: DAGS_GIT_REPO
+        value: https://github.com/pithun/Stock-Sentiment-Analysis-with-Apache-Airflow-and-Google-Gemini.git
+      - key: DAGS_GIT_BRANCH
+        value: master
+    disk:
+      name: airflow-db
+      mountPath: /home/airflow
+      sizeGB: 10
+    ports:
+      - port: 8080
+        protocol: tcp
+        httpPort: true
+    dockerCommand: /app/render-start.sh
+
+  - type: web
+    name: vertica
+    env: docker
+    plan: starter
+    autoDeploy: false
+    image:
+      url: docker.io/vertica/vertica-ce:24.1.0-0
+    envVars:
+      - key: DATABASE_USER
+        value: dbadmin
+      - key: DATABASE_PASSWORD
+        value: password123
+    disk:
+      name: vertica-data
+      mountPath: /home/dbadmin/mydb
+      sizeGB: 20
+    ports:
+      - port: 5433
+        protocol: tcp
+      - port: 5444
+        protocol: tcp

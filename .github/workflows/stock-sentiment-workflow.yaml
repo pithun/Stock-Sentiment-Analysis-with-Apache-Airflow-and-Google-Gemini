@@ -1,0 +1,56 @@
+name: Daily Stock Sentiment Analysis
+
+on:
+  schedule:
+    # Run every day at 12:00 AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  analyze-stock-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Download NLTK data
+      run: |
+        python -c "import nltk; nltk.download('wordnet', quiet=True); nltk.download('averaged_perceptron_tagger_eng', quiet=True); nltk.download('stopwords', quiet=True)"
+    
+    - name: Run stock sentiment analysis
+      env:
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SMTP_URL: ${{ secrets.SMTP_URL }}
+        SMTP_USER: ${{ secrets.SMTP_USER }}
+        SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        TO_EMAIL: ${{ secrets.TO_EMAIL }}
+      run: |
+        python main.py
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+    
+    - name: Commit and push data
+      run: |
+        git add data/ labeled_data/ ai_analysis/
+        git diff --staged --quiet || git commit -m "Daily stock sentiment analysis - $(date +'%Y-%m-%d')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
