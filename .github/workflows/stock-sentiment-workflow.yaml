@@ -31,17 +31,31 @@ jobs:
       run: |
         python -c "import nltk; nltk.download('wordnet', quiet=True); nltk.download('averaged_perceptron_tagger_eng', quiet=True); nltk.download('stopwords', quiet=True)"
     
-    - name: Run stock sentiment analysis
+    - name: Download News
       env:
         NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+      run: |
+        python api_data_fetcher.py
+
+    - name: Classify News Articles
+      run: |
+        python news_classifier.py
+
+    - name: Extract Stock News and Get AI Advice
+      env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python ai_stock_advisor.py
+
+    - name: Get Email
+      env:
         SMTP_URL: ${{ secrets.SMTP_URL }}
         SMTP_USER: ${{ secrets.SMTP_USER }}
         SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
         TO_EMAIL: ${{ secrets.TO_EMAIL }}
       run: |
-        python main.py
-    
+        python email_notifier.py
+
     - name: Configure Git
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"

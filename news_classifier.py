@@ -6,11 +6,14 @@ import pathlib
 import os
 from joblib import load
 import cloudpickle
+from main import main
 
 
 def load_vectorizer(model_path):
     """Load the pre-trained TF-IDF vectorizer"""
+    print("Loading vectorizer...")
     with open(f"{model_path}/tfidf_vectorizer_300.pkl", "rb") as f:
+        print("Vectorizer loaded.")
         return cloudpickle.load(f)
 
 
@@ -31,19 +34,27 @@ def classify_news(data_path, labeled_data_path, model_path, exec_date):
     file_name = f'{exec_date}_news_file.txt'
     
     # Create required directories
-    pathlib.Path(f"{labeled_data_path}{exec_month}").mkdir(parents=True, exist_ok=True)
+    pathlib.Path(f"{labeled_data_path}/{exec_month}").mkdir(parents=True, exist_ok=True)
     pathlib.Path(model_path).mkdir(parents=True, exist_ok=True)
     
     # Load and clean the dataset
-    df = pd.read_csv(f"{data_path}{exec_month}/{file_name}")
-    df.drop('Unnamed: 0', axis=1, inplace=True)
+    df = pd.read_csv(f"{data_path}/{exec_month}/{file_name}")
+    try:
+        df.drop('Unnamed: 0', axis=1, inplace=True)
+    except KeyError:
+        pass
     df.dropna(inplace=True)
+
+    display(df.head())
     
+    print("Vectorizing content...")
     # Load vectorizer and transform content
     tfidf_loaded = load_vectorizer(model_path)
     char_array = tfidf_loaded.transform(df.content).toarray()
     frequency_matrix = pd.DataFrame(char_array, columns=tfidf_loaded.get_feature_names_out())
     
+
+    print("Classifying articles...")
     # Load the model and predict labels
     model = load(f"{model_path}/lgb.joblib")
     model_pred = model.predict(frequency_matrix)
@@ -51,7 +62,10 @@ def classify_news(data_path, labeled_data_path, model_path, exec_date):
     df["content"] = df["content"].str.replace("\n", " ", regex=True)
     
     # Save the labeled data as line-delimited JSON (.jsonl)
-    output_path = f"{labeled_data_path}{exec_month}/{file_name.replace('.txt', '_labeled.jsonl')}"
+    output_path = f"{labeled_data_path}/{exec_month}/{file_name.replace('.txt', '_labeled.jsonl')}"
     df.to_json(output_path, orient="records", lines=True)
     
     return output_path
+
+if __name__ == "__main__":
+    main(classify_news, segment="classify")

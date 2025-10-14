@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
 from email import encoders
 import markdown
-
+from main import main
 
 def format_file_to_html(file_path):
     """
@@ -131,3 +131,6 @@ def send_email_notification(smtp_url, smtp_user, smtp_password, to_email, file_p
     server.quit()
     
     print(f"Email sent successfully to {to_email}")
+
+if __name__ == "__main__":
+    main(send_email_notification, segment="email")

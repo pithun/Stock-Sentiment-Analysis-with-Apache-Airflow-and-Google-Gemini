@@ -4,9 +4,11 @@ Module for fetching news data from News API
 import requests
 import pandas as pd
 import re
+import sys
 import os
 import pathlib
 from bs4 import BeautifulSoup
+from main import main
 
 
 def get_full_article(url):
@@ -88,4 +90,7 @@ def fetch_news_data(api_key, exec_date, data_path):
     output_path = f"{data_path}{exec_month}/{file_name}"
     news_df.to_csv(output_path)
     
-    return output_path
+    return output_path`
+    
+if __name__ == "__main__":
+    main(fetch_news_data, segment="data")

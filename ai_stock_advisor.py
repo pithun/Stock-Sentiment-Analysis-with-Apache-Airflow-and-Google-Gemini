@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from google import genai
 from google.genai import types
+from main import main
 
 
 def extract_stock_news(labeled_data_path, exec_date):
@@ -72,3 +73,7 @@ def generate_ai_advice(gemini_api_key, stock_news, ai_content_path, exec_date):
         f.write(response.text)
     
     return llm_output
+
+if __name__ == "__main__":
+    main(extract_stock_news, segment="reduce")
+    main(generate_ai_advice, segment="llm")
