@@ -10,7 +10,7 @@ from datetime import datetime
 #from email_notifier import send_email_notification
 
 
-def main(function, segment = "data"):
+def main(functions={}, segment = "data"):
     """Main execution function"""
     
     # Define paths
@@ -33,6 +33,7 @@ def main(function, segment = "data"):
         # Step 1: Fetch news data
         print("Step 1: Fetching news data from API...")
         try:
+            function = functions.get('fetch_news_data')
             csv_path = function(NEWS_API_KEY, exec_date, data_path)
             print(f"✓ News data saved to {csv_path}")
         except Exception as e:
@@ -43,29 +44,31 @@ def main(function, segment = "data"):
         # Step 2: Classify news
         print("Step 2: Classifying news articles...")
         try:
+            function = functions.get('classify_news')
             labeled_path = function(data_path, labeled_data_path, model_path, exec_date)
             print(f"✓ Labeled data saved to {labeled_path}")
         except Exception as e:
             print(f"✗ Error classifying news: {e}")
             sys.exit(1)
     
-    elif segment=="reduce":
+    elif segment=="reduce and llm":
+        GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
+
         # Step 3: Extract stock news
         print("Step 3: Extracting stock-related news...")
         try:
-            stock_news = function(labeled_data_path, exec_date)
+            function1 = functions.get('extract_stock_news')
+            function2 = functions.get('generate_ai_advice')
+            stock_news = function1(labeled_data_path, exec_date)
             print(f"✓ Found {len(stock_news)} stock-related articles")
         except Exception as e:
             print(f"✗ Error extracting stock news: {e}")
             sys.exit(1)
-    
-    elif segment=="llm":
-        GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
         # Step 4: Generate AI advice
         print("Step 4: Generating AI stock advice...")
         try:
-            advice_path = function(GEMINI_API_KEY, stock_news, ai_content_path, exec_date)
+            advice_path = function2(GEMINI_API_KEY, stock_news, ai_content_path, exec_date)
             print(f"✓ AI advice saved to {advice_path}")
         except Exception as e:
             print(f"✗ Error generating AI advice: {e}")
@@ -76,10 +79,11 @@ def main(function, segment = "data"):
         SMTP_USER = os.environ.get('SMTP_USER')
         SMTP_PASSWORD = os.environ.get('SMTP_PASSWORD')
         TO_EMAIL = os.environ.get('TO_EMAIL', 'udohchigozie2017@gmail.com')
-
+        
         # Step 5: Send email notification
         print("Step 5: Sending email notification...")
         try:
+            function = functions.get('send_email_notification')
             function(SMTP_URL, SMTP_USER, SMTP_PASSWORD, TO_EMAIL, advice_path, exec_date)
             print(f"✓ Email sent successfully to {TO_EMAIL}")
             print(f"\n✓ Workflow completed successfully for {exec_date}")

@@ -93,4 +93,5 @@ def fetch_news_data(api_key, exec_date, data_path):
     return output_path
     
 if __name__ == "__main__":
-    main(fetch_news_data, segment="data")
+    functions = {'fetch_news_data': fetch_news_data}
+    main(functions=functions, segment="data")

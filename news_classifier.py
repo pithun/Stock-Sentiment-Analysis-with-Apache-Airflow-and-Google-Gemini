@@ -69,4 +69,5 @@ def classify_news(data_path, labeled_data_path, model_path, exec_date):
     return output_path
 
 if __name__ == "__main__":
-    main(classify_news, segment="classify")
+    functions = {'classify_news': classify_news}
+    main(functions=functions, segment="classify")

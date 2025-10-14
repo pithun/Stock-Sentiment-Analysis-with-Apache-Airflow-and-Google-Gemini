@@ -75,5 +75,8 @@ def generate_ai_advice(gemini_api_key, stock_news, ai_content_path, exec_date):
     return llm_output
 
 if __name__ == "__main__":
-    main(extract_stock_news, segment="reduce")
-    main(generate_ai_advice, segment="llm")
+    functions = {
+        'extract_stock_news': extract_stock_news,
+        'generate_ai_advice': generate_ai_advice
+    }
+    main(functions=functions, segment="reduce_and_llm")

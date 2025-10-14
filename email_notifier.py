@@ -133,4 +133,5 @@ def send_email_notification(smtp_url, smtp_user, smtp_password, to_email, file_p
     print(f"Email sent successfully to {to_email}")
 
 if __name__ == "__main__":
-    main(send_email_notification, segment="email")
+    functions = {'send_email_notification': send_email_notification}
+    main(functions=functions, segment="email")
