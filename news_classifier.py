@@ -45,7 +45,7 @@ def classify_news(data_path, labeled_data_path, model_path, exec_date):
         pass
     df.dropna(inplace=True)
 
-    display(df.head())
+    #display(df.head())
     
     print("Vectorizing content...")
     # Load vectorizer and transform content
