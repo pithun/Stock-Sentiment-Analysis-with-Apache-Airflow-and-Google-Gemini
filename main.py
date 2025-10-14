@@ -23,12 +23,11 @@ def main(functions={}, segment = "data"):
     # Get current date
     exec_date = "2025-10-12"#datetime.now().strftime("%Y-%m-%d")
     
-    print(f"Starting workflow for {exec_date}")
-    
-    
     if segment=="data":
         # Get environment variables
         NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
+        
+        print(f"Starting workflow for {exec_date}")
 
         # Step 1: Fetch news data
         print("Step 1: Fetching news data from API...")
@@ -74,17 +73,16 @@ def main(functions={}, segment = "data"):
             print(f"✗ Error generating AI advice: {e}")
             sys.exit(1)
     
-    elif segment=="email":
         SMTP_URL = os.environ.get('SMTP_URL')
         SMTP_USER = os.environ.get('SMTP_USER')
         SMTP_PASSWORD = os.environ.get('SMTP_PASSWORD')
         TO_EMAIL = os.environ.get('TO_EMAIL', 'udohchigozie2017@gmail.com')
-        
+
         # Step 5: Send email notification
         print("Step 5: Sending email notification...")
         try:
-            function = functions.get('send_email_notification')
-            function(SMTP_URL, SMTP_USER, SMTP_PASSWORD, TO_EMAIL, advice_path, exec_date)
+            function3 = functions.get('send_email_notification')
+            function3(SMTP_URL, SMTP_USER, SMTP_PASSWORD, TO_EMAIL, advice_path, exec_date)
             print(f"✓ Email sent successfully to {TO_EMAIL}")
             print(f"\n✓ Workflow completed successfully for {exec_date}")
         except Exception as e:
