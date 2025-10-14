@@ -41,20 +41,15 @@ jobs:
       run: |
         python news_classifier.py
 
-    - name: Extract Stock News and Get AI Advice
+    - name: Extract Stock News, Get AI Advice and  send mail
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        SMTP_URL: ${{ variables.SMTP_URL }}
+        SMTP_USER: ${{ variables.SMTP_USER }}
+        TO_EMAIL: ${{ variables.TO_EMAIL }}
       run: |
         python ai_stock_advisor.py
-
-    - name: Get Email
-      env:
-        SMTP_URL: ${{ secrets.SMTP_URL }}
-        SMTP_USER: ${{ secrets.SMTP_USER }}
-        SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-        TO_EMAIL: ${{ secrets.TO_EMAIL }}
-      run: |
-        python email_notifier.py
 
     - name: Configure Git
       run: |

@@ -81,4 +81,4 @@ if __name__ == "__main__":
         'generate_ai_advice': generate_ai_advice,
         'send_email_notification': send_email_notification
     }
-    main(functions=functions, segment="reduce_and_llm")
+    main(functions=functions, segment="reduce, llm and email")

@@ -50,7 +50,7 @@ def main(functions={}, segment = "data"):
             print(f"✗ Error classifying news: {e}")
             sys.exit(1)
     
-    elif segment=="reduce and llm":
+    elif segment=="reduce, llm and email":
         GEMINI_API_KEY = os.environ.get('GEMINI_API_KEY')
 
         # Step 3: Extract stock news
