@@ -50,6 +50,7 @@ def classify_news(data_path, labeled_data_path, model_path, exec_date):
     print("Vectorizing content...")
     # Load vectorizer and transform content
     tfidf_loaded = load_vectorizer(model_path)
+    
     char_array = tfidf_loaded.transform(df.content).toarray()
     frequency_matrix = pd.DataFrame(char_array, columns=tfidf_loaded.get_feature_names_out())
     
