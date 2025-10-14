@@ -45,9 +45,9 @@ jobs:
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-        SMTP_URL: ${{ variables.SMTP_URL }}
-        SMTP_USER: ${{ variables.SMTP_USER }}
-        TO_EMAIL: ${{ variables.TO_EMAIL }}
+        SMTP_URL: ${{ vars.SMTP_URL }}
+        SMTP_USER: ${{ vars.SMTP_USER }}
+        TO_EMAIL: ${{ vars.TO_EMAIL }}
       run: |
         python ai_stock_advisor.py
 
