@@ -133,10 +133,10 @@ def send_email_notification(smtp_url, smtp_user, smtp_password, to_emails, file_
     server.starttls()
     server.login(smtp_user, smtp_password)
     text = msg.as_string()
-    server.sendmail(smtp_user, to_email, text)
+    server.sendmail(smtp_user, recipient_list, text)  # Send to all recipients
     server.quit()
     
-    print(f"Email sent successfully to {to_email}")
+    print(f"Email sent successfully to {len(recipient_list)} recipient(s): {', '.join(recipient_list)}")
 
 if __name__ == "__main__":
     functions = {'send_email_notification': send_email_notification}
