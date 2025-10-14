@@ -90,7 +90,7 @@ def fetch_news_data(api_key, exec_date, data_path):
     output_path = f"{data_path}{exec_month}/{file_name}"
     news_df.to_csv(output_path)
     
-    return output_path`
+    return output_path
     
 if __name__ == "__main__":
     main(fetch_news_data, segment="data")
