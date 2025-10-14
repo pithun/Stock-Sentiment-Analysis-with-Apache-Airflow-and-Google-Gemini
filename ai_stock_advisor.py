@@ -5,6 +5,7 @@ import os
 import pandas as pd
 from google import genai
 from google.genai import types
+from email_notifier import send_email_notification
 from main import main
 
 
@@ -77,6 +78,7 @@ def generate_ai_advice(gemini_api_key, stock_news, ai_content_path, exec_date):
 if __name__ == "__main__":
     functions = {
         'extract_stock_news': extract_stock_news,
-        'generate_ai_advice': generate_ai_advice
+        'generate_ai_advice': generate_ai_advice,
+        'send_email_notification': send_email_notification
     }
     main(functions=functions, segment="reduce_and_llm")
