@@ -90,7 +90,7 @@ def format_file_to_html(file_path):
     return html_email
 
 
-def send_email_notification(smtp_url, smtp_user, smtp_password, to_email, file_path, exec_date):
+def send_email_notification(smtp_url, smtp_user, smtp_password, to_emails, file_path, exec_date):
     """
     Formats the AI advice file as an HTML email and sends it to designated recipients.
 
@@ -98,17 +98,23 @@ def send_email_notification(smtp_url, smtp_user, smtp_password, to_email, file_p
         smtp_url (str): SMTP server URL
         smtp_user (str): SMTP username
         smtp_password (str): SMTP password
-        to_email (str): Recipient email address
+        to_emails: comma sepparated email addresses
         file_path (str): Path to the AI advice file
         exec_date (str): Execution date for the subject line
     """
     subject = f"AI Analysis Report on Stock News Today {exec_date}"
     html_content = format_file_to_html(file_path)
+
+    # Parse email addresses (support both comma-separated string and list)
+    if isinstance(to_emails, str):
+        recipient_list = [email.strip() for email in to_emails.split(',')]
+    else:
+        recipient_list = to_emails
     
     # Create message
     msg = MIMEMultipart()
     msg['From'] = smtp_user
-    msg['To'] = to_email
+    msg['To'] =  ', '.join(recipient_list)
     msg['Subject'] = subject
     
     # Attach HTML content
