@@ -102,7 +102,7 @@ def send_email_notification(smtp_url, smtp_user, smtp_password, to_emails, file_
         file_path (str): Path to the AI advice file
         exec_date (str): Execution date for the subject line
     """
-    subject = f"AI Analysis Report on Stock News Today {exec_date}"
+    subject = f"AI Analysis Report on Stock News Yesterday {exec_date}"
     html_content = format_file_to_html(file_path)
 
     # Parse email addresses (support both comma-separated string and list)
