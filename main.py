@@ -3,7 +3,7 @@ Main orchestration script for GitHub Actions workflow
 """
 import os
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 #from api_data_fetcher import fetch_news_data
 #from news_classifier import classify_news
 #from ai_stock_advisor import extract_stock_news, generate_ai_advice
@@ -21,8 +21,9 @@ def main(functions={}, segment = "data"):
     ai_content_path = f"{parent_path}ai_analysis/"
     
     # Get current date
-    exec_date = "2025-10-12"#datetime.now().strftime("%Y-%m-%d")
-    
+    exec_date = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
+    #exec_date = "2025-10-12"#datetime.now().strftime("%Y-%m-%d")
+
     if segment=="data":
         # Get environment variables
         NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
