@@ -1,0 +1,82 @@
+Okay, here's a summarized analysis of the stock news you provided:
+
+**1. Stocks Mentioned:**
+
+*   Amazon (AMZN)
+*   Advanced Micro Devices (AMD)
+*   ASUS
+*   Apple (AAPL)
+*   American Airlines
+*   Alphabet (GOOGL)
+*   Aurobindo Pharma
+*   Bitdeer Technologies (BTDR)
+*   Bitfarms
+*   Bitcoin (BTCUSD)
+*   Boeing
+*   Broadcom
+*   Charles Schwab
+*   DoorDash Inc (NASDAQ:DASH)
+*   DraftKings Inc (NASDAQ:DKNG)
+*   Delta Air Lines
+*   Estee Lauder
+*   Foxconn
+*   GE Aerospace (GE)
+*   Hyundai
+*   Intel (INTC)
+*   Intuitive Surgical (ISRG)
+*   JPMorgan Chase
+*   Kroger
+*   Meta Platforms (META)
+*   Navitas Semiconductor (NVTS)
+*   Nestlé
+*   Nio
+*   Nike
+*   NVIDIA (NVDA)
+*   Opendoor Technologies (OPEN)
+*   Oracle
+*   Palantir
+*   Salesforce (CRM)
+*   SAP
+*   SharpLink Gaming (SBET)
+*   Sprouts Farmers Market, Inc. (NASDAQ:SFM)
+*   Taiwan Semiconductor Manufacturing (TSM)
+*   United Airlines (UAL)
+*   U.S. Bancorp
+*   Veritone, Inc. (NASDAQ:VERI)
+*   Walmart (WMT)
+*   Xiaomi
+*   Xpeng
+*   Zijin Gold International
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Opendoor Technologies (OPEN):** Criticized business model, profitability concerns, significant price drop.
+*   **Nio:** Lawsuit alleging inflated revenue is a major concern.
+*   **American Airlines:** Stubbornly refuses to install seatback screens on most of its domestic fleet.
+*   **Intel (INTC):** Expected earnings are projected to be around break-even at $0.01 per share, according to consensus estimates, while revenues are predicted to decrease by 1.5% to $13.1 billion.
+*   **GE Aerospace (GE):** Currently unattractive.
+*   **Veritone, Inc. (NASDAQ:VERI):** Shares are falling after the California-based company announced an equity offering.
+
+**3. Stocks with Good Sentiment:**
+
+*   **Advanced Micro Devices (AMD):** Improving earnings, recovering CPU market, surging interest in GPUs for AI applications, deal with OpenAI.
+*   **Taiwan Semiconductor Manufacturing (TSM):** Strong Q3 revenue, bullish outlook for AI spending, raised full-year guidance.
+*   **NVIDIA (NVDA):** Financial performance has been extraordinary, making it the most valuable U.S. company at a $4.4 trillion market cap.
+
+*   **Bitdeer Technologies (BTDR):** After a significant increase, the potential for growth is still strong.
+
+*   **Navitas Semiconductor (NVTS):** An explosive rally, hitting its fifth consecutive day of gains and delivering a cumulative return of 96% over that period. This surge has added approximately $1.5 billion in value, bringing the company’s current market capitalization to about $3.2 billion.
+*   **Walmart (WMT):** Higher after closing at record highs the last two days following news of the retailer's collaboration with OpenAI.
+*    **Lise** The exchange, which targets the SME IPO market in France, received a DLT TSS license from France’s financial regulator, the ACPR, under the EU’s Distributed Ledger Technology Pilot Regime, according to a press release.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **AMD, NVDA, TSM:** All three are involved in the AI space, news suggests that they are all good buys.
+*   **UAL:** United Airlines shares are on a decline
+
+**Additional Notes:**
+
+*   **AI Sector:** There's a lot of discussion about a potential AI bubble. Be cautious and do thorough research.
+*   **Market Volatility:** Several articles highlight market frothiness and potential downturns. Keep an eye on economic indicators and manage your risk.
+
+**Disclaimer:** This is just a summary of the news and not financial advice. Consider your own risk tolerance and consult with a financial professional before making any investment decisions.
