@@ -1,0 +1,68 @@
+Here is a summary of the stock news for today:
+
+**1. Stocks Mentioned:**
+
+*   **GE Aerospace (GE):** Upcoming earnings announcement.
+*   **Fortuna Mining:** Recent price drop after reaching a 52-week high.
+*   **Harmony:** Recent price drop, upgraded to "buy" by HSBC Securities.
+*   **Iamgold:** Recent price drop after hitting a new high.
+*   **Newmont:** Recent price drop, but remains above key uptrend lines.
+*   **RTX (RTX):** Upcoming earnings announcement.
+*   **3M (MMM):** Upcoming earnings announcement.
+*   **Philip Morris International (PM):** Upcoming earnings announcement.
+*   **Coca-Cola (KO):** Upcoming earnings announcement.
+*   **Remitly Global, Inc. (RELY)**
+*   **Upstart Holdings, Inc. (UPST)**
+*   **Occidental Petroleum**
+*   **Chubb Limited (CB)**
+*   **Miami International Holdings (MIAX)**
+*   **BioMarin Pharmaceutical Inc. (BMRN)**
+*   **Future plc (FUTR)**
+*   **Toast, Inc. (TOST)**
+*   **Payoneer Global Inc. (PAYO)**
+*   **MicroStrategy (MSTR)**
+*   **Metaplanet**
+*   **Union Pacific (UNP)**
+*   **DraftKings**
+*   **Viking Therapeutics, Inc. (VKTX)**
+*   **Axon (AXON)**
+*   **NVIDIA Corporation (NVDA)**
+*   **Mountview Estates P.L.C. (MTVW)**
+*   **Compass Group**
+*   **Dover Corporation (DOV)**
+*   **Intuit Inc. (INTU)**
+*   **Berkshire Hathaway Inc. (BRK-B)**
+*   **Caterpillar Inc. (CAT)**
+*   **Bank Mandiri (Persero)**
+*   **Wilson Bayly Holmes-Ovcon Limited (WBO)**
+*   **Inter & Co (INTR)**
+*   **Visa Inc. (V)**
+*   **CG Oncology, Inc. (CGON)**
+*   **Ocular Therapeutix Inc. (OCUL)**
+*   **Volkswagen (VWAGY)**
+*   **AMD (AMD)**
+*   **Snap-on (SNA)**
+*   **Lowe’s Companies, Inc. (LOW)**
+
+**2. Stocks with Bad Sentiment:**
+
+*   **RTX (RTX):** Historically exhibits negative one-day returns after earnings announcements.
+*   **Fortuna Mining, Harmony, Iamgold, and Newmont**: Had price drops on Friday.
+
+**3. Stocks with Good Sentiment:**
+
+*   **GE Aerospace (GE):** Historically responds positively to earnings announcements.
+*   **Harmony:** Upgraded to "buy" by HSBC Securities.
+*   **Philip Morris International (PM):** Historically shows positive one-day returns after earnings announcements.
+*   **Coca-Cola (KO):** Historically shows positive one-day returns following earnings announcements.
+*   **Axon (AXON):** TD Cowen reiterated a Buy rating.
+*   **NVIDIA Corporation (NVDA)** Upgraded by HSBC analysts.
+*   **DraftKings**: ARK Investment Management acquired shares and Berenberg upgraded its rating
+*   **AMD (AMD)** Shares have risen 42% in under two weeks
+
+**4. Stocks to Keep an Eye On:**
+
+*   **GE Aerospace (GE), RTX (RTX), 3M (MMM), Philip Morris International (PM), and Coca-Cola (KO):** Pay close attention to their upcoming earnings announcements and how the market reacts. Consider historical patterns and correlation data for potential trading strategies.
+*   **Fortuna Mining, Harmony, Iamgold, and Newmont:** Monitor their price action following Friday's sell-off and see if they can recover.
+*   **NVIDIA Corporation (NVDA):** Keep an eye on this stock due to AI interest and upgrade by HSBC analysts.
+*   **DraftKings**: Pay attention to see if the increase in analyst ratings leads to a price surge.
