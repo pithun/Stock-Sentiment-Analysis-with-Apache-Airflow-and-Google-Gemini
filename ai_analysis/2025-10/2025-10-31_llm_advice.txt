@@ -1,0 +1,62 @@
+Okay, here's a summarized analysis of the stock news you provided:
+
+**1. Stocks Mentioned:**
+
+*   ASML Holding N.V. (ASML)
+*   Tesla
+*   Microsoft (MSFT)
+*   Nvidia (NVDA)
+*   Oracle (ORCL)
+*   Alphabet (GOOGL)
+*   Meta (META)
+*   Amazon (AMZN)
+*   Apple (AAPL)
+*   Novo Nordisk
+*   Pfizer (PFE)
+*   Zoetis (ZTS)
+*   General Motors (GM)
+*   Coca-Cola (KO)
+*   Morgan Stanley (MS)
+*   Broadcom (AVGO)
+*   Lam Research (LRCX)
+*   JPMorgan Chase & Co. (JPM)
+*   Southern Copper (SCCO)
+*   Riot Platforms Inc (RIOT)
+*   Adobe (ADBE)
+*   Salesforce (CRM)
+*   Chipotle Mexican Grill (CMG)
+*   Deckers Outdoor (DECK)
+*   Boston Scientific Corporation (BSX)
+*   Exxon Mobil Corporation
+*   Chevron Corporation
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Meta (META):** Experienced a significant stock drop due to concerns about overspending on AI and rising expenses.
+*   **Chipotle Mexican Grill (CMG):** Stock crashed after cutting its sales forecast due to weaker-than-expected comparable sales and a pullback in spending from its core customers.
+*   **Deckers Outdoor (DECK):** Stock decreased due to cautious outlook for full-year sales, consumer pullback, tariff and cost pressures, and softness in its big brands.
+*   **Pfizer (PFE):** The company has a bid war which might lead to overpaying.
+*    **Oracle (ORCL):** The stock is overvalued, and the analysts believe the prices will go down.
+
+**3. Stocks with Good Sentiment:**
+
+*   **Amazon (AMZN):** Reported a phenomenal quarter with strong sales and AWS growth, leading to a stock pop.
+*   **Apple (AAPL):** Saw a welcome bump in stock price following a quarterly report, with strong iPhone sales projected, and expects best revenue for the December quarter
+*   **Alphabet (GOOGL):** Stock surged after a strong earnings report, analyst upgrades, and momentum in AI and cloud services.
+*   **Nvidia (NVDA):** Continues to reach record highs, driven by AI-related investments and products.
+*   **Novo Nordisk:** New bid might give them the upper hand in the market.
+*   **Zoetis (ZTS):** Offers high margins and the ability to generate cash, making it a good stock.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA):** The high valuation is a point of concern for some analysts, so stay mindful.
+*   **Meta (META):** Watch how their AI investments materialize and if they can reassure investors.
+*   **Amazon (AMZN):** See if they can maintain growth momentum and manage potential job cuts effectively.
+*   **Apple (AAPL):** Monitor iPhone 17 demand and whether Apple can deliver on its revenue projections.
+*   **Southern Copper (SCCO):** The stock is fairly valued, therefore, it is important to keep an eye on its growth.
+*   **Riot Platforms Inc (RIOT):** The company is lagging behind market performance, keep an eye if that changes
+*   **Salesforce (CRM):** the stock is operating within the support range, therefore it is important to monitor its performance.
+*    **Adobe (ADBE):** The stock has higher returns than Oracle.
+
+**Disclaimer:**
+*This analysis is based solely on the provided news snippets and does not constitute financial advice. Please do your own research and consult with a financial advisor before making any investment decisions.*
