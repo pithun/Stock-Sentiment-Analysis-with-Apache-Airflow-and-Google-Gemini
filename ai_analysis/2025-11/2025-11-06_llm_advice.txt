@@ -1,0 +1,60 @@
+Okay, here's a summarized stock sentiment analysis based on the news you provided:
+
+**1. Stocks Mentioned Today:**
+
+*   Tesla (TSLA)
+*   TS Imagine (Private)
+*   Snowflake (SNOW)
+*   Robinhood (HOOD)
+*   Coinbase (COIN)
+*   Gemini (GEMI)
+*   Bullish (BLSH)
+*   Galaxy Digital (GLXY)
+*   MicroStrategy (MSTR)
+*   Hut 8 (HUT)
+*   IREN (IREN)
+*   Cipher Mining (CIFR)
+*   CarMax (KMX)
+*   Idexx Laboratories (IDXX)
+*   Henry Schein (HSIC)
+*   BillionToOne (BLLN)
+*   Meta (META)
+*   Cango (CANG)
+*   Strive (ASST)
+*   Primo Brands Corporation (PRMB)
+*   Amazon (AMZN)
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Robinhood (HOOD):** Down despite earnings beat, potentially due to crypto sell-off correlation.
+*   **Coinbase (COIN):** Lower amid crypto market downturn.
+*   **Gemini (GEMI):** Lower amid crypto market downturn.
+*   **Galaxy Digital (GLXY):** Lower amid crypto market downturn.
+*   **Bullish (BLSH):** Lower amid crypto market downturn.
+*   **MicroStrategy (MSTR):** Declining amid crypto market downturn.
+*   **Hut 8 (HUT):** Down as Bitcoin mining stocks are affected by AI sell-off and crypto prices
+*   **IREN (IREN):** Down as Bitcoin mining stocks are affected by AI sell-off and crypto prices
+*   **Cipher Mining (CIFR):** Down as Bitcoin mining stocks are affected by AI sell-off and crypto prices
+*   **CarMax (KMX):**  Shares significantly lower due to troubling outlook and CEO departure.
+*   **Meta (META):** Shares declined due to concerns about revenue from scams and investigations
+*   **Primo Brands Corporation (PRMB):**  Declined after CEO shake-up and weaker outlook
+*   **Amazon (AMZN):** Concerns about losing ground in the cloud-computing business.
+
+**3. Stocks with Good Sentiment:**
+
+*   **Tesla (TSLA):** Positive sentiment due to shareholder approval of Elon Musk's pay package and bullish forecasts from analysts like Cathie Wood.
+*   **BillionToOne (BLLN):**  Successful IPO, indicating strong investor interest.
+*   **Snap (SNAP):** Positive surge due to partnership with Perplexity.
+*   **Idexx Laboratories (IDXX):** Up more than 12% this month
+*   **Henry Schein (HSIC):** Up more than 12% this month
+*   **Cango (CANG):** Pivot to AI and Bitcoin mining shows that they are expanding operations and can adapt to new tech.
+*   **Strive (ASST):** Increase in shares by 17% shows it has good sentiment.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Tesla (TSLA):** Monitor execution of growth plans and Elon Musk's leadership impact.
+*   **Snowflake (SNOW):** Companies that use AI tech such as Snowflake Intelligence are showing good ROI
+*   **MicroStrategy (MSTR):**  Watch how effectively they leverage their preferred stock for Bitcoin accumulation.
+*   **Cango (CANG):** Company has pivoted into the Bitcoin market.
+*   **Strive (ASST):** Watch how the bitcoin treasury funds are being utilized.
+*   **Amazon (AMZN):** Follow to see if it can win back ground in cloud-computing.
