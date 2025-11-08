@@ -1,0 +1,35 @@
+Here's a summary of the stock news, focusing on sentiment and potential investment advice:
+
+**1. Stocks Mentioned Today:**
+
+*   **Tech/AI:** Nvidia, Palantir, UiPath, Tesla, Microsoft, Omada Health
+*   **Retail/Restaurants:** Chipotle, Cava, Sweetgreen, Beyond Meat
+*   **Travel:** Expedia, Airbnb
+*   **Energy:** Constellation Energy
+*   **Other:** Nokia, POET Technologies, Cummins, Eli Lilly, Novo Nordisk, Apple (iPhone 17)
+*   **Crypto:** Bitcoin, Ether
+
+**2. Negative Sentiment:**
+
+*   **Nvidia:** Restrictions are negatively impacting their business in China.
+*   **Palantir:** Mentioned as a "hyped" stock, potentially overvalued.
+*   **Tesla:** Musk's pay package is controversial, and shares declined after the vote.
+*   **Chipotle, Cava, Sweetgreen:** Facing customer cutbacks due to economic pressures on younger demographics.
+*   **Constellation Energy (CEG):** Reported worse-than-expected earnings, stock fell.
+*   **Bitcoin, Ether:** Market conditions have turned extremely bearish
+
+**3. Positive Sentiment:**
+
+*   **Snap:** Stock surged after AI partnership with Perplexity AI.
+*   **Expedia:** Reported strong earnings and growth, driven by AI and travel demand.
+*   **Airbnb:** Stock jumped in after-hours trading.
+*    **Cummins:** Stock is up due to AI-related sales.
+
+**4. Stocks to Watch:**
+
+*   **Nvidia:** Monitor for potential policy changes in China or new market strategies.
+*   **Palantir, UiPath** Keep an eye on these companies to see if they are able to live up to the market hype
+*   **Chipotle, Cava, Sweetgreen:** Track their efforts to innovate menus and attract customers back.
+*   **Apple (iPhone 17):** Especially the base model, due to its high demand and value proposition.
+*   **Expedia, Airbnb:** Strong earnings and growth, driven by AI and travel demand. Good outlook.
+*    **Tesla:** Monitor whether milestones are met and the overall success of the pay structure.
