@@ -1,0 +1,60 @@
+Okay, here's a summary of the stock news, including sentiment analysis and potential stocks to watch:
+
+**1. Stocks Mentioned:**
+
+*   **Palantir (PLTR):**
+*   **Nvidia (NVDA):**
+*   **Meta (META):**
+*   **Oracle (ORCL):**
+*   **Tesla (TSLA):**
+*   **Apple (AAPL):**
+*   **Amazon (AMZN):**
+*   **Uber (UBER):**
+*   **DoorDash (DASH):**
+*   **Smurfit Westrock Plc (SW):**
+*   **Broadcom (AVGO):**
+*   **Acuity (AYI):**
+*    **AMD (AMD):**
+*    **Pfizer (PFE):**
+*   **Solana Company (HSDT):**
+*   **Forward Industries (FORD):**
+*   **Ether (ETH):**
+*   **Coinbase (COIN):**
+*   **Robinhood (HOOD):**
+*   **Circle (CRCL):**
+*   **Walt Disney Company (DIS):**
+*   **Alibaba (BABA):**
+*   **Opendoor Technologies, Inc. (OPEN):**
+*   **Perion Network Ltd (PERI):**
+*   **Unity Software (U):**
+*   **Oklo Inc. (OKLO):**
+*   **Rivian Automotive Inc. (RIVN):**
+*   **SoftBank Group (SFTBY):**
+*   **Ampere Computing (Not Publicly Traded)**
+*   **ABB (ABB):**
+
+**2. Stocks with Negative Sentiment:**
+
+*   **Palantir (PLTR):** Michael Burry has bet against the stock, and there's debate about whether its valuation is justified. Although, Karp has hit back saying Burry is wrong.
+*   **Nvidia (NVDA):** Michael Burry also has a bearish position on Nvidia.
+*   **Circle (CRCL):** Circle stock tumbled 10% as concerns over falling interest rates and their potential impact on future revenue overshadowed a quarterly earnings beat.
+*   **SoftBank Group (SFTBY):** Shares slumped after selling its Nvidia stake, with concerns about AI investments.
+
+**3. Stocks with Positive Sentiment:**
+
+*   **Broadcom (AVGO):** Seeing high demand due to the AI boom.
+*   **Acuity (AYI):** Has outperformed the market over the past 5 years.
+*    **AMD (AMD):** Stock jumped after positive revenue growth projections.
+*   **Perion Network Ltd (PERI):** Shares rose after the company announced its third-quarter results.
+*   **Unity Software (U):** Stock is still a good buy due to its potential for accelerating growth in 2026.
+*   **Oklo Inc. (OKLO):** Shares jumped despite a wider-than-expected loss.
+*   **On Holding:** Lifted its forecast for the year, bucking recent struggles for running shoe makers, sending shares higher.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Palantir (PLTR) & Nvidia (NVDA):**  Monitor the ongoing debate between Michael Burry and Alex Karp regarding Palantir's valuation and the AI boom in general. Burry's positions and commentary could be a signal.
+*   **AMD (AMD):** Watch to see if AMD can meet its aggressive growth targets.
+*   **Opendoor Technologies, Inc. (OPEN):** CEO's pledge to buy shares is a positive signal; monitor if the purchase is executed.
+*   **Solana Company (HSDT):** Tokenizing shares could be an innovative development.
+
+**Disclaimer:** *This is not financial advice. Please do your own research before making any investment decisions.*
