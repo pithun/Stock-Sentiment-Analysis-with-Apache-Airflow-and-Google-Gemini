@@ -59,7 +59,7 @@ def generate_ai_advice(gemini_api_key, stock_news, ai_content_path, exec_date):
     
     # Generate content
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         config=types.GenerateContentConfig(
             system_instruction=sys_instruct),
         contents=["""These are the recent stock news for today. Please in a summarized way, tell me:
