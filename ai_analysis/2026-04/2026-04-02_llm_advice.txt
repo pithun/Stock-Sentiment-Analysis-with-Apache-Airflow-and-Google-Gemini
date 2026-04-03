@@ -1,0 +1,84 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### Stock Sentiment Report: April 2nd, 2026
+
+**Market Overview:**
+Today's news highlights a mix of company-specific developments and broader market reactions to geopolitical events. President Trump's hawkish speech on the Iran war significantly impacted global oil prices and equity markets, leading to widespread declines in major indices. Meanwhile, several individual stocks saw significant movement based on earnings, acquisition rumors, and strategic pivots.
+
+---
+
+### 1. Stocks Mentioned Today
+
+Here's an alphabetical list of the stocks mentioned in today's news:
+
+*   **Amazon (AMZN)**
+*   **Apple (AAPL)**
+*   **Applied Optoelectronics (AAOI)**
+*   **ASML Holding (ASML)**
+*   **Bristol Myers Squibb**
+*   **Comfort Systems**
+*   **Eli Lilly (LLY)**
+*   **Globalstar (GSAT)**
+*   **Johnson & Johnson (JNJ)**
+*   **Merck (MRK)**
+*   **Micron**
+*   **Microsoft (MSFT)**
+*   **ONEOK**
+*   **Pfizer (PFE)**
+*   **Pop Mart**
+*   **Rivian (RIVN)**
+*   **SanDisk (SNDK)**
+*   **Smithfield Foods**
+*   **Snowflake Inc. (SNOW)**
+*   **ST Group** (Upcoming IPO)
+*   **Taiwan Semiconductor Manufacturing (TSM)**
+*   **Tesla (TSLA)**
+*   **Uber (UBER)**
+
+**Major Market Indices/Regions Mentioned:** Dow, Nasdaq 100, S&P 500, KOSPI (South Korea), Singapore Exchange (SGX), Malaysia benchmark index, Indonesia (market), Taiwan (market), Shanghai Composite, CSI300 (China), Hang Seng Index (Hong Kong), HSTECH (Hong Kong).
+
+---
+
+### 2. Stocks with Bad Sentiment
+
+The following stocks (and broader markets) experienced negative sentiment today:
+
+*   **Dow, Nasdaq 100, S&P 500:** Tumbled significantly (down 700 points, 2%, and 1.1% respectively) following President Trump's hawkish speech on the Iran war, which reignited fears of prolonged conflict and supply disruptions.
+*   **Asian Markets (KOSPI, SGX, Malaysia, Indonesia, Taiwan, Shanghai Composite, CSI300, Hang Seng Index, HSTECH):** Took a hit across the board, falling between 0.53% and 4.2%, primarily due to their reliance on oil imports and the escalating Middle East conflict.
+*   **Micron:** Shares were down 3% due to Iran attacks impacting global energy.
+*   **SanDisk (SNDK):** Plunged 22% with a 5-day losing streak, indicating significant recent negative pressure.
+*   **Tesla (TSLA):** Shares fell about 3% after missing Q1 2026 delivery estimates (358,023 vehicles vs. 365,645-372,160 consensus), marking its second consecutive quarterly miss.
+
+---
+
+### 3. Stocks with Good Sentiment
+
+These stocks showed positive momentum and sentiment today:
+
+*   **Amazon (AMZN):** Stock rose and is in advanced talks to acquire Globalstar, signaling strong strategic moves in satellite internet.
+*   **Applied Optoelectronics (AAOI):** Delivered a strong Q4 2025 earnings beat, leading to a decisive positive stock response.
+*   **Comfort Systems:** Maintained top-notch EPS ratings due to explosive earnings growth in recent quarters.
+*   **Globalstar (GSAT):** Rocketed 10% higher on a Financial Times report of Amazon being in advanced talks for acquisition, extending a remarkable 231% gain over the past year.
+*   **Johnson & Johnson (JNJ):** Up 62% over the last twelve months, reflecting a leaner post-spinoff business and strong fundamentals in its Innovative Medicine portfolio.
+*   **ONEOK:** Experienced a 6-day rally, sending its stock up 8.6%.
+*   **Smithfield Foods:** Had a 5-day rally, with its stock up 12%.
+*   **Snowflake Inc. (SNOW):** Identified as one of the "best US stocks to buy and hold for the next 3 years."
+*   **Taiwan Semiconductor Manufacturing (TSM):** Reported strong Q4 2025 EPS (beating consensus by 10.56%), impressive full-year revenue/EPS growth, and projected mid-to-high 50s% CAGR for AI accelerator revenue through 2029. Analysts are largely bullish.
+
+---
+
+### 4. Stocks to Keep an Eye On
+
+These stocks present mixed signals or significant developments that warrant close monitoring:
+
+*   **Apple (AAPL):** While no direct sentiment was given, Apple's 20% stake in Globalstar and control of 85% of its network capacity for Emergency SOS could significantly complicate Amazon's potential acquisition of Globalstar. The outcome will impact Apple's strategic interests.
+*   **Johnson & Johnson (JNJ):** Despite strong recent performance and fundamentals, J&J faces looming biosimilar threats (Stelara), new Medicare price caps, and legal overhangs (talc settlement pulled). The interplay between its growth drivers and these structural headwinds will determine future performance.
+*   **Pop Mart:** Stock price slid 30% and is down 60% from its August high due to heavy reliance on "The Monsters" IP and falling resale prices. However, Jefferies maintained a "buy" rating with a "solid" growth outlook, and the company is proactively extending IP lifespan with collaborations (Hello Kitty) and a Labubu movie with Sony Pictures. This could be a potential turnaround story.
+*   **SanDisk (SNDK):** Recently plummeted 22%, yet Morgan Stanley identified it as one of the "Stocks That Can Make You Richer in 2026." This contradiction suggests short-term pain but potential long-term value, making it crucial to understand the underlying issues.
+*   **Tesla (TSLA):** The stock fell on a delivery miss, but the company is deliberately pivoting towards higher-margin robotaxis and humanoid robots, a significant long-term bet. Elon Musk announced FSD version 14.3 rollout, European sales are up, and the energy segment is growing rapidly. Its high P/E ratio means execution on AI and autonomous driving is critical, and insider buying suggests confidence. Highly volatile but with disruptive potential.
+*   **Taiwan Semiconductor Manufacturing (TSM):** Despite strong earnings and bullish analyst sentiment, TSM's stock has pulled back 5% over the past month. This "no longer priced for perfection" scenario ahead of Q1 results makes it an interesting watch for potential entry points if strong results reaffirm the bullish outlook.
+*   **Uber (UBER) & Microsoft (MSFT):** These were mentioned as examples of companies where regulatory clouds (UBER) or structural spending concerns (MSFT) are masking strong fundamentals or overriding business expansion. Worth watching how these broader trends evolve.
+
+---
