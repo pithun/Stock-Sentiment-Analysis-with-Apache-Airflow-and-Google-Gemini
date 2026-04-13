@@ -1,0 +1,86 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+## Stock Sentiment Analysis Report - Today's News
+
+### 1. Stocks Mentioned Today
+
+Here are all the individual stocks identified in today's news:
+
+*   **META** (Meta Platforms, Inc.)
+*   **NFLX** (Netflix)
+*   **AMZN** (Amazon)
+*   **BURL** (Burlington Stores)
+*   **GM** (General Motors)
+*   **CART** (Instacart)
+*   **WMT** (Walmart)
+*   **AFRM** (Affirm Holdings)
+*   **CB** (Chubb Ltd)
+*   **LLY** (Eli Lilly)
+*   **NTRA** (Natera)
+*   **GE** (General Electric)
+*   **AVGO** (Broadcom)
+*   **CDNS** (Cadence Design Systems)
+*   **MDB** (MongoDB)
+*   **CE** (Celanese Corp)
+*   **HRI** (Herc Holdings Inc.)
+*   **FANG** (Diamondback Energy, Inc.)
+*   **MSGS** (Madison Square Garden Sports Corp.)
+*   **Apple (AAPL)** - mentioned in context of Mac Mini/Studio stock issues
+*   **ANET** (Arista Networks, Inc.)
+*   **MSFT** (Microsoft Corporation)
+*   **COCO** (The Vita Coco Company, Inc.)
+*   **APC** (ARKO Petroleum Corp.)
+*   **PLTK** (Playtika Holding Corp.)
+*   **ASELSAN** (Türkiye's leading defense contractor)
+*   **Hanwha Aerospace** (South Korea)
+*   **BAE Systems**
+*   **Lockheed Martin**
+*   **Northrop Grumman**
+*   **Leonardo** (Italy)
+*   **Dassault Aviation** (France)
+*   **SDT Space and Defense** (Türkiye)
+*   **Saab**
+*   **Mitsubishi Heavy**
+*   **RTX Corporation**
+*   **General Dynamics**
+*   **VNOM** (Viper Energy, Inc.)
+*   **CVS** (CVS Health Corporation)
+
+**General Market Mentions:** Dow Jones Industrial Average (Dow), S&P 500, Magnificent Seven (some unnamed members implied to be underperforming), Broader Market, Oil/Gas prices.
+
+### 2. Stocks with Bad Sentiment
+
+*   **Apple (AAPL):** News reports "certain models" of Mac mini and Mac Studio are "completely out of stock" or have "significant delays," possibly indicating discontinuation or production issues due to memory/storage shortages. This creates near-term uncertainty.
+*   **RTX Corporation & General Dynamics:** While showing positive returns, their gains (5.2% and 1.9% respectively) were described as "modest" and significantly underperformed other defense contractors (e.g., ASELSAN, Lockheed Martin) in Q1 2026. This implies relatively weaker sentiment compared to peers.
+*   **Unnamed "Magnificent Seven" stocks:** News_3 hints that "not all of the Magnificent Seven are coming along for the ride," suggesting some members of this group may be experiencing negative or lagging sentiment, though no specific names are given beyond those mentioned positively by Citi.
+*   **Broader Market:** Deutsche Bank points to a "dislocation" between rising earnings estimates and recent market sell-offs due to surging oil prices (News_1). Donald Trump also noted the stock market "has gone down a little bit" (News_2, News_6).
+
+### 3. Stocks with Good Sentiment
+
+*   **Citi's 16 "Buy"-rated stocks (News_1):**
+    *   **META, NFLX, AMZN, BURL, GM, CART, WMT, AFRM, CB, LLY, NTRA, GE, AVGO, CDNS, MDB, CE:** Citi analysts are bullish, predicting a post-earnings pop of 3% to 12% due to underappreciated strong Q1 results.
+*   **HRI (Herc Holdings Inc.) & MSGS (Madison Square Garden Sports Corp.):** Both are featured in the "Mario Gabelli Stock Portfolio: Top 10 Stock Picks" (News_4, News_7).
+*   **FANG (Diamondback Energy, Inc.), ANET (Arista Networks, Inc.), MSFT (Microsoft Corporation), META (Meta Platforms, Inc.):** All listed as "Best Long Term Growth Stocks to Invest In According to Billionaires" (News_5, News_9, News_10, News_15).
+*   **COCO (The Vita Coco Company, Inc.):** Jim Cramer "showed bullish sentiment" (News_11).
+*   **APC (ARKO Petroleum Corp.):** Identified as one of "8 Buy-Rated All-Time Low Stocks to Buy" (News_12), indicating potential for significant upside despite recent lows.
+*   **PLTK (Playtika Holding Corp.):** Mentioned as one of the "best cheap penny stocks to buy that aren’t scams" (News_13).
+*   **Defense & Aerospace Sector (News_14):**
+    *   **ASELSAN:** "Standout performer," "remarkable gains" (38.2% return), highest market value on BIST 100.
+    *   **Hanwha Aerospace, BAE Systems, Lockheed Martin, Northrop Grumman, Leonardo, Dassault Aviation, SDT Space and Defense, Saab, Mitsubishi Heavy:** All posted "strong results" and significant gains (10-32.7%) due to heightened geopolitical tensions.
+*   **VNOM (Viper Energy, Inc.):** Included among the "15 Best American Energy Stocks to Buy According to Wall Street Analysts" (News_16).
+*   **CVS (CVS Health Corporation):** Reiterated with a "Buy" rating by UBS analyst and considered an "undervalued large cap stock to buy" (News_17).
+
+### 4. Which Would You Advise Me to Keep an Eye On?
+
+Based on today's news, I would advise keeping a close eye on the following:
+
+*   **AFRM (Affirm Holdings), NTRA (Natera), MDB (MongoDB), CE (Celanese Corp):** These are among Citi's top picks with the highest implied post-earnings stock moves (10-12%). Their upcoming earnings reports are key catalysts.
+*   **Apple (AAPL):** Despite the current stock issues for Mac mini/Studio, the speculation of M5 chip refreshes (News_8) could signal a significant future catalyst. Watch for official announcements or further production insights. This is a classic "buy the rumor, sell the news" or "buy the dip" scenario if the refresh is imminent and strong.
+*   **The Defense Sector (e.g., Lockheed Martin, ASELSAN):** Given the persistent "heightened geopolitical tensions worldwide" (News_14), this sector continues to show strong momentum. Major players like Lockheed Martin and Northrop Grumman are consistently strong, while ASELSAN's remarkable growth shows regional strength.
+*   **APC (ARKO Petroleum Corp.):** Being a "Buy-Rated All-Time Low Stock" (News_12) could present a high-risk, high-reward opportunity for a significant rebound if the underlying reasons for its low valuation are addressable and its fundamentals hold.
+*   **FANG (Diamondback Energy, Inc.) & VNOM (Viper Energy, Inc.):** With oil prices being a major topic of discussion (News_2, News_6) and these being highlighted as "Best Long Term Growth" and "Best American Energy Stocks" respectively (News_5, News_16), they are well-positioned within a volatile but potentially rewarding sector.
+
+---
+**Disclaimer:** This analysis is based solely on the provided news snippets and should not be taken as direct financial advice. Always conduct your own due diligence and consult with a financial professional before making any investment decisions. Stock markets are volatile, and past performance is not indicative of future results.
