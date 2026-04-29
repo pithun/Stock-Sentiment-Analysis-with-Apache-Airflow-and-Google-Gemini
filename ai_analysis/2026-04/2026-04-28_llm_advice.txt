@@ -1,0 +1,60 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Daily Briefing**
+
+**1. Stocks Mentioned Today:**
+
+*   **Apple (AAPL)**
+*   **Nvidia (NVDA)**
+*   **Oracle (ORCL)**
+*   **SoftBank (SFTBY)**
+*   **CoreWeave** (private, but investors/partners affected)
+*   **AMD (AMD)**
+*   **Canal+**
+*   **MultiChoice** (now part of Canal+)
+*   **Robinhood (HOOD)**
+*   **Coinbase (COIN)**
+*   **Palantir (PLTR)**
+*   **Adobe (ADBE)**
+*   **Salesforce (CRM)**
+*   **ServiceNow (NOW)**
+*   **Atlassian (TEAM)**
+*   **Amazon (AMZN)**
+*   **Microsoft (MSFT)**
+*   **Alphabet (GOOGL/GOOG)** (mentioned for upcoming earnings comparison)
+*   **Broadcom (AVGO)**
+*   **EQT Corporation (EQT)**
+*   **Bitmine Immersion Technologies (BMNR)**
+*   **MicroStrategy (MSTR)** (implied from "Strategy")
+*   **ONGC** (Oil and Natural Gas Corporation - likely)
+*   **OIL** (Oil India Ltd - likely)
+
+**2. Stocks with Bad Sentiment Today:**
+
+*   **Nvidia (NVDA), Oracle (ORCL), SoftBank (SFTBY), CoreWeave, AMD (AMD), Microsoft (MSFT), Broadcom (AVGO):** All saw their stock prices go down or pulled back due to news that **OpenAI** has been missing its internal revenue and user growth targets, raising concerns about its ability to pay for future computing contracts. SoftBank notably lost 9.9% of its value.
+*   **Robinhood (HOOD):** Missed Q1 earnings and revenue estimates, primarily due to a sharp 47% decline in crypto trading revenue. Shares fell about 8% in post-market trading.
+*   **Coinbase (COIN):** Stock fell about 1% in tandem with Robinhood, reflecting shared reliance on retail crypto trading.
+*   **Palantir (PLTR):** Citi cut its price target, though maintained a "Buy" rating, citing sector-wide software valuation compression. Despite strong AI growth and commercial momentum, the stock is down 19% YTD and still trades at very high multiples, suggesting valuation risk.
+*   **Adobe (ADBE), Salesforce (CRM), ServiceNow (NOW), Atlassian (TEAM):** These enterprise software peers are all experiencing significant year-to-date declines (Adobe -32%, Salesforce -32%, ServiceNow -41%) and price target cuts (Atlassian) due to broader multiple compression in the software sector, indicating a negative market outlook for the group.
+
+**3. Stocks with Good Sentiment Today:**
+
+*   **Apple (AAPL):** Multiple analysts (UBS, BNP Paribas, JP Morgan) raised price targets ahead of Q3 earnings, citing strong iPhone demand and supply chain strength. UBS increased its revenue forecast for Apple. While UBS maintained a neutral rating due to longer-term risks, the overall sentiment from analysts is positive.
+*   **Canal+:** Announced a secondary inward listing on the Johannesburg Stock Exchange (JSE) and reported a 41% Q1 revenue boost, largely due to its acquisition of MultiChoice. Shares on the London Stock Exchange rose more than 3%.
+*   **Amazon (AMZN):** Had a stellar month (+29%) and is up 14% YTD. Analysts from RBC, UBS, BofA, and Morgan Stanley are bullish, expecting strong AWS revenue growth (especially from AI investments) when Q1 earnings are reported. Price targets are being raised, implying significant upside.
+*   **Bitmine Immersion Technologies (BMNR):** Purchased a significant amount of Ether ($234 million last week), capping a four-month streak of escalating buys. It's seen as a major corporate crypto buyer akin to MicroStrategy, with a strategy of generating yield from staked tokens.
+*   **MicroStrategy (MSTR):** Implied positive sentiment as Bitmine is compared positively to its successful corporate crypto accumulation strategy.
+*   **ONGC, OIL:** Expected to benefit from a significant "windfall" due to the Hormuz crisis and rising crude prices.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Apple (AAPL):** Its Q3 2026 report is just two days away. While analyst sentiment is positive due to strong iPhone demand, UBS's neutral rating highlights potential longer-term risks, especially macro weakness in China. This report will be crucial for confirming or challenging current positive outlooks.
+*   **Amazon (AMZN):** Reports Q1 earnings on Wednesday. Investors will be intensely focused on Amazon Web Services (AWS) revenue growth to see if its massive AI investments are paying off. CEO Andy Jassy's comments on AI will also be a key driver for the stock. This report is pivotal for validating its aggressive capex guidance.
+*   **Palantir (PLTR):** Q1 2026 report is due May 4. Despite a price target cut due to sector valuation compression, Citi maintained a "Buy" rating and raised earnings estimates, indicating strong underlying fundamentals and AI growth. Watch if fundamental momentum can outpace valuation concerns.
+*   **Robinhood (HOOD) & Coinbase (COIN):** Both are actively working to diversify revenue away from volatile crypto trading into areas like prediction markets and broader financial services. Coinbase reports earnings on May 7. Their ability to successfully shift this narrative and revenue mix will be important for future stability.
+*   **Canal+:** With its recent acquisition of MultiChoice and plans for a secondary listing on the JSE, its execution of the "MultiChoice turnaround plan" and ability to deliver cost synergies will be key to watch going forward.
+*   **OpenAI's Partners (Nvidia, Oracle, SoftBank, Microsoft, Broadcom, AMD, CoreWeave):** The news about OpenAI missing internal targets directly impacted these stocks. As major investors and partners, their future performance is somewhat tied to OpenAI's success and potential IPO. Further developments from OpenAI could lead to continued volatility for these companies.
+
+---
