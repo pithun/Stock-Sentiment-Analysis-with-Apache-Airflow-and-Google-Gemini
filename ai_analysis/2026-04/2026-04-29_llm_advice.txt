@@ -1,0 +1,75 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Today's Market Pulse**
+
+Today's market saw a mix of strong individual performances and broad sector struggles, particularly in the crypto-related and newly IPO'd spaces. Geopolitical tensions and earnings misses weighed heavily on several stocks, while others demonstrated robust growth potential.
+
+---
+
+### 1. The Stocks Mentioned Today
+
+*   **Alphabet** (GOOG, GOOGL) - *Mentioned as a Pershing Square holding & future earnings reporter*
+*   **Amazon** (AMZN) - *Mentioned as a Pershing Square holding & future earnings reporter*
+*   **Barrick Mining Corporation** (B)
+*   **Bullish** (BLSH)
+*   **Coinbase** (COIN)
+*   **Fannie Mae** (FNMA) - *Mentioned as a Pershing Square holding*
+*   **Freddie Mac** (FMCC) - *Mentioned as a Pershing Square holding*
+*   **Hertz** (HTZ) - *Mentioned as a Pershing Square holding*
+*   **MARA** (MARA) - *Likely Marathon Digital Holdings*
+*   **Meta** (META)
+*   **Microsoft** (MSFT) - *Mentioned as a future earnings reporter*
+*   **NIO** (NIO)
+*   **ON Semiconductor Corporation** (ON)
+*   **Pershing Square** (PS)
+*   **Pershing Square USA** (PSUS)
+*   **Riot Platforms** (RIOT)
+*   **Robinhood** (HOOD)
+*   **Shopify Inc.** (SHOP)
+*   **Strategy** (MSTR) - *Likely MicroStrategy*
+*   **Teradyne Inc.** (TER)
+*   **Uber** (UBER) - *Mentioned as a Pershing Square holding*
+*   **Webull** (BULL)
+
+---
+
+### 2. Stocks with Bad Sentiment
+
+The following stocks experienced negative sentiment today, primarily driven by disappointing earnings, market jitters, or initial public offering performance:
+
+*   **Pershing Square USA (PSUS):** Had a "tough first day of trading," falling 18% from its IPO price and as much as 19% intraday.
+*   **Pershing Square (PS):** The asset management arm saw less dramatic but still negative moves, down nearly 6%.
+*   **Meta (META):** Despite beating top and bottom lines, the stock dipped more than 5% due to increased capital expenditure guidance and market jitters.
+*   **Robinhood (HOOD):** Plunged nearly 14% after missing revenue estimates, with crypto-related revenue declining almost 47% year-over-year. Management also raised operating expense guidance, signaling margin pressure.
+*   **Coinbase (COIN):** Fell 8% in sympathy trading with Robinhood, suggesting broader concerns about retail crypto demand.
+*   **Bullish (BLSH):** Also fell 8%, impacted by the general weakness in crypto-related stocks.
+*   **Riot Platforms (RIOT):** Slid 6%-7% amidst the crypto sector downturn.
+*   **MARA (MARA):** Similarly fell 6%-7%, reflecting negative sentiment across Bitcoin miners.
+*   **Strategy (MSTR):** The largest corporate Bitcoin owner was down 4%, aligning with the crypto market's struggles.
+*   **Webull (BULL):** Dropped 5% in sympathy with Robinhood's disappointing earnings, despite no direct exposure.
+
+---
+
+### 3. Stocks with Good Sentiment
+
+These stocks garnered positive mentions, highlighting strong performance, growth potential, or analyst recommendations:
+
+*   **Shopify Inc. (SHOP):** Ranked among the "best growth stocks to buy" with strong one-year EPS (26.37%) and revenue (23.24%) growth estimates.
+*   **Barrick Mining Corporation (B):** Identified as "one of the 15 Best Precious Metal Stocks to Buy According to Wall Street Analysts."
+*   **ON Semiconductor Corporation (ON):** Highlighted as "one of the best performing S&P 500 stocks so far in 2026."
+*   **Teradyne Inc. (TER):** Also noted as "one of the best performing S&P 500 stocks so far in 2026."
+
+---
+
+### 4. Stocks to Keep an Eye On
+
+I'd advise keeping a close watch on these stocks due to significant developments, upcoming catalysts, or interesting market dynamics:
+
+*   **Meta (META):** Despite today's dip, it beat earnings and is investing heavily in AI. The market's reaction to increased capex could be an overcorrection or a signal of future margin pressure. Watch for how these investments translate into future growth and revenue streams.
+*   **Robinhood (HOOD), Coinbase (COIN), Webull (BULL):** The entire crypto brokerage sector is under scrutiny. Robinhood's poor crypto revenue sparks a debate: Is retail crypto activity contracting overall, or is it rotating towards competitors like Coinbase (which reported record institutional derivatives revenue)? This dynamic is crucial for the future of these platforms.
+*   **Pershing Square USA (PSUS) / Pershing Square (PS):** Bill Ackman's debut with these public vehicles saw a disappointing start. Given Ackman's long-term vision to emulate Berkshire Hathaway and his strategy to attract retail investors, their future performance will be a significant indicator of this unique venture's success.
+*   **Alphabet (GOOG), Amazon (AMZN), Microsoft (MSFT):** These tech giants are reporting earnings after the U.S. market closes. Traders will be scrutinizing their artificial intelligence-related spending as a key gauge for the overall AI trade and infrastructure buildout. Their results could significantly influence broader market sentiment.
+
+---
