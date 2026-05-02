@@ -1,0 +1,50 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+## Stock Sentiment Analysis: Daily Digest
+
+**Summary for May 1st, 2026**
+
+### 1. Stocks Mentioned Today
+
+*   **Apple (AAPL)**
+*   **SBI** (State Bank of India)
+*   **Axis Bank**
+*   **HDFC Bank**
+*   **Infosys**
+*   **Wipro**
+*   **NTPC**
+*   **ONGC** (Oil and Natural Gas Corporation)
+*   **OIL** (Oil India Ltd.)
+*   **Wingtech Technology** (Chinese parent of Nexperia)
+*   **Meta Platforms (META)**
+*   **Oracle Corp. (ORCL)**
+*   **ASML Holding N.V. (ASML)**
+*   **Strategy (MSTR)** (MicroStrategy, with its preferred stock STRC)
+*   **Riot (RIOT)** (Implied from "Riot's shift beyond bitcoin mining")
+*   **AMD** (Advanced Micro Devices - mentioned in relation to Riot)
+
+### 2. Stocks with Bad Sentiment
+
+*   **Wingtech Technology:** Facing a severe crisis with a net loss of $1.3 billion for 2025, a delisting risk warning, and an auditor's disclaimer due to inability to verify Nexperia's financials. Its loss tripled, and IT access to its subsidiary was cut. This indicates significant operational and financial distress.
+
+### 3. Stocks with Good Sentiment
+
+*   **Apple (AAPL):** Shares rose significantly after Q2 2026 earnings, with an optimistic outlook from management on iPhone and Services demand. Wall Street was initially pleased, and the stock is eyeing a potential new all-time high.
+*   **Meta Platforms (META):** Identified as one of the "10 Best AI Stocks to Watch in May," with Evercore ISI increasing its price target.
+*   **ASML Holding N.V. (ASML):** Also listed among the "10 Best AI Stocks to Watch in May," showing impressive growth of 115.39% over the past year and 23.65% year-to-date.
+*   **Riot (RIOT):** Received positive sentiment due to its expansion and improved financing terms, highlighting a confident shift beyond bitcoin mining into data centers.
+*   **ONGC & OIL:** Implied positive sentiment due to a potential "windfall" from rising crude oil prices and the Hormuz crisis, suggesting increased profitability for these oil companies.
+
+### 4. Stocks to Keep an Eye On
+
+*   **Apple (AAPL):** Strong earnings and a confident outlook suggest continued upward momentum. Watch if it can sustain optimism and surpass its all-time high.
+*   **Wingtech Technology:** While currently negative, the ongoing saga with Nexperia and the delisting risk make it a volatile situation to monitor for extreme swings or further developments in its legal and audit challenges. This is more of a "watch for significant downside or recovery efforts" rather than immediate upside.
+*   **Oracle Corp. (ORCL):** Despite being listed as a "Best AI Stock," it showed a significant year-to-date decline (-17.54%) even with a good past year performance (+14.69%). Its volatility and inclusion in "Best AI Stocks" make it interesting for tracking its AI strategy and potential rebound.
+*   **Strategy (MSTR):** Its common stock showed a 33% recovery in April after eight consecutive losing months, alongside a 12% rise in Bitcoin. The company is also implementing strategies to stabilize its preferred stock. This marks a potential turning point after a tough period, making it one to watch for sustained recovery and the impact of its Bitcoin holdings.
+*   **ASML Holding N.V. (ASML) & Meta Platforms (META):** As leading "AI Stocks," they are worth consistent monitoring for continued growth and innovation in the AI space. Their strong performance suggests they could remain market leaders.
+
+---
+
+**Disclaimer:** This information is for summary and general informational purposes only, and does not constitute financial advice. Always conduct your own research and consult with a qualified financial advisor before making any investment decisions.
