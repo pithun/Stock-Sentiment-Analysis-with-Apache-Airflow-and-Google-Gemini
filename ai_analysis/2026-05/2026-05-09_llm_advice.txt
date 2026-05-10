@@ -1,0 +1,85 @@
+Here's a summary of today's stock news with sentiment analysis:
+
+---
+
+### 📊 **Stock Sentiment Analysis: Daily Market Snapshot** 📊
+
+**1. All Stocks Mentioned Today:**
+*   SBI
+*   Axis Bank
+*   HDFC Bank
+*   Infosys
+*   Wipro
+*   NTPC
+*   Cloudflare (NET)
+*   Salesforce, Inc. (CRM)
+*   Advanced Micro Devices (AMD)
+*   Datadog, Inc. (DDOG)
+*   The Goldman Sachs Group, Inc. (GS)
+*   Planet Fitness
+*   Limbach Holdings, Inc. (LMB)
+*   CME (CME Group)
+*   BlackRock (IBIT - ETF)
+*   MicroStrategy (MSTR)
+*   AECOM (ACM)
+*   Tesla Inc. (TSLA)
+*   ServiceNow Inc. (NOW)
+*   Intuit Inc. (INTU)
+*   Nvidia (NVDA)
+*   Microsoft (MSFT)
+*   Apple (AAPL)
+*   Alphabet (GOOG, GOOGL)
+*   Broadcom (AVGO)
+*   Amazon (AMZN)
+*   Oracle (ORCL)
+*   Meta Platforms, Inc. (META)
+*   Micron Technology
+*   Tetra Tech, Inc. (TTEK)
+*   ONGC
+*   OIL
+*   Reliance (mentioned in an article title)
+*   L&T (mentioned in an article title)
+*   Adani Group (mentioned in an article title)
+
+---
+
+**2. Stocks with Bad Sentiment Today:**
+*   **Cloudflare (NET):** Experienced a **19% stock spill** after announcing 20% job cuts due to increased AI usage. (News_2)
+*   **Planet Fitness:** Received a **"tougher view" from Bank of America**, resetting membership expectations post-earnings. (News_8)
+*   **ServiceNow Inc. (NOW):** KeyBanc reiterated an **Underweight rating** with an $85 price target, suggesting a negative outlook. (News_15)
+
+---
+
+**3. Stocks with Good Sentiment Today:**
+*   **Advanced Micro Devices (AMD):** Shares are **up 112.5% year-to-date**, with recent significant gains, and is a noted beneficiary of AI spending. (News_4, News_17)
+*   **Limbach Holdings, Inc. (LMB):** Identified as one of the **"10 Best Construction Stocks for Data Center Infrastructure."** (News_9)
+*   **CME (CME Group):** Plans to debut Bitcoin volatility futures, expanding its regulated products and offering new risk management opportunities. (News_10)
+*   **BlackRock (IBIT):** Its IBIT options open interest signals **"clear institutional demand."** (News_10)
+*   **AECOM (ACM):** Listed as one of the **"10 Best Construction Stocks for Data Center Infrastructure."** (News_12)
+*   **Tesla Inc. (TSLA):** Ranked as Cathie Wood's **#1 AI and Data Center Stock pick.** (News_13)
+*   **Intuit Inc. (INTU):** TD Cowen **reiterated a Buy rating.** (News_16)
+*   **Nvidia (NVDA):** A **primary beneficiary of AI infrastructure spending** and a stock Paul Tudor Jones reportedly bought more of. (News_17)
+*   **Microsoft (MSFT):** A **primary beneficiary of AI infrastructure spending** and a stock Paul Tudor Jones reportedly bought more of. (News_17)
+*   **Apple (AAPL):** Paul Tudor Jones has invested in it. (News_17)
+*   **Alphabet (GOOG, GOOGL):** Paul Tudor Jones holds exposure to it, indicating confidence in its AI relevance as a cloud provider. (News_17)
+*   **Broadcom (AVGO):** Supports AI infrastructure by supplying networking and accelerator components. (News_17)
+*   **Amazon (AMZN):** Recognized as a key cloud infrastructure provider benefiting from AI spending. (News_17)
+*   **Oracle (ORCL):** Identified as a cloud infrastructure provider benefiting from AI spending. (News_17)
+*   **Meta Platforms, Inc. (META):** Highlighted by Jim Cramer in discussions about Big Tech's AI spending. (News_17, News_22)
+*   **Micron Technology:** Its stock **"went parabolic"**, rising 15% in a single session last week. (News_19)
+*   **Tetra Tech, Inc. (TTEK):** Baird **raised its price target** and listed it among the "10 Best Construction Stocks for Data Center Infrastructure." (News_20)
+*   **ONGC & OIL:** Anticipating an **"INR35k-cr windfall"** due to rising crude prices and the Hormuz crisis. (News_18)
+
+---
+
+**4. Stocks to Keep an Eye On:**
+The AI revolution is clearly a dominant theme, making many related stocks noteworthy.
+
+*   **Cloudflare (NET):** While facing a significant downturn, the job cuts are attributed to AI efficiency. If the company successfully reallocates resources and benefits from increased AI usage, it could present a turnaround opportunity.
+*   **MicroStrategy (MSTR):** Its unique strategy of holding vast Bitcoin reserves and planning to fund dividends through controlled BTC sales, as outlined by its CEO, makes it a high-volatility play directly tied to Bitcoin's future performance and management's execution.
+*   **The AI Infrastructure & Software Plays (e.g., Salesforce (CRM), Datadog (DDOG), The Goldman Sachs Group (GS)):** Jim Cramer's mentions of these in the context of Big Tech's AI spending suggest they are positioned to benefit from the broader AI build-out, even if not directly leading the charge like chipmakers. Salesforce and Datadog, in particular, integrate AI into enterprise solutions.
+*   **The Broader AI Ecosystem (Nvidia (NVDA), Microsoft (MSFT), Apple (AAPL), Alphabet (GOOG, GOOGL), Amazon (AMZN), Oracle (ORCL), Meta Platforms (META), Broadcom (AVGO), AMD):** Legendary investor Paul Tudor Jones's decision to buy more AI stocks despite valuation concerns underscores the sector's long-term potential. Keep an eye on these leaders for continued growth and innovation, but also for any signs of market overheating or shifts in investor sentiment as valuations remain high.
+*   **Data Center Construction Stocks (Limbach Holdings (LMB), AECOM (ACM), Tetra Tech (TTEK)):** As AI demands more computing power, the need for robust data center infrastructure will grow. These companies are indirect beneficiaries of the AI boom and could see sustained demand.
+
+---
+*Disclaimer: This analysis is based solely on the provided news snippets and should not be considered financial advice. Always conduct your own research and consult with a financial professional before making investment decisions.*
