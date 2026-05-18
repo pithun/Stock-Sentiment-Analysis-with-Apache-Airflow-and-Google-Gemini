@@ -1,0 +1,84 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Today's News Snapshot**
+
+**1. Stocks Mentioned Today:**
+
+*   **Alphabet (GOOGL, GOOG)**
+*   **Amazon (AMZN)**
+*   **Bank of America (BAC)**
+*   **Beam Global (BEEM)**
+*   **Berkshire Hathaway (BRK-A, BRK-B)**
+*   **Bimergen Energy Corporation (BESS)**
+*   **Chevron (CVX)**
+*   **Coherent**
+*   **Constellation Brands (STZ)**
+*   **CoreWeave (CRWV)**
+*   **Diageo (DEO)**
+*   **Domino’s (DPZ)**
+*   **Figure Technology Solutions (FIGR)**
+*   **FTC Solar, Inc. (FTCI)**
+*   **Fusion Fuel Green PLC (HTOO)**
+*   **MasterCard (MA)**
+*   **Meta Platforms (META)**
+*   **Nebius (NBIS)**
+*   **Nokia**
+*   **NVIDIA Corporation (NVDA)**
+*   **Nucor (NUE)**
+*   **Palantir (PLTR)**
+*   **Sea Limited (SE)**
+*   **Silicon Motion Technology Corporation (SIMO)**
+*   **Spotify Technology S.A. (SPOT)**
+*   **SUNation Energy Inc. (SUNE)**
+*   **Synopsys**
+*   **Tigo Energy, Inc. (TYGO)**
+*   **UnitedHealth Group (UNH)**
+*   **Visa (V)**
+*   **Woodward, Inc. (WWD)**
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Silicon Motion Technology Corporation (SIMO):** Jim Cramer urged investors to exercise caution regarding this stock.
+*   **Berkshire Hathaway's Divested Holdings:** The following stocks were either entirely eliminated or significantly trimmed from Berkshire Hathaway's portfolio, indicating a cautious or negative outlook from a major investor:
+    *   **UnitedHealth Group (UNH)**
+    *   **Visa (V)**
+    *   **MasterCard (MA)**
+    *   **Domino’s (DPZ)**
+    *   **Diageo (DEO)**
+    *   **Amazon (AMZN)**
+    *   **Constellation Brands (STZ)**
+    *   **Bank of America (BAC)**
+    *   **Chevron (CVX)**
+    *   **Nucor (NUE)**
+*   **Bitcoin (BTC):** While not a stock, it was mentioned in a negative light regarding its short-term price action, being dragged down by "macro pain and Iran war uncertainty," and showing a "lack of demand for bullish leveraged positions."
+
+**3. Stocks with Good Sentiment:**
+
+*   **Woodward, Inc. (WWD):** Identified as one of the "Best Fundamentally Strong Stocks to Buy Now," with Truist lifting its price objective.
+*   **NVIDIA Corporation (NVDA):** Cited as a billionaire's large-cap pick with high upside, a fundamentally strong stock to buy, and BofA lifted its price objective. News also highlights its strategic investments across the AI supply chain.
+*   **Palantir (PLTR):** Trump touted the company on Truth Social after buying its stock.
+*   **CoreWeave (CRWV):** NVIDIA significantly increased its stake, and CoreWeave secured major deals with Meta, Jane Street, Anthropic, and Perplexity AI. While valuation concerns exist, the strategic backing and customer wins are strong positives.
+*   **Synopsys, Nokia, Coherent, Nebius (NBIS):** These companies are receiving strategic investments from NVIDIA, indicating their importance in the AI ecosystem.
+*   **Meta Platforms (META):** Signed a significant $21 billion deal with CoreWeave, reflecting its commitment to AI infrastructure.
+*   **Sea Limited (SE):** Another one of billionaire Steve Cohen’s large-cap stock picks with high upside potential.
+*   **Spotify Technology S.A. (SPOT):** Also identified as one of billionaire Steve Cohen’s large-cap stock picks with high upside potential.
+*   **FTC Solar, Inc. (FTCI):** Listed among "Most Promising Renewable Energy Stocks Right Now" with high upside potential (136.72%).
+*   **Figure Technology Solutions (FIGR):** Soundly beat Wall Street estimates on revenue and EBITDA, showing strong growth in blockchain-native capital markets and expecting a "record Q2 upcoming."
+*   **SUNation Energy Inc. (SUNE):** Among the "Most Promising Renewable Energy Stocks Right Now" with significant upside potential (42.5%).
+*   **Tigo Energy, Inc. (TYGO):** Also on the "Most Promising Renewable Energy Stocks Right Now" list with good upside potential (77%).
+*   **Alphabet (GOOGL, GOOG):** Berkshire Hathaway *tripled* its stake, seeing it as both defensive and growth-oriented, with AI leadership, massive free cash flow, and a strong balance sheet.
+*   **Fusion Fuel Green PLC (HTOO):** Highlighted with an "impressive upside potential of 1680.58%" in the renewable energy sector.
+*   **Bimergen Energy Corporation (BESS):** Listed with "upside potential of 188.18%" among promising renewable energy stocks.
+*   **Beam Global (BEEM):** Noted for its "upside potential of 52.97%" within promising renewable energy stocks.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **NVIDIA Corporation (NVDA):** Its continued strategic investments across the AI supply chain, strong analyst sentiment, and position as a core AI enabler make it a crucial stock to watch.
+*   **Alphabet (GOOGL, GOOG):** The massive increase in Berkshire Hathaway's stake, combined with its AI leadership and robust financials, signals strong confidence from sophisticated investors.
+*   **CoreWeave (CRWV):** While it has valuation risks, the significant investments from NVIDIA and major deals with industry giants like Meta, Jane Street, and Anthropic indicate its potential to be a key player in AI infrastructure. The "high risk, high reward" profile makes it intriguing.
+*   **Figure Technology Solutions (FIGR):** Its unique approach to blockchain-native capital markets and strong earnings beat, with expectations for a record quarter, suggest it could be an emerging disruptor in fintech.
+*   **Renewable Energy Sector (FTCI, SUNE, TYGO, HTOO, BESS, BEEM):** Multiple stocks in this sector are highlighted for significant upside potential. It might be worth researching this group as a whole for sector-wide tailwinds, though individual company diligence is advised due to varying risk profiles.
+
+---
