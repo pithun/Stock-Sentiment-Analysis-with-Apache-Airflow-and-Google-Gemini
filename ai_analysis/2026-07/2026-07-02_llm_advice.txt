@@ -1,0 +1,55 @@
+Here's a summary of today's stock news with sentiment analysis and investment advice:
+
+---
+
+## **Stock Sentiment Analysis: Daily Market Brief**
+
+**Date:** July 2, 2026
+
+### 1. Stocks Mentioned Today:
+
+*   **Technology & AI:** Tesla (TSLA), Apple, Microsoft, Google (Alphabet, GOOG), Oracle, SanDisk, Micron Technology (MU), Taiwan Semiconductor Manufacturing Company (TSMC), Nvidia (NVDA), SK Hynix, Intel, Dell, Palantir Technologies, Adobe, Securitize (SECZ), Ondo Finance (ONDO), Broadridge (BR), Robinhood, The Metals Company (TMC), CrowdStrike Holdings Inc. (CRWD), K Wave Media, MicroStrategy (MSTR), CoreWeave (CRWV), Intuit Inc. (INTU), Advanced Micro Devices (AMD), Texas Instruments (TXN).
+*   **Financial & Real Estate:** SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC, Realty Income (O), Unity Bancorp (UNTY).
+*   **Other Sectors:** Travelzoo (TZOO), Jersey Mike's (JMKE), Barrick (B), Becton, Dickinson and Company (BDX), Freeport-McMoRan (FCX).
+*   **ETFs & Cryptocurrencies (Indirectly Affecting Stocks):** iShares Core S&P 500 ETF (IVV), SPDR Gold Shares ETF (GLD), Bitcoin (BTC), Solana (SOL), Avalanche (AVAX), Ethereum (ETH), Zcash.
+
+### 2. Stocks with Negative Sentiment Today:
+
+*   **Tesla (TSLA):** Despite beating delivery estimates, the stock dropped significantly (up to 8%), marking its worst single-day loss in a year. Investors "dumped the stock" amid a broader "EV winter" and concerns about Musk's pivot away from premium EVs.
+*   **Apple:** Announced price hikes on MacBooks and iPads, with hints of more to come, due to memory chip shortages. This is seen as "price-gouging their own shrinking inventories."
+*   **Microsoft:** Its Xbox division is stopping 2TB console production and raising prices on other models, also due to chip shortages.
+*   **Oracle:** Saw its value plunge amidst a broader tech selloff in Korean and US markets, linked to wartime chip shortages.
+*   **Sprout Social:** Downgraded to "sell" by analysts due to slowing growth and rising AI disruption risks; its recent stock rebound is considered temporary.
+*   **CrowdStrike Holdings Inc. (CRWD):** Received a downgrade from an analyst, indicating negative sentiment.
+*   **K Wave Media:** Faces severe financial distress, abandoned its bitcoin treasury plan, liquidated holdings, is redirecting to AI infrastructure, but trades near 16 cents and received multiple Nasdaq delisting warnings.
+*   **CoreWeave (CRWV):** Stock is down approximately 20% due to investor concerns over high debt and concentration risk.
+
+### 3. Stocks with Positive Sentiment Today:
+
+*   **Google (Alphabet, GOOG):** Demonstrated strong performance with accelerating revenue growth (21.8% YOY), EPS beat, 63% growth in Google Cloud, and a near-doubled backlog of $460 billion. Analysts are overwhelmingly bullish, and it was added to the Dow Jones.
+*   **SanDisk:** Enjoying "whopping gains" as a chipmaker due to global chip shortages, allowing it to charge higher prices amidst high demand.
+*   **Micron Technology (MU):** Similar to SanDisk, benefiting from chip shortages with "whopping gains." The stock "leapt nine points" following a $250 million commitment to the President's Trump Accounts (though also faces a class-action lawsuit for price-fixing).
+*   **Taiwan Semiconductor Manufacturing Company (TSMC):** CEO noted high-value products are sold out through next year, indicating very strong demand despite production challenges.
+*   **Palantir Technologies:** Upgraded to "Buy" at DA Davidson with a $175 target. Also benefited from public praise and increased federal contracts due to presidential influence.
+*   **Adobe:** Received an upgrade to "Buy" at HSBC with a $308 target.
+*   **Securitize (SECZ):** Had a strong debut on the NYSE, up 10% on its first day, as the first newly public company to tokenize its own shares on a blockchain.
+*   **Ondo Finance (ONDO):** Successfully launched blockchain-based versions of BlackRock's IVV and Micron shares, demonstrating a compliant model for tokenized securities within the US system.
+*   **Realty Income (O):** Continues its streak of monthly dividends (670th consecutive), boasts a 5% yield, 99% occupancy, and 7% AFFO growth. Analysts are mostly bullish, seeing it as mispriced by the market.
+*   **The Metals Company (TMC):** Identified as a "Potential Breakout AI Stock."
+*   **MicroStrategy (MSTR):** Highlighted by Cantor Fitzgerald as an evolving digital asset treasury company, actively offering yield rather than just passively holding crypto.
+*   **Intuit Inc. (INTU):** Listed as one of the "10 Best SaaS Stocks to Buy" according to Reddit, with 76% analyst "Buy" ratings.
+*   **Unity Bancorp (UNTY):** Rated a "strong buy" due to expanding margins, rising profits, solid deposits, and a low P/E ratio.
+*   **Becton, Dickinson and Company (BDX):** Analysts rate it a "Buy" due to high-margin, high-growth product lines expected to fuel sustainable growth.
+
+### 4. Stocks to Keep an Eye On:
+
+*   **Nvidia (NVDA):** While it's seen a recent pullback (down 12% last month) and faces "structural concerns" regarding AI infrastructure capex, it remains a dominant force in AI. Its position in the evolving AI landscape, especially compared to Google's integrated approach, makes it a critical watch.
+*   **SpaceX (SPCX):** Recently public, it's experiencing extreme volatility with a massive 31% short interest. This creates the potential for a significant short squeeze. Its strong underlying business, combined with this mechanical trading dynamic, makes it highly dynamic.
+*   **Micron Technology (MU):** Benefiting significantly from chip shortages and high demand, which is driving revenue and stock price surges. However, it's also facing a federal class-action lawsuit for collusion and price-fixing, adding a layer of risk and uncertainty.
+*   **Google (Alphabet, GOOG):** Showing robust growth in cloud and AI, strong analyst confidence, and is gaining on Nvidia's market cap. It could be a more diversified and potentially "safer" long-term play in the AI boom.
+*   **Securitize (SECZ) & Ondo Finance (ONDO):** These companies are at the forefront of tokenizing traditional securities on blockchain. Their early successes could indicate a significant shift in capital markets, making them important to watch for broader industry trends and disruption.
+*   **Barrick (B):** Despite a 17% drop this year while gold prices soar, analysts maintain bullish sentiment, suggesting a 50% implied upside to their targets. Company-specific issues (leadership, disputes, security) are weighing on the stock, but resolution could unlock significant value.
+*   **Realty Income (O):** A strong dividend payer with solid fundamentals that management believes the public market is mispricing. If the market "catches up" to its underlying performance, it could see further upside beyond its stable dividend.
+
+---
+**Disclaimer:** This analysis is based solely on the provided news articles and should not be considered comprehensive financial advice. Always conduct your own due diligence and consult with a financial professional before making any investment decisions. Market conditions can change rapidly.
