@@ -1,0 +1,194 @@
+Here's a summary of today's stock news with sentiment analysis:
+
+---
+
+### **Stock Sentiment Analysis: Daily Digest**
+
+#### **1. Stocks Mentioned Today**
+
+*   **Publicly Traded Companies:**
+    *   SpaceX (IPO)
+    *   Tesla
+    *   Micron
+    *   Nvidia
+    *   Applied Materials
+    *   Caterpillar
+    *   Palantir
+    *   Moderna
+    *   ServiceTitan, Inc. (TTAN)
+    *   Markel Group Inc. (MKL)
+    *   NuScale Power Corporation (SMR)
+    *   Rocket Lab (RKLB)
+    *   Securitize (SECZ)
+    *   Apple
+    *   Samsung Electro-Mechanics
+    *   Kioxia
+    *   Kingboard Laminates
+    *   Yageo
+    *   Unimicron Technology
+    *   Samsung Electronics
+    *   HCLTech
+    *   Hindalco
+    *   Tech Mahindra
+    *   Wipro
+    *   Tata Steel
+    *   GVT&D
+    *   Power India
+    *   CG Power
+    *   Zydus Lifesciences
+    *   Apollo Hospitals
+    *   Schneider Electric Infrastructure
+    *   Adani Enterprises
+    *   Indian Hume Pipe Company
+    *   Deepak Builders & Engineers India
+    *   BLS E-Services
+    *   Marico
+    *   IEX (Indian Energy Exchange)
+    *   Avenue Supermarts Ltd
+    *   PB Fintech Ltd
+    *   Coal India
+    *   Angel One
+    *   Nestle India
+    *   Bajaj Finance (Bajaj Fin)
+    *   Vedanta
+    *   HZL (Hindustan Zinc Ltd)
+    *   Krystal Integrated Services
+    *   VOGL (Oil India Limited)
+    *   HiTech Pipes
+    *   Allcargo Global
+    *   GSP Crop Science
+    *   PNB (Punjab National Bank)
+    *   Bank of Baroda (BoB)
+    *   Bank of India
+    *   CSB Bank
+    *   SBC Exports
+    *   Sambhv Steel
+    *   Talbros Automotive
+    *   Transrail Lighting
+    *   Airfloa Rail Tech
+    *   Medplus Health Services
+    *   Ramco Systems
+    *   JSW Infrastructure
+    *   Titagarh Rail
+    *   Tata Motors Passenger Vehicles (TMPV)
+    *   Sterlite Tech
+    *   Maruti Suzuki
+    *   Maharashtra Seamless
+    *   TVS Motor Company
+    *   Dilip Buildcon Limited
+    *   Premier Energies
+    *   Capri Global Capital
+    *   Bluespring Enterprises
+    *   Kothari Petrochemicals
+    *   OneSource Specialty Pharma
+    *   Central Bank of India
+    *   Equitas Small Finance Bank
+    *   Ujjivan Small Finance Bank
+    *   Teradyne
+    *   KLA
+    *   Entegris
+    *   Lam Research
+    *   Marvell Technology
+    *   KPI Green Energy
+    *   Quality Power
+*   **Cryptocurrencies/ETFs/Indices:**
+    *   Bitcoin (BTC)
+    *   Ether (ETH)
+    *   Cardano (ADA)
+    *   Zcash (ZEC)
+    *   Dash (DASH)
+    *   Solana (SOL)
+    *   The Black Bull (ANSEM) (memecoin)
+    *   Pump.fun (PUMP) (platform token)
+    *   iShares Semiconductor ETF (SOXX)
+    *   iShares Preferred and Income Securities ETF (PFF)
+    *   VanEck Preferred Securities ex Financials ETF (PFXF)
+    *   Virtus InfraCap U.S. Preferred Stock ETF (PFFA)
+    *   Dow Jones
+    *   Nasdaq
+    *   S&P 500
+    *   Sensex
+    *   Nifty 50
+    *   Nifty IT index
+    *   Nifty Smallcap 100
+    *   Nifty Midcap 100
+    *   US Dollar
+    *   Japanese Yen
+    *   Euro
+    *   Sterling
+    *   Rupee
+    *   Gold
+    *   Silver
+    *   Crude oil
+
+#### **2. Stocks with Bad Sentiment**
+
+*   **Micron:** Shorted by Michael Burry, shares dropped 15%.
+*   **Nvidia:** Shorted by Michael Burry, shares retreated nearly 3%, and generally mentioned as "semiconductor rout weighs on sentiment."
+*   **Applied Materials:** Shorted by Michael Burry, shares plunged 17%.
+*   **Caterpillar:** Shorted by Michael Burry, shares dropped 11% due to concerns of overvaluation.
+*   **Tesla:** Shorted by Michael Burry, shares fell 6%.
+*   **iShares Semiconductor ETF (SOXX):** Shorted by Michael Burry, described as "pure form of overvaluation," slumped 12%, and ended in the red (shed 5.6%) due to losses in its constituents.
+*   **Samsung:** Shares tumbled 14% (Samsung Electronics).
+*   **SK Hynix:** Shares tanked 17%.
+*   **Palantir:** Michael Burry previously bet against it, and shares have plunged almost 40% from November high.
+*   **Moderna:** Jim Cramer expressed skepticism and avoidance.
+*   **GVT&D, Power India, CG Power:** Fell sharply as the Indian government allowed Chinese power equipment companies to bid on projects, increasing competition.
+*   **Avenue Supermarts Ltd:** Shares fell nearly 5% despite a reported 15.13% rise in revenue, with a "Sell" rating from Goldman Sachs.
+*   **PB Fintech Ltd:** Shares dropped nearly 6% following large block deals where a major investor trimmed its stake.
+*   **Allcargo Global:** Traded 5% lower, hitting its lower circuit.
+*   **Sterlite Tech:** Shares fell 5% to its lower circuit.
+*   **Medplus Health Services:** Received a suspension order for a Drug License, indicating potential revenue loss.
+*   **Tata Motors Passenger Vehicles (TMPV):** Reported a decline in wholesale and retail sales for Q1 FY27, with shares declining over 1%.
+*   **Apple:** Noted for recent price hikes and an unaddressed "Hide My Email" bug, impacting consumer privacy perception.
+*   **US Dollar:** Experienced its sharpest weekly decline in almost three months due to weak jobs data.
+
+#### **3. Stocks with Good Sentiment**
+
+*   **ServiceTitan, Inc. (TTAN):** A bullish thesis was published on it.
+*   **Markel Group Inc. (MKL):** A bullish thesis was published on it.
+*   **NuScale Power Corporation (SMR):** A bullish thesis was published on it.
+*   **Rocket Lab (RKLB):** Mentioned as a stock to buy, suggesting a positive outlook.
+*   **Securitize (SECZ):** Rallied on its NYSE debut, launched tokenized shares on Avalanche and Solana, backed by BlackRock and Morgan Stanley, and saw significant share price gains.
+*   **Samsung Electro-Mechanics:** Shares surged 660% in H1 2026 due to booming AI hardware demand.
+*   **Kioxia:** Shares climbed 631% in H1 2026, driven by AI data center demand and record earnings, becoming Japan's most valuable company.
+*   **Kingboard Laminates:** Shares jumped 535% in H1 2026 on rising demand for AI hardware.
+*   **Yageo:** Shares climbed 357% in H1 2026 due to increasing AI hardware demand.
+*   **Unimicron Technology:** Shares climbed 345% in H1 2026 due to surging demand for advanced AI chips.
+*   **HCLTech:** Shares rose over 4% after signing a significant $1.14 billion AI-led transformation deal.
+*   **Hindalco, Tech Mahindra, Wipro, Tata Steel:** Were among the top gainers on the Nifty 50.
+*   **Zydus Lifesciences & Apollo Hospitals:** Gained after collaborating to enhance access to a multi-cancer blood test.
+*   **Schneider Electric Infrastructure:** Board approved increased capital expenditure for capacity enhancement.
+*   **Adani Enterprises:** Shares soared near a 52-week high after launching and up-sizing a QIP and announcing a major aluminium joint venture.
+*   **Indian Hume Pipe Company:** Shares zoomed 6% after receiving a Letter of Acceptance for a large order.
+*   **Deepak Builders & Engineers India:** Shares surged 5% after receiving a large Letter of Acceptance for a project.
+*   **BLS E-Services:** Hit a 52-week high following a 100% acquisition.
+*   **Marico:** Shares rose 2% to a fresh 52-week high, reporting double-digit underlying volume growth and positive analyst ratings.
+*   **IEX (Indian Energy Exchange):** Shares rose 1% after reporting a 15.9% increase in Q1 FY27 electricity traded volume.
+*   **Angel One:** Shares rose over 1% due to growth in June business metrics, including a sharp increase in client funding.
+*   **Nestle India:** Declared a Special Dividend.
+*   **Bajaj Finance (Bajaj Fin):** Assets under management grew 24% YoY, with strong mortgage growth and multiple "Buy"/"Outperform" ratings from analysts.
+*   **Vedanta & HZL:** Stocks gained in early trade.
+*   **Krystal Integrated Services:** Received a work order.
+*   **VOGL:** Strong EBITDA projections and expansion plans to boost oil production.
+*   **HiTech Pipes:** Reported 26% year-on-year sales volume growth in Q1FY27.
+*   **PNB, Bank of India, CSB Bank, Ujjivan Small Finance Bank, Equitas Small Finance Bank:** Reported strong Q1 loan and deposit growth, indicating robust banking sector performance.
+*   **SBC Exports & Sambhv Steel:** Reported strong volume growth and contract extensions.
+*   **Talbros Automotive & Transrail Lighting:** Engaged in positive business developments like JVs and investments.
+*   **Airfloa Rail Tech:** Received a new order.
+*   **Ramco Systems:** Appointed a new CEO to drive global growth and accelerate AI-native strategy.
+*   **JSW Infrastructure:** Plans to expand cargo-handling capacity, and Moody’s assigned an investment-grade rating.
+*   **Titagarh Rail:** Signed a collaboration agreement.
+*   **Kothari Petrochemicals:** Rallied over 12% as raw material supply was restored to normal levels.
+*   **Japanese Yen, Euro, Sterling, Rupee:** Gained against a weakening US dollar.
+*   **Gold & Silver:** Futures climbed, with gold set for its first weekly rise in five.
+*   **Crude Oil:** Futures rose on cautious optimism over US-Iran peace talks.
+*   **Dow Jones & Global Stock Market:** Closed at record highs, indicating a powerful rally.
+
+#### **4. Stocks to Keep an Eye On**
+
+*   **SpaceX:** While its IPO was record-breaking and initial shares soared, it faces significant risks. JPMorgan warned of high volatility, massive cash burn, and operating losses. Critics are concerned about its unusual, complex lock-up schedules which could lead to significant share price pressure if insiders sell. Its "vibes-based accounting" also raises questions about valuation vs. actual financial results. **Watch for:** how its stock navigates these lock-up periods and whether its cash burn and profitability improve as xAI develops.
+*   **Bitcoin (BTC) & the broader Crypto Market (Ether, ADA, Zcash, Dash, Solana):** The crypto market is recovering, with Bitcoin hitting new July highs and altcoins participating in the rally, fueled by weak US job data easing rate hike fears. However, the broader market structure for most tokens remains bearish, with weak institutional demand and ETF outflows. The RBI's stance that cryptocurrency is a "threat" to India adds regulatory uncertainty. Solana shows strong internal metrics (tokenized assets, active addresses) but faces skepticism about a sustained rally based solely on temporary memecoin demand. **Watch for:** sustained momentum above key resistance levels ($62K, $65K for BTC), clearer signs of institutional adoption, and regulatory developments, especially the RBI's influence in India.
+*   **OpenAI:** Its IPO plans seem shaken by SpaceX's volatile debut. Advisors are cautioning against moving too soon due to market skepticism of high valuations, lack of "Musk-driven attention," and operating at a massive financial loss. **Watch for:** any new IPO timelines, signs of improved financial performance, and how it differentiates itself in a market wary of highly-valued, unprofitable AI companies.
+*   **Preferred Stock ETFs (PFF, PFXF, PFFA):** These ETFs offer benefits like diversification and monthly income. PFF has a high concentration in financial institutions, which might be a concern for some investors. PFFA uses leverage to boost income but magnifies losses and has higher fees. **Watch for:** how these funds perform under varying interest rate environments, especially PFFA with its leverage, and how PFXF continues to offer diversified exposure outside financials.
+*   **OneSource Specialty Pharma:** While shares were flat, a USFDA cGMP inspection of its Bengaluru facility resulted in "one observation." While not immediately severe, such observations can sometimes lead to future compliance issues or delays if not addressed. **Watch for:** follow-up information regarding this observation and its potential impact on operations or product approvals.
