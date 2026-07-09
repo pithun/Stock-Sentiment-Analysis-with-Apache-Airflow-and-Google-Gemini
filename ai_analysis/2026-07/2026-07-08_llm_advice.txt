@@ -1,0 +1,160 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Today's Market Pulse**
+
+The market today was largely overshadowed by renewed geopolitical tensions between the U.S. and Iran, leading to a significant jump in crude oil prices and a broad market sell-off for major indices. However, specific sectors and individual stocks showed diverging trends, with some areas of tech and healthcare displaying resilience or strong growth.
+
+---
+
+### **1. The Stocks Mentioned Today**
+
+**Major Indices & Commodities:**
+*   Dow Jones Industrial Average (DJIA)
+*   S&P 500
+*   Nasdaq
+*   Russell 2000
+*   Kospi Index
+*   Japan's Nikkei 225
+*   Crude Oil (Brent Crude, U.S. Crude)
+*   Indian Government Bonds
+*   Sensex, Nifty (India)
+
+**Individual Stocks & ETFs:**
+*   Adobe Inc. (ADBE)
+*   Advanced Micro Devices (AMD)
+*   American Express
+*   Axis Bank (India)
+*   Bandwidth Inc. (BAND)
+*   Booking Holdings
+*   Carnival
+*   Comcast (CMCSA)
+*   Costco
+*   Delta Air Lines
+*   DoorDash
+*   eBay (EBAY)
+*   Eli Lilly (LLY)
+*   Figure (tokenized platform)
+*   Global Payments Stock
+*   HDFC Bank (India)
+*   Home Depot
+*   Infosys (India)
+*   Intel
+*   Marvell Technology (MRVL)
+*   McDonald’s
+*   Meta
+*   Micron (MU)
+*   Netflix (NFLX)
+*   Nvidia (NVDA)
+*   NTPC (India)
+*   Ondo (tokenized platform)
+*   Oracle (ORCL)
+*   Philadelphia Semiconductor Index (SOX)
+*   Procter & Gamble
+*   Rivian (RIVN)
+*   Roundhill Memory ETF
+*   Samsung Electronics
+*   SanDisk
+*   SBI (India)
+*   Securitize (tokenized platform)
+*   SK Hynix
+*   SpaceX
+*   Spotify
+*   Southwest Airlines
+*   T-Mobile US (TMUS)
+*   Tesla
+*   United Airlines
+*   Walmart
+*   Western Digital Corp
+*   Wipro (India)
+*   XLY (Consumer Discretionary ETF)
+*   xStocks (tokenized platform)
+*   Magnificent Seven (group mention)
+*   Various other smaller mentions (Compass Stock, Enova International Stock, Okta Stock, Rocket Companies Stock, Palo Alto Networks Stock, ServiceNow Stock, AbbVie Stock, INCY, PepsiCo, Keurig Dr Pepper, EA, PCAR, CDW, COST, ETSY)
+
+---
+
+### **2. Which of These Stocks Had a Bad Sentiment**
+
+The prevailing geopolitical tensions and renewed inflation fears led to a negative sentiment across broad market indices and several sectors.
+
+*   **Broad Market & Travel:**
+    *   **Dow Jones Industrial Average (DJIA), S&P 500, Russell 2000, Global Stocks:** All experienced significant declines due to U.S.-Iran conflict and rising oil prices.
+    *   **Airlines (United Airlines, Delta Air Lines, Southwest Airlines), Travel (Booking Holdings, Carnival):** Fell sharply as rising crude oil prices directly impact operational costs.
+    *   **Discretionary Consumer Spending (DoorDash, American Express, Home Depot, Procter & Gamble, McDonald’s):** Tumbled as inflation fears and higher energy prices threaten consumer purchasing power.
+*   **Semiconductors & Memory (Mixed, but largely negative short-term):**
+    *   **Memory Chip Stocks, Roundhill Memory ETF, Philadelphia Semiconductor Index (SOX):** Entered a bear market this week, with the ETF down 25% from its peak.
+    *   **Samsung Electronics:** Fell 6.3% despite record revenue, as results barely cleared high investor expectations.
+    *   **SK Hynix:** Tumbled 5.7% amidst a broader selloff in AI semiconductor shares, despite high demand for its upcoming Nasdaq listing.
+    *   **Micron (MU):** Dropped 18% in a week, despite record earnings and strong outlook, attributed to the impending SK Hynix mega-IPO creating liquidity concerns.
+    *   **Intel, Broadcom:** Mentioned as suffering losses in a global tech rout.
+*   **Other Tech:**
+    *   **Tesla:** Slid over 2.3% on the day, with shares down 12.3% year-to-date, facing stagnant vehicle sales and growing competition from Chinese EV makers.
+    *   **Meta:** Down 1.7% on the day, despite edging past Tesla in market value, as investors remain focused on the ROI of its AI spending. Down 8.5% YTD and 25% from its peak.
+    *   **Netflix (NFLX):** Down 40.8% over the past year and 19.5% YTD due to sentiment shock (Warner Bros. acquisition concerns) and content amortization, seen as risky for retirement-focused investors.
+    *   **Oracle (ORCL):** Down 25.37% YTD, facing concerns over -$24 billion free cash flow and $70 billion in planned CapEx, which risks dilutive equity raises.
+*   **EV:**
+    *   **Rivian (RIVN):** Collapsed from $100 to $16 (83% decline) since its IPO, with negative fundamentals and bearish sentiment.
+
+---
+
+### **3. Which Had Good Sentiment**
+
+Despite the broader market downturn, several companies and segments demonstrated strong positive sentiment:
+
+*   **Crude Oil:** Prices jumped significantly (7%, 6%, 4%) due to Middle East tensions and reduced supply, signaling a positive outlook for oil producers and energy-related commodities.
+*   **Indian Government Bonds:** Expected further gains due to easing U.S. rate hike concerns from jobs data, potential inclusion in a major index, and retreating crude oil prices (a positive for India as an importer, easing inflation).
+*   **Nasdaq (End of Day):** Rebounded by the end of the day, indicating resilience in the tech sector despite early declines.
+*   **Semiconductors & AI (Long-Term Bullish despite short-term dips):**
+    *   **Marvell Technology (MRVL):** Surged 189% YTD, with strong data center revenue (76% of total), record operating cash flow, raised fiscal 2027/2028 outlooks due to "exceptional AI-related bookings," and strong analyst ratings.
+    *   **Nvidia (NVDA):** Remains a "kingpin" in semiconductors, with strong data center revenue and CEO framing the moment as "largest infrastructure expansion in human history." SK Hynix is a lead supplier.
+    *   **Adobe Inc. (ADBE):** Upgraded to a "Buy" by HSBC, recognized as one of the best beaten-down tech stocks to buy.
+    *   **Advanced Micro Devices (AMD):** Forecasted 5-year EPS growth of 62.88%, listed as a top cybersecurity stock to buy.
+    *   **SK Hynix:** Despite today's drop, shares are up over 200% this year, dominates high-bandwidth memory (HBM) chips for AI, and its upcoming U.S. listing is "very oversubscribed," seen as strategically positive by analysts.
+    *   **Micron (MU):** Despite short-term decline, posted record fiscal Q3 financial results and an even stronger outlook for Q4, driven by the "strategic value of memory in the AI era." JPMorgan and Navellier remain strongly bullish.
+*   **Healthcare/Biotech:**
+    *   **Eli Lilly (LLY):** "Loud" share price growth, Mounjaro alone generated $8.7 billion in Q1 2026 (up 125%), management raised full-year guidance, directors bought shares at progressively higher prices, poised for a potential stock split.
+*   **Retail/E-commerce:**
+    *   **Walmart:** Gaining market share, particularly from higher-income households, effectively adapting to the "K-shaped economy" by maintaining low prices while offering convenience to affluent shoppers.
+    *   **eBay (EBAY):** Surged 52% on a radical and successful overhaul of its consumer-to-consumer (C2C) business in the U.K., proving a new monetizable growth engine.
+*   **Telecom:**
+    *   **T-Mobile US (TMUS):** Positioned as a safer option for retirees due to its $1.02 quarterly dividend (2.2% yield), $14.6 billion buyback program, $18 billion in annual free cash flow, and a low beta (0.319).
+*   **Tokenized Assets:**
+    *   **Tokenized Stocks (Figure, Securitize, xStocks, Ondo):** Showed significant growth in transfers, distributed value, and number of holders, indicating increasing investor appetite and institutional adoption.
+
+---
+
+### **4. Which Would You Advise Me to Keep an Eye On**
+
+Given the current market dynamics, here are the stocks and themes I'd advise keeping a close eye on:
+
+1.  **AI Infrastructure Plays (Marvell Technology, Nvidia, Micron, SK Hynix):**
+    *   **Why:** Despite short-term volatility and some profit-taking (especially in memory), the fundamental demand for AI infrastructure remains exceptionally strong. These companies are at the core of this long-term trend.
+    *   **Watch For:** Any dips could present buying opportunities, especially as institutional investors digest the SK Hynix IPO and reallocate capital. Marvell's continued acceleration in data center revenue and Nvidia's ecosystem expansion are key.
+
+2.  **Eli Lilly (LLY):**
+    *   **Why:** Its growth is "loud" and driven by blockbuster drugs like Mounjaro and Zepbound. Strong financial performance, increased guidance, and insider buying signal continued momentum.
+    *   **Watch For:** Continued volume growth in its key products and any updates on a potential stock split, which could increase accessibility for retail investors.
+
+3.  **Oracle (ORCL):**
+    *   **Why:** Has quietly become a major AI infrastructure player with a massive revenue backlog and impressive IaaS growth. Currently trades at a discounted forward P/E.
+    *   **Watch For:** Improvement in its cash conversion and management of CapEx. If free cash flow issues resolve and the AI thesis fully plays out, its current valuation could represent a significant upside.
+
+4.  **T-Mobile US (TMUS):**
+    *   **Why:** In a volatile market, its stability, consistent dividend, strong free cash flow, and low beta make it an attractive option, especially for income-focused or more conservative investors.
+    *   **Watch For:** Continued dividend growth and share buybacks, and its ability to maintain subscriber growth amidst competition.
+
+5.  **Crude Oil Prices and Related Stocks:**
+    *   **Why:** Geopolitical tensions have made crude oil a primary market driver. Its trajectory will significantly impact inflation, consumer discretionary spending, and sectors like airlines.
+    *   **Watch For:** Escalations or de-escalations in the Middle East, and their direct impact on energy companies and indirect effects on the broader economy.
+
+6.  **Meta & Tesla (Post-Earnings):**
+    *   **Why:** Both are large-cap tech names facing specific challenges (Meta: AI spending ROI; Tesla: stagnant sales/competition) but also have significant potential if they execute well.
+    *   **Watch For:** Their upcoming earnings reports in July will be critical tests of their strategies and profitability. Meta's AI product revenue and Tesla's vehicle delivery numbers will be key.
+
+7.  **Tokenized Stocks (Securitize, Figure, xStocks, Ondo):**
+    *   **Why:** This nascent market is showing exponential growth and increasing institutional interest. It represents a potential paradigm shift in capital markets.
+    *   **Watch For:** Further regulatory clarity, more mainstream adoption, and continued innovation from platforms and exchanges. This is a longer-term, higher-risk, higher-reward area.
+
+---
