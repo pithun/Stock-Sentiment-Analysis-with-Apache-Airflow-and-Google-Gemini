@@ -1,0 +1,113 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Daily Briefing**
+
+**Overall Market Sentiment:** The broader market sentiment, particularly for the S&P 500, is leaning **cautious**, with signals of "excessive optimism" and a warning that "the overall reward for risk is not really good." Investors are advised to be more selective in this environment.
+
+---
+
+### **1. The Stocks Mentioned Today:**
+
+Here are the specific stocks and ETFs referenced in today's news:
+
+*   **Advanced Energy Industries** (NASDAQ: AEIS)
+*   **Amazon** (NASDAQ: AMZN)
+*   **Apple** (NASDAQ: AAPL)
+*   **Applied Materials** (NASDAQ: AMAT)
+*   **Booking Holdings Inc.** (NASDAQ: BKNG)
+*   **Broadcom** (NASDAQ: AVGO)
+*   **Bullish** (NYSE: BLSH)
+*   **Butterfly Network, Inc.** (NYSE: BFLY)
+*   **Chewy, Inc.** (NYSE: CHWY)
+*   **Citigroup** (NYSE: C)
+*   **Coca-Cola** (NYSE: KO)
+*   **Constellation Brands, Inc.** (NYSE: STZ)
+*   **CoreWeave, Inc.** (NASDAQ: CRWV)
+*   **Greenidge Class A** (No ticker provided, mentioned)
+*   **IBM** (NYSE: IBM)
+*   **iShares Preferred and Income Securities ETF** (NYSEARCA: PFF)
+*   **iShares Semiconductor ETF** (NASDAQ: SOXX)
+*   **Johnson & Johnson** (NYSE: JNJ)
+*   **JPMorgan Chase** (NYSE: JPM)
+*   **KLA Corporation** (NASDAQ: KLAC)
+*   **KKR & Co. Inc.** (NYSE: KKR)
+*   **Lam Research** (NASDAQ: LRCX)
+*   **Levi Strauss** (NYSE: LEVI)
+*   **Luxshare** (HKEX: 00028, China-listed supplier to Apple)
+*   **Marvell Technology** (NASDAQ: MRVL)
+*   **Meta Platforms** (NASDAQ: META)
+*   **Micron Technology** (NASDAQ: MU)
+*   **Microsoft** (NASDAQ: MSFT)
+*   **Mondelez International** (NASDAQ: MDLZ)
+*   **NVIDIA** (NASDAQ: NVDA)
+*   **Oracle Corporation** (NYSE: ORCL)
+*   **Palantir** (NASDAQ: PLTR)
+*   **PepsiCo** (NASDAQ: PEP)
+*   **Preformed Line Products Company** (NASDAQ: PLPC)
+*   **Salesforce Inc.** (NYSE: CRM)
+*   **Samsung Electronics** (KRX: 005930, mentioned)
+*   **Sandisk** (now part of Western Digital)
+*   **SK Hynix** (KRX: 000660, mentioned)
+*   **SoftBank** (TYO: 9984, mentioned)
+*   **SpaceX** (NASDAQ: SPCX) - *Note: This appears to be a mock ticker used in the provided news for a non-publicly traded company, or referring to its private market valuation/IPO discussions.*
+*   **Starbucks** (NASDAQ: SBUX)
+*   **Teradyne** (NASDAQ: TER)
+*   **Tesla** (NASDAQ: TSLA)
+*   **Virtus InfraCap U.S. Preferred Stock ETF** (NYSEARCA: PFFA)
+*   **Wells Fargo** (NYSE: WFC)
+*   **Western Digital** (NASDAQ: WDC)
+
+---
+
+### **2. Stocks with Bad Sentiment Today:**
+
+These stocks experienced negative news or sentiment:
+
+*   **IBM (NYSE: IBM):** Facing potential replacement of its enterprise applications by Starbucks' in-house AI software.
+*   **Levi Strauss (NYSE: LEVI):** Shares fell due to disappointing guidance, despite an earnings beat.
+*   **Luxshare (HKEX: 00028):** Experienced an "underwhelming opening" for its Hong Kong listing, with shares sliding significantly below offer price. Concerns about its heavy dependence on Apple were also highlighted.
+*   **Mondelez International (NASDAQ: MDLZ):** Adjusted operating margin fell, and FY2026 organic revenue growth guidance was flat to low, signaling weakness.
+*   **SpaceX (NASDAQ: SPCX):** Mentioned in the context of a "rocky debut" for its IPO and shares slipping ahead of Nasdaq 100 entry. *(Note: While news suggests a NASDAQ ticker, SpaceX is currently privately held. This might refer to private market activity or speculation around future listing.)*
+
+---
+
+### **3. Stocks with Good Sentiment Today:**
+
+These stocks received positive news or sentiment:
+
+*   **Advanced Energy Industries (NASDAQ: AEIS):** Price target raised by Susquehanna.
+*   **Applied Materials (NASDAQ: AMAT):** Shares climbed 6% pre-market, with the CEO highlighting strong multi-year demand from chipmakers, multiple analyst upgrades, and strong financial performance.
+*   **Booking Holdings Inc. (NASDAQ: BKNG):** Highlighted by Jim Cramer for AI opportunities.
+*   **Broadcom (NASDAQ: AVGO):** Shares were up 3%, boosted by Apple's long-term semiconductor supply agreement and strong AI semiconductor revenue growth guidance.
+*   **Butterfly Network, Inc. (NYSE: BFLY):** Highlighted by Jim Cramer for AI opportunities.
+*   **Chewy, Inc. (NYSE: CHWY):** Highlighted by Jim Cramer for AI opportunities.
+*   **Constellation Brands, Inc. (NYSE: STZ):** Highlighted by Jim Cramer for AI opportunities.
+*   **CoreWeave, Inc. (NASDAQ: CRWV):** Highlighted by Jim Cramer for AI opportunities.
+*   **Johnson & Johnson (NYSE: JNJ):** Jim Cramer was bullish on its AI opportunities.
+*   **KLA Corporation (NASDAQ: KLAC):** Price target raised by Susquehanna.
+*   **Lam Research (NASDAQ: LRCX):** Price target raised by Susquehanna.
+*   **NVIDIA (NASDAQ: NVDA):** Despite a slight dip today, SemiAnalysis projects its Data Center compute revenue significantly above Wall Street consensus, with 12 straight EPS beats and strong free cash flow. It's also seen as reasonably valued compared to peers on growth-adjusted multiples. Highlighted by Jim Cramer for AI opportunities.
+*   **Oracle Corporation (NYSE: ORCL):** Highlighted by Jim Cramer for AI opportunities in neoclouds.
+*   **Preformed Line Products Company (NASDAQ: PLPC):** Highlighted by Jim Cramer for AI opportunities.
+*   **Salesforce Inc. (NYSE: CRM):** Recognized as one of the best major stocks to buy by analysts and started July on a positive note.
+*   **Starbucks (NASDAQ: SBUX):** Developing in-house AI software to reduce reliance on third-party providers, indicating strategic growth.
+*   **Tesla (NASDAQ: TSLA):** RBC raised its price target due to speculation about a potential merger with SpaceX.
+*   **Western Digital (NASDAQ: WDC) / Sandisk:** Rose 7% amidst a rebound in memory stocks.
+
+---
+
+### **4. Stocks to Keep an Eye On:**
+
+These stocks present interesting dynamics or significant developments that warrant closer monitoring:
+
+*   **Micron Technology (NASDAQ: MU):** A highly volatile stock, recently dropped 22% from highs and was even publicly shorted by Dr. Michael Burry. However, it's also seeing strong fundamental demand for high-bandwidth memory (HBM) projected through 2028, significant analyst confidence with a Street-high price target implying 133% upside, and a recent 9% pop in shares after announcing a massive capex boost. This contradictory sentiment makes it one to watch for potential entry points or continued volatility.
+*   **Marvell Technology (NASDAQ: MRVL):** Experienced a 7% midday rally, participating in a broad semiconductor rebound after a multi-week pullback. While it has an expanded NVIDIA partnership and strong growth, its trailing P/E of 85x and analyst targets near its current quote suggest valuation is a pressure point. Watch if its strong growth can justify its premium valuation.
+*   **PepsiCo (NASDAQ: PEP):** Shares fell 4% after Q2 earnings, creating a potential entry point. Despite the dip, it boasts impressive fundamentals including its highest organic volume growth since 2022, substantial capital returns, and a 54th consecutive dividend hike. Analysts maintain a "BUY" rating with significant upside potential. Monitor its North America performance and commodity pressures.
+*   **iShares Semiconductor ETF (NASDAQ: SOXX):** This ETF offers broad exposure to the semiconductor sector, which is experiencing extreme volatility but also strong underlying demand driven by AI. It's shown both soaring highs and sharp declines recently, and a 5% rebound today. It's an amplified play on the AI infrastructure trade, suitable for investors wanting sector exposure but needing to tolerate concentration risk and volatility.
+*   **Virtus InfraCap U.S. Preferred Stock ETF (NYSEARCA: PFFA):** Offers a very high yield (9.5%) with a history of uninterrupted monthly payments, benefiting from falling Fed rates. However, its use of leverage leads to sharper NAV swings, making it less suitable for investors prioritizing stable principal. Watch this for income generation, but be mindful of its volatility.
+*   **Amazon (NASDAQ: AMZN) & Microsoft (NASDAQ: MSFT):** While broadly positive companies, both were mentioned as "hyperscalers" whose AI capex spending has caused them to lag the broader Nasdaq 100 recently (News_19). Additionally, Microsoft is a backer of OpenAI, and Amazon is a backer of Anthropic, both AI leaders eyeing IPOs (News_18). Keep an eye on their direct stock performance relative to their AI investments and spending, and how their indirect exposure to OpenAI/Anthropic unfolds.
+*   **OpenAI / Anthropic (Private Companies):** Both are leading AI chatbot developers actively planning IPOs for the fall, potentially valued near $1 trillion. They are burning significant cash and face market condition challenges (e.g., price competition, government scrutiny for Anthropic). The performance of the first one to go public will likely impact the other. While not directly tradable yet, their IPO news and backer dynamics (Microsoft for OpenAI; Amazon/Google for Anthropic) are critical to watch for broader AI market implications.
+
+---
