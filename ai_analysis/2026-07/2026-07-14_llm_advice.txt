@@ -1,0 +1,41 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Today's Market Pulse**
+
+#### **1. Stocks Mentioned Today:**
+
+*   **Technology & Software:** IBM, Salesforce, Microsoft, SK Hynix, Micron, Unity (U), Nvidia (NVDA), Intel, Meta, Palantir, ServiceNow, PowerFleet, Inc. (AIOT), IGV tech software ETF, Anthropic (private).
+*   **Financials:** JPMorgan Chase, Goldman Sachs, Bank of America, Wells Fargo, Citigroup, Coinbase Global, Inc. (COIN), Visa Inc. (V), Mastercard Incorporated (MA).
+*   **Automotive:** Lucid Motors (LCID).
+*   **Other:** Sony (SONY), Apple (AAPL).
+
+#### **2. Stocks with Bad Sentiment:**
+
+*   **IBM:** Had its worst day ever, with shares tanking 25% after reporting preliminary Q2 earnings much lower than expected. The company cited a "shortfall" in software and infrastructure, stemming from clients reprioritizing spending towards increasingly expensive AI hardware (servers, storage, memory) over software and mainframes. This is seen by some as a significant early casualty of the AI spending shift.
+*   **Lucid Motors (LCID):** Experienced extreme volatility, with shares initially crashing over 55% on rumors of considering Chapter 11 bankruptcy. While the company denied the rumors and its stock recovered somewhat, it still closed down around 15% for the day. Its past losses ($1.13 billion net loss in Q1 2026) and the sheer magnitude of the crash indicate deep investor concern.
+*   **Salesforce & Microsoft:** Both saw their stocks drop (4% and almost 3% respectively) in the wake of IBM's warning, indicating a broader market concern for traditional software providers amidst shifting AI spending patterns.
+*   **IGV tech software ETF:** Dropped 2%, reflecting the negative sentiment across the broader software sector triggered by IBM's poor performance.
+
+#### **3. Stocks with Good Sentiment:**
+
+*   **JPMorgan Chase (JPM) & Goldman Sachs (GS):** Both posted record profits for Q2, beating analyst expectations, driven by strong trading and investment banking activity.
+*   **Bank of America (BAC), Wells Fargo (WFC), & Citigroup (C):** All reported strong Q2 results, beating forecasts, with their stocks showing positive movement (Bank of America jumped 2%, Wells Fargo rose, Citigroup beat estimates despite a slight premarket dip).
+*   **SK Hynix:** Surged over 20% on Nasdaq, benefiting significantly from the increased corporate spending on memory chips for AI infrastructure.
+*   **CrowdStrike & Palo Alto Networks:** Shares jumped as cybersecurity vendors are seen as beneficiaries of companies accelerating security spending to defend against new AI-powered threats.
+*   **Coinbase Global, Inc. (COIN):** Received an upgraded rating and was highlighted as one of the "Most Promising Fintech Stocks to Buy Now."
+*   **Visa Inc. (V) & Mastercard Incorporated (MA):** Both saw bullish sentiment from Wall Street analysts, with price objectives being lifted, and were mentioned as "Best Monopoly Stocks" and "Most Promising Fintech Stocks."
+*   **Intel:** The US government's stake, acquired in 2025, has turned into a profit, indicating positive long-term outlook for the company given the AI boom.
+*   **Meta (META):** Shares rallied as investors focused on infrastructure efficiency, overshadowing its AI model launch.
+*   **PowerFleet, Inc. (AIOT):** Identified as one of the "Fastest Growing Tech Penny Stocks to Buy."
+
+#### **4. Which would you advise me to keep an eye on:**
+
+*   **Nvidia (NVDA):** While a leader in AI, the news indicates tightening access to its AI chips due to US export restrictions and the company expanding due diligence. This suggests potential geopolitical headwinds and supply chain challenges, despite surging demand. Also, its role as a potential acquirer of Unity makes it one to watch for strategic moves.
+*   **Unity (U):** Its stock has crashed significantly YTD, but it's described as a "strategic asset" with accelerating underlying business. Analysts view it as a potential "bargain" and an attractive acquisition target for giants like Nvidia, Sony, Apple, or Microsoft. Monitor for any M&A developments or a turnaround in its core business.
+*   **Micron & Samsung:** These memory giants are benefiting immensely from AI chip demand, with capacity sold out for years. However, the news mentions "structural supply constraints" which could impact future growth or pricing power. Keep an eye on how they navigate this high-demand, tight-supply environment.
+*   **Palantir & ServiceNow:** Mentioned by analysts as potential future "casualties" of the shifting enterprise spending patterns, similar to IBM. It's crucial to observe if companies beyond IBM start reporting similar pressures from hardware prioritization over software and services.
+*   **The broader Software Sector (e.g., via IGV ETF):** Given IBM's major miss and the ripple effect on Salesforce and Microsoft, the "SaaSpocalypse" fear is revived. This shift in corporate IT budgets towards AI infrastructure and cybersecurity, potentially at the expense of traditional software, is a trend that requires careful monitoring across the entire sector.
+
+---
