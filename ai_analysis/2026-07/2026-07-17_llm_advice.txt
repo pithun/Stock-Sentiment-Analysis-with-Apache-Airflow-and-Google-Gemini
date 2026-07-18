@@ -1,0 +1,68 @@
+Here's a summary of today's stock news with sentiment analysis and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Daily Briefing**
+
+**Overall Market Tone:** The market is experiencing a significant "risk-off" sentiment, particularly in the tech and AI-chip sectors. There's a notable rotation of capital out of mega-cap tech into financials, energy, and value names. Concerns over AI infrastructure spending, profit-taking, and rising interest rate expectations are weighing on growth stocks, while geopolitical tensions add to the caution.
+
+---
+
+### **1. The Stocks Mentioned Today**
+
+*   **Technology & AI/Semiconductors:** Trump Media (TMTG), Taiwan Semiconductor Manufacturing Co. (TSMC), Nvidia (NVDA), Intel (INTC), Applied Materials, Corning, Sandisk, Advanced Micro Devices (AMD), Micron (MU), Apple (AAPL), Microsoft (MSFT), Google (GOOGL/Alphabet), Palo Alto Networks (PANW), CrowdStrike (CRWD), Zscaler (ZS), Fortinet (FTNT), Cloudflare (NET), Oracle (ORCL), Salesforce (CRM), IBM, SK Hynix (SKHY), Broadcom (AVGO), Powell Industries (POWL).
+*   **Financials & Brokerages:** Robinhood (HOOD), Webull (BULL), JPMorgan Chase (JPM).
+*   **Energy:** Devon Energy (DVN).
+*   **Retail:** TJX Companies (TJX).
+*   **Cryptocurrencies:** Bitcoin (BTC), Ether (ETH), Hyperliquid (HYPE), Solana (SOL), XRP.
+*   **Market Indices/ETFs:** Nasdaq (NDAQ), S&P 500, Dow Jones Industrial Average, Nasdaq 100, Philadelphia Semiconductor Index, SMH (Semiconductor ETF), QQQ (Nasdaq 100 proxy ETF), Energy Select Sector SPDR.
+
+---
+
+### **2. Stocks with Bad Sentiment Today**
+
+*   **Nvidia (NVDA):** Experienced significant drops (3.5% initially, 2.2% Friday close) and was overtaken by Apple as the world's most valuable company. Growth has slowed (7% YTD) amid broader AI fatigue and concerns over capital expenditure.
+*   **Taiwan Semiconductor Manufacturing Co. (TSMC):** Closed down over 3% despite beating profit and revenue expectations, as the market focused on higher-than-forecast capital expenditure plans and potential returns on AI investments.
+*   **Intel (INTC):** Slid 2% on Friday as part of the broader semiconductor slump.
+*   **Applied Materials:** Tumbled 5.5% on Friday.
+*   **Corning:** Dropped 2.3% on Friday.
+*   **Sandisk:** Fell nearly 4% on Friday, despite strong year-to-date gains, indicating profit-taking.
+*   **Advanced Micro Devices (AMD):** Shares fell over 1% on Friday.
+*   **Robinhood (HOOD):** Fell 4% due to profit-taking and its high-beta amplification of broad tech weakness, plus sensitivity to crypto market declines. Down 6.26% YTD.
+*   **Webull (BULL):** Dropped 6% due to similar factors as Robinhood (profit-taking, tech weakness, crypto exposure).
+*   **Bitcoin (BTC), Ether (ETH), Hyperliquid (HYPE), Solana (SOL), XRP:** All major cryptocurrencies saw declines (HYPE down 10%, BTC down 1.2%, ETH down 1.74%), driven by broader market risk-off sentiment and tech selloff.
+*   **Zscaler (ZS):** Down 35% year-to-date despite reporting 9 straight EPS beats and strong revenue growth, suggesting it's being disproportionately punished in the tech sell-off.
+*   **Oracle (ORCL):** Has fallen 35% YTD, its credit rating was cut to one notch above junk by S&P due to massive AI infrastructure spending, and free cash flow turned negative.
+*   **Microsoft (MSFT):** Off 17% YTD, noted in comparison to Oracle's larger decline, reflecting a broader drag on large-cap software.
+*   **Salesforce (CRM):** Down 34% YTD.
+*   **IBM:** Dropped significantly (25.82% in a week) following a software miss, attributed to enterprises shifting budgets from software to AI hardware.
+*   **Broadcom (AVGO):** Off 1% on Friday.
+
+---
+
+### **3. Stocks with Good Sentiment Today**
+
+*   **Trump Media (TMTG):** Announced "Truth API" for licensed, real-time access to market-moving posts, positioning it as a new high-margin, recurring revenue stream with signed customers.
+*   **Apple (AAPL):** Reclaimed the title of the world's most valuable company, with its stock up 17 points this week and recovering strongly. Up 22-23% YTD, it's closing in on a $5 trillion valuation. HSBC upgraded it to "buy," citing its operational turning point and strong position to monetize AI through services and hardware.
+*   **Micron (MU):** While the broader chip sector faced headwinds, Micron was highlighted for soaring 197% in value this year and crossing $1 trillion in market value in May.
+*   **Palo Alto Networks (PANW):** Up 92% YTD, with accelerating organic bookings growth as customers prioritize securing AI deployments. Highlighted as a top AI-era cybersecurity play.
+*   **CrowdStrike (CRWD):** Up 74% YTD, strong Q1 earnings, and positioned as critical AI security infrastructure. Also noted for a recent 4-for-1 stock split broadening access.
+*   **Fortinet (FTNT):** Up 102% YTD, saw product revenue explode 41% year-over-year, benefiting from a hardware refresh cycle and AI threat environment, integrated with Nvidia for AI security.
+*   **Cloudflare (NET):** Up 38.2% YTD, Q1 earnings validated its pivot to an AI-first company, with its platform seen as crucial for AI agents interacting with the internet.
+*   **SK Hynix (SKHY):** Rebounded 8% on Friday after a two-day rout. HSBC reaffirmed it as a top chip sector pick, arguing that fears of the memory-chip cycle peaking are overstated, highlighting its dominant position in high-bandwidth memory (HBM).
+*   **Powell Industries (POWL):** Despite a recent pullback, new orders surged 97%, and its backlog hit a record high, including a $400M data center order. It's positioned as a "picks-and-shovels" play for AI data center build-outs, up 122% YTD.
+*   **TJX Companies (TJX):** Delivered strong Q1 results with EPS beating consensus and consolidated comparable sales climbing 6% (driven by higher customer transaction counts), and raised FY27 EPS guidance. Benefiting from consumers trading down in retail.
+*   **JPMorgan Chase (JPM):** Crushed Q2 EPS estimates by 33%, with revenue significantly exceeding expectations. Saw strong growth in Equity Markets and Investment Banking, authorized a new $50 billion buyback, and is seen as a key beneficiary of the rotation into financials.
+*   **Devon Energy (DVN):** Raised its dividend 31% and saw strong oil production. Its merger with Coterra Energy is expected to unlock significant synergies and accelerate free cash flow growth. Upgraded to Strong Buy.
+
+---
+
+### **4. Stocks to Keep an Eye On**
+
+1.  **Oracle (ORCL):** While currently facing significant headwinds (35% YTD fall, credit downgrade, negative FCF due to massive capex), it boasts an "unprecedented" $638 billion contracted backlog. One analyst (Guggenheim's DiFucci) maintains a $400 price target, seeing a dramatic free cash flow rebound starting in FY2029. This is a high-risk, high-reward play where the market is questioning the timeline of its AI infrastructure bet. If the long-term vision materializes, the upside is substantial.
+2.  **Zscaler (ZS):** Down 35% YTD, making it an apparent laggard. However, it has delivered nine consecutive EPS beats, and its CEO explicitly positions it as "ideally positioned as the cybersecurity platform for the AI era." With analysts targeting nearly double its current price, it could be an oversold opportunity with strong underlying fundamentals in a critical AI-driven sector.
+3.  **SK Hynix (SKHY):** Extremely volatile but a key player in High-Bandwidth Memory (HBM), essential for AI chips. Its recent 8% rebound and HSBC's "top pick" endorsement, despite sector-wide concerns and macro headwinds, suggest potential for upside. Watch for stabilization and further confirmation of the HBM demand cycle.
+4.  **Powell Industries (POWL):** A lesser-known "picks-and-shovels" play for the AI buildout. Despite a recent pullback, its surging new orders, record backlog (including a $400M data center order), and 122% YTD gain highlight its indirect benefit from AI infrastructure spending. It's well-positioned as capital rotates from speculative AI plays to underlying enablers.
+5.  **Nvidia (NVDA):** Despite today's negative sentiment and slide, Nvidia remains the leader in the AI chip race. Its significant market capitalization and crucial role in AI development mean any major dip, especially due to profit-taking or market jitters rather than fundamental issues, could present a strategic long-term entry point for those bullish on the continued growth of AI. It's always a bellwether for the AI sector.
+
+---
