@@ -1,0 +1,44 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+## **Stock Sentiment Analysis: Daily Digest**
+
+### **1. Stocks Mentioned Today:**
+
+*   **Technology/AI/Semiconductors:** Alphabet (GOOG), AMD, Apple (AAPL), ASML, BigBear.ai (BBAI), Dell (DELL), Intel (INTC), Meta (META), Micron (MU), Microsoft (MSFT), NVIDIA (NVDA), Palantir (PLTR), Samsung Electronics (005930.KS), SK Hynix (000660.KS), SpaceX (SPCX), Tesla (TSLA), Texas Instruments (TXN), TSMC (TSM).
+*   **Retail/Consumer:** Amazon (AMZN), AMC Entertainment Holdings, Inc. (AMC), Chipotle (CMG), Domino's Pizza (DPZ).
+*   **Finance/Services:** American Express (AXP), Bullish (BLSH).
+*   **Media/Entertainment:** IMAX, Warner Bros. Discovery (WBD).
+*   **Defense:** RTX.
+*   **Other/Indices/ETFs:** Canon (CAJ - product mention), Hyundai Motor (005380.KS), iShares Semiconductor ETF (SOXX), VanEck Semiconductor ETF (SMH), S&P 500, Nasdaq 100, Kospi Index.
+*   **Indian Stocks (Generic Trending Mentions):** SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC.
+
+### **2. Stocks with Bad Sentiment:**
+
+*   **SpaceX (SPCX):** Shares declined after its 13th Starship test flight was halted due to engine issues, and analysts questioned its potential for profitability.
+*   **Warner Bros. Discovery (WBD):** Facing an antitrust challenge from 12 U.S. states over its proposed merger, leading to legal delays and increased investor uncertainty.
+*   **Dell (DELL):** Shares dropped 3.3% today, adding to an 8.8% slide last week and over 18% decline since its June 1 peak, despite strong underlying AI server business.
+*   **iShares Semiconductor ETF (SOXX) & VanEck Semiconductor ETF (SMH):** Both ETFs tracking major chipmakers are down significantly (around 18% from recent peaks) and are flirting with technical bear market territory, signaling broader weakness in the semiconductor sector.
+*   **General Chip Sector:** Described as having a "rocky few weeks" with "carnage" and facing a "reality check" as the AI trade rotation pummels high-flying stocks.
+
+### **3. Stocks with Good Sentiment:**
+
+*   **Alphabet (GOOG):** Shares jumped on reports of developing a new, 10x more energy-efficient AI chip ("Frozen v2") and positive expectations for Q2 earnings and Google Cloud revenue growth.
+*   **AMC Entertainment Holdings, Inc. (AMC):** Stock surged over 20% after reporting record quarterly revenue and EBITDA, comfortably beating Wall Street expectations.
+*   **AMD (AMD):** Gained 5% after Microsoft expanded its Azure AI partnership, positioning AMD's AI hardware as a key component of Azure's cloud infrastructure.
+*   **Apple (AAPL):** Morgan Stanley believes it's well-positioned to benefit from an anticipated iPhone price increase, potentially boosting future earnings per share.
+*   **ASML (ASML):** Propelled to the top of Europe's stock market due to soaring demand for its advanced equipment critical for AI chip manufacturing.
+*   **IMAX (IMAX):** Shares rose 4% after "The Odyssey" film generated record global ticket sales in IMAX theatres during its opening weekend.
+*   **Micron (MU):** Highlighted as a successful investment by a young trader whose shares in Micron (along with Intel) quadrupled.
+*   **Microsoft (MSFT):** Strengthened its strategic partnership with AMD for Azure AI, signaling robust investment in AI infrastructure.
+*   **SK Hynix (000660.KS):** A tech heavyweight in South Korea, successfully debuted in New York raising $26.5 billion, and was mentioned by investors regretting not buying more due to its strong performance.
+*   **TSMC (TSM):** Expects long-term strong demand for AI chips and is accelerating investments in Arizona, confirming a confident long-term outlook after stronger-than-expected Q2 results.
+
+### **4. Stocks to Keep an Eye On:**
+
+*   **Intel (INTC) & Texas Instruments (TXN):** Both chipmakers are scheduled to report earnings soon, which will provide crucial insights into demand across the semiconductor sector and could further influence the volatile AI trade.
+*   **Tesla (TSLA), American Express (AXP), & RTX (RTX):** These major companies are also reporting earnings this week. Their results could significantly impact broader market sentiment, especially regarding consumer spending (AXP), EV demand (TSLA), and defense spending (RTX).
+*   **Palantir (PLTR):** Despite strong revenue growth, consistent earnings beats, and high demand for its AI platforms, the stock has seen a significant year-to-date decline and trades at high multiples. Watch for its ability to sustain growth and manage valuation concerns.
+*   **Dell (DELL):** While recently declining, its AI server revenue skyrocketed by 757% in the previous quarter. Q2 earnings will be critical to see if its core AI business strength can counteract the recent stock sell-off.
+*   **General Chip Sector:** The sector is experiencing high volatility and a correction. While "technical damage" suggests further downside, the fundamental demand for AI chips remains strong. This could present a "buy the dip" opportunity for some investors, but extreme caution is advised given the current market uncertainty.
