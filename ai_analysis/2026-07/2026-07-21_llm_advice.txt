@@ -1,0 +1,65 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### Stock Sentiment Analysis: Daily Briefing
+
+**1. The Stocks Mentioned Today:**
+
+*   **Technology & Semiconductors:** 3M (MMM), Advanced Micro Devices (AMD), Adobe (ADBE), Alphabet (GOOGL), Applovin, Broadcom (AVGO), Celestica (CLS), DXC Technology (DXC), Fortinet (FTNT), IBM (IBM), IMAX (IMAX), Intel (INTC), Lam Research (LRCX), Microsoft (MSFT), Micron Technology (MU), Nebius Group (NBIS), Netflix (NFLX), Nvidia (NVDA), Oracle, Salesforce (CRM), SK Hynix (SKHY), TSMC (TSM), Workiva (WK).
+*   **Automotive:** Ford, General Motors (GM), Stellantis, Tesla (TSLA), Volkswagen.
+*   **Financials:** JPMorgan (JPM), Bullish (BLSH).
+*   **Biotechnology & Pharma:** AbbVie, Alamos Gold, Bristol Myers Squibb, Neurocrine Biosciences, Novartis (NVS), Pfizer, VivoSim (VIVS), Merck.
+*   **Retail & Entertainment:** AMC Entertainment Holdings, Inc. (AMC), Domino’s Pizza Inc. (DPZ), Hasbro (HAS), Paramount Skydance (PSKY), Warner Bros. Discovery (WBD).
+*   **Other:** Bayer (BAYRY), Kodiak Gas, Delta Gold Technologies (DGQTF).
+*   **Cryptocurrencies:** Bitcoin (BTC), Ether (ETH), BNB (BNB), XRP (XRP), TRON.
+
+**2. Stocks with Bad Sentiment Today:**
+
+*   **Adobe (ADBE):** Downgraded to Underweight with a significantly lowered price target.
+*   **DXC Technology (DXC):** Chairman acknowledged dissatisfaction with stock performance, has a "Reduce" rating, and a key equity plan failed to pass.
+*   **Ford:** Recorded a substantial $19.5 billion charge related to its EV development plans.
+*   **Intel (INTC):** Foundry business posted a $2.4 billion operating loss, lacks an economic moat, and faces execution risk.
+*   **Oracle:** Described as having a "brutal run this summer."
+*   **Paramount Skydance (PSKY):** Proposed merger with Warner Bros. Discovery faces a legal setback due to an antitrust challenge.
+*   **Salesforce (CRM):** Price target crashed significantly by Morgan Stanley.
+*   **Stellantis:** Announced a $26 billion charge related to its EV development plans.
+*   **Volkswagen:** Wrote off $3.5 billion related to its EV development plans.
+*   **Warner Bros. Discovery (WBD):** Proposed merger with Paramount Skydance faces a legal setback due to an antitrust challenge.
+
+**3. Stocks with Good Sentiment Today:**
+
+*   **3M (MMM):** Advanced more than 7% pre-market, reported Q2 earnings and revenue ahead of expectations, and raised its full-year outlook.
+*   **Advanced Micro Devices (AMD):** Shares gained 5% after Microsoft announced a major expansion of its Azure AI partnership.
+*   **Alphabet (GOOGL):** Shares rose 1.15% on news of a new generation AI chip project ("Frozen v2") aimed at improving efficiency.
+*   **AMC Entertainment Holdings, Inc. (AMC):** Shares climbed 13.4% premarket after delivering record quarterly revenue and adjusted EBITDA, beating Wall Street expectations.
+*   **Applovin:** Projected to produce 56% EPS growth in 2026, driven by its self-service ad platform and expansion into e-commerce, with free cash flow margins above 70%.
+*   **Bayer (BAYRY):** Expanding an international relationship in sustainable agriculture.
+*   **Broadcom (AVGO):** Dominant in custom AI accelerators (ASICs) with 70-80% market share, strong partnerships, Q2 revenues up 47.9%, and adding recurring software revenue via VMware.
+*   **Celestica (CLS):** Expected to deliver 70% EPS growth in 2026, benefiting from AI infrastructure spending and strong demand for networking switches.
+*   **Delta Gold Technologies (DGQTF):** Strengthened its scientific leadership with advisory panel expansion.
+*   **Domino’s Pizza Inc. (DPZ):** Revenue topped forecasts, and shares climbed 4.7% premarket, despite an earnings miss.
+*   **Fortinet (FTNT):** Morgan Stanley nearly doubled its price target.
+*   **General Motors (GM):** Q2 results surpassed analyst forecasts, raised 2026 financial guidance, and stock jumped >3% after hours despite significant EV-related write-downs.
+*   **Hasbro (HAS):** Reported stronger-than-expected Q2 results, beat Wall Street forecasts, and lifted full-year guidance.
+*   **IMAX (IMAX):** Shares rose 4% after "The Odyssey" generated a record-breaking opening weekend in IMAX theaters.
+*   **Kodiak Gas:** Expected to increase EPS by 99% in 2026, supported by its compression business and a new strategic focus on supplying power to AI data centers.
+*   **Micron Technology (MU):** Expected to report a 785% EPS gain for FY2026, with HBM supply sold out for 2026 and significant 2027 capacity committed. Stock is up 630% over the past year.
+*   **Microsoft (MSFT):** Expanding AI partnerships and received an "Overweight" rating with a high price target from Morgan Stanley, positioning well in AI infrastructure.
+*   **Nebius Group (NBIS):** Shares rose after Nvidia disclosed a 9.3% ownership stake and multiple analysts upgraded or raised price targets, citing strong AI computing demand.
+*   **Neurocrine Biosciences:** Expected to increase 2026 EPS by nearly 60%, driven by the commercial success of Ingrezza and a robust pipeline.
+*   **Novartis (NVS):** Traded higher after reporting Q2 results that exceeded market expectations.
+*   **Nvidia (NVDA):** Continues to be the undisputed leader in AI chips, expected to see an 88% EPS increase for FY2027, with strong demand and analyst conviction.
+*   **SK Hynix (SKHY):** Dominates the global HBM market (58% share), with HBM sales more than doubling year-over-year, fueling record operating profit.
+*   **TSMC (TSM):** Controls 72% of the global chip foundry market, sees strong long-term AI chip demand, and raised its full-year revenue growth guidance.
+*   **VivoSim (VIVS):** Reported its first commercial sales in mainland China, expanding its geographic reach and market presence.
+*   **Cryptocurrencies (BTC, ETH, BNB, XRP, TRON):** All posted gains on reports suggesting the U.S. Clarity Act for crypto market structure may have cleared a hurdle.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA), Broadcom (AVGO), Micron Technology (MU), SK Hynix (SKHY), TSMC (TSM):** These semiconductor giants are at the heart of the AI revolution. Their continued strong performance and market dominance make them critical to watch for anyone invested in the AI growth story. They are currently leading the market.
+*   **Microsoft (MSFT) & Alphabet (GOOGL):** As major hyperscalers, their massive investments and innovations in AI will continue to shape the industry. Any new developments from them could have ripple effects across the tech sector.
+*   **Netflix (NFLX):** Despite a recent "brutal run" and significant drawdown, analysts maintain strong "Buy" ratings with substantial implied upside, particularly if their ad business scales as projected. This could be a compelling recovery play.
+*   **General Motors (GM):** Their strategic shift away from an aggressive pure-EV build-out towards a more balanced approach, coupled with strong overall earnings, presents an interesting case. Monitor how their adjusted strategy impacts future performance.
+*   **Workiva (WK):** While its stock price has been pressured by fears of AI making software platforms obsolete, the company's fundamentals (strong EPS growth, customer wins, high gross margins) suggest a potential undervaluation. Watch if market perception catches up to its underlying strength.
+*   **DXC Technology (DXC):** Currently facing negative sentiment and poor stock performance, the company is actively pursuing AI initiatives and outlining a turnaround strategy. If management can execute on their vision, this could become a significant long-term recovery story, but it carries higher risk.
