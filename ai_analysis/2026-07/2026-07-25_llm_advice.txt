@@ -1,0 +1,65 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Daily Digest**
+
+**Overall Market Tone:** The market experienced volatility this week, primarily driven by disappointing Big Tech earnings, rising oil prices above $100 (due to US-Iran tensions), and sharp swings in semiconductor shares. The Nasdaq, S&P 500, and Dow all saw declines, with technology stocks facing the heaviest pressure. Concerns about the cost of AI investment vs. clearer evidence of profits were a recurring theme. Energy and defense stocks, however, gained support.
+
+---
+
+### **1. Stocks Mentioned Today**
+
+*   **Technology/AI/Semiconductors:** Alphabet (GOOGL/GOOG), Amazon (AMZN), Broadcom, Comcast (CMCSA), eBay (EBAY), Intel (INTC), Meta Platforms (META), Micron Technology (MU), Microsoft (MSFT), Nvidia (NVDA), Palantir Technologies (PLTR), Robinhood (HOOD), Sandisk, Space Exploration Technologies Corp (SPCX - *Note: SpaceX is a private company, SPCX ticker likely refers to a related fund or tokenized asset*), Super Micro Computer (SMCI), Tesla, Western Digital.
+*   **Automotive:** Ford (F), General Motors (GM), Harley-Davidson (HOG), Toyota (TM).
+*   **Gaming/Hospitality:** Century Casinos, Full House Resorts, GameStop, Golden Entertainment, MGM Resorts, Wynn Resorts.
+*   **Other Individual Companies:** American Express (AXP), GE Vernova (GEV), IMAX Corporation (IMAX), Kratos Defense & Security Solutions, Trump Media & Technology Group Corp., Vista Energy.
+*   **ETFs/Indices (for context):** Nasdaq, S&P 500, Dow, Philadelphia Semiconductor Index, iShares 0-3 Month Treasury Bond ETF, VanEck Rare Earth and Strategic Metals ETF, Global X Uranium ETF, Global X Defense Tech ETF, Truth Social God Bless America ETF (YALL), Point Bridge America First ETF (MAGA).
+
+---
+
+### **2. Stocks with Bad Sentiment**
+
+*   **Tesla:** Fell 14.5% due to negative free cash flow, weaker vehicle demand, and high costs for new products.
+*   **Alphabet (GOOGL/GOOG):** Dropped 7% after raising 2026 capital spending forecast to $200 billion, overshadowing strong cloud growth. Some analysts note its revenue growth is lower than Meta's.
+*   **Microsoft (MSFT) & Amazon (AMZN):** Faced pressure ahead of earnings due to broader concerns about the cost of AI investment, following Tesla and Alphabet's reports.
+*   **Intel (INTC):** Initially dropped almost 8% as investors focused on higher investment plans and the cost of competing in advanced chip production, despite stronger-than-expected guidance.
+*   **SpaceX (SPCX):** Shares continue to fall below its IPO price, with short sellers amassing significant profits. Flight delays also noted.
+*   **American Express (AXP):** Shares slipped over 2% as revenue fell short of forecasts, despite beating earnings expectations.
+*   **eBay (EBAY):** Shares declined 3.7% due to concerns over increased competition from Meta's expansion of Facebook Marketplace with a dedicated Seller app.
+*   **Harley-Davidson (HOG):** Shares edged lower despite beating Q2 earnings and raising full-year guidance, as investors assessed broader market conditions.
+*   **GE Vernova (GEV):** Stock fell after announcing plans to build more gas turbines than initially promised.
+*   **Full House Resorts:** Stock fell significantly after a weak Q2 earnings report. Mentioned in connection with an insider trading scrutiny.
+*   **Century Casinos, Golden Entertainment, MGM Resorts, Wynn Resorts:** Mentioned in a negative context due to a politician's trust selling shares prior to scrutiny, though specific stock performance impact wasn't detailed for these in the news.
+*   **Trump Media & Technology Group Corp.:** Has repeatedly hit record lows this year and is down 35% year-to-date, despite a recent rally in July.
+
+---
+
+### **3. Stocks with Good Sentiment**
+
+*   **Nvidia (NVDA):** Touted as the "loudest success story," with AI portfolios increasing positions and Morgan Stanley identifying it as having the strongest risk-reward in semiconductors. Tokenized shares also saw high daily volume.
+*   **Micron Technology (MU):** Exhibited rapid earnings growth, seen by some as a "new firm." Top holding for AI portfolios, and Morgan Stanley highlighted strong data center memory demand outpacing supply, with prices rising and shortages expected to persist.
+*   **Western Digital & Sandisk:** Both posted double-digit gains following an earlier sell-off, benefiting from renewed optimism in the semiconductor sector.
+*   **Super Micro Computer (SMCI):** Jumped almost 20% after reporting over $60 billion in new orders, indicating strong demand for AI servers and data-center equipment.
+*   **Meta Platforms (META):** Despite recent stock declines, analysts see a compelling entry point with strong underlying business fundamentals, 33% revenue growth, consistent EPS beats, and significant free cash flow. Product developments like Facebook Verified also noted.
+*   **Robinhood (HOOD):** Bernstein analysts raised price target significantly based on strong outlook for prediction markets, with expected revenue growth. Tokenization of real-world assets on Robinhood Chain is also "materializing."
+*   **GameStop:** Tokenized shares on Robinhood Chain saw significant daily trading volume ($26.6 million), indicating renewed interest.
+*   **Kratos Defense & Security Solutions:** Named a top pick by Stifel and a significant holding in one of the AI-managed portfolios.
+*   **Palantir Technologies (PLTR):** Shares gained after a U.S. government agency withdrew a military intelligence contract bid, seen as a positive development for the company.
+*   **IMAX Corporation (IMAX):** Reported stronger-than-expected Q2 results, with shares rising over 7% due to record box office performance and network expansion.
+*   **Comcast (CMCSA):** Shares rose after beating Q2 estimates, driven by improving broadband performance, record wireless growth, and Peacock achieving profitability.
+*   **Ford (F):** Offers an attractive 4.24% dividend yield, strong free cash flow multiple, and raised full-year profit guidance, with its commercial and traditional vehicle operations offsetting EV losses.
+*   **Broadcom:** Morgan Stanley sees it offering strong overall risk-reward within its semiconductor coverage.
+
+---
+
+### **4. Stocks to Keep an Eye On**
+
+*   **Meta Platforms (META):** While its stock has pulled back, the underlying business appears strong with significant revenue growth and cash flow. Analysts view the dip as a potential buying opportunity, especially if upcoming earnings confirm that AI investments are boosting ad performance without eroding margins. It's a high-growth company at a potentially attractive valuation.
+*   **Alphabet (GOOGL/GOOG):** Similar to Meta, Alphabet is investing heavily in AI and has faced stock pressure due to capital expenditure concerns. Its strong cloud growth is a positive, but investors are seeking clearer evidence of ROI from AI spending. Watch for signs that these investments are translating into stronger profits.
+*   **Intel (INTC):** A stock experiencing significant volatility. Initially hit by AI spending concerns, it later saw its shares rise on strong AI-driven revenue and an improved outlook. The challenge for Intel remains the cost of competing in advanced chip production. Its ability to execute on its turnaround and manage its extensive capex will be crucial.
+*   **Micron Technology (MU):** With Morgan Stanley highlighting unprecedented demand for data center memory and persistent shortages, Micron is in a unique cyclical upturn. While memory stocks can be volatile, this cycle appears fundamentally different due to AI. Keep an eye on supply-demand dynamics and pricing trends.
+
+---
+
+**Disclaimer:** This summary is based on the provided news articles and does not constitute financial advice. Investors should conduct their own research and consult with a financial professional before making any investment decisions.
