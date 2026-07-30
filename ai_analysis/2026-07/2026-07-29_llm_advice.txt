@@ -1,0 +1,67 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### Stock Sentiment Analysis for Today
+
+**Overall Market Snapshot:**
+Today's news highlights a mixed market sentiment, with significant concerns around the AI sector's valuation and the South Korean stock market experiencing a sharp downturn. Geopolitical tensions are also impacting oil prices and international trade. The Federal Reserve's decision to hold interest rates steady, but with a hawkish tone, adds to market caution.
+
+---
+
+#### 1. Stocks Mentioned Today:
+
+*   **Technology & AI:** Nvidia, Microsoft, SK Hynix, Oracle, Tesla, Meta (Facebook, Instagram, WhatsApp), Google (Alphabet), Apple, OpenAI, Anthropic, CoreWeave, Scale AI, Kioxia, MediaTek, CXMT, Micron Technology, ASML, TSMC, AMD, Intel, Qualcomm, Ionic Digital (IOND), Texas Instruments, NVent, Analog Devices, Space Exploration Technologies Corp. (SPCX), SanDisk / Western Digital.
+*   **Finance:** JPMorgan Chase, BlackRock, Societe Generale, Bank of Korea.
+*   **Retail/Food:** The Cheesecake Factory (CAKE), Fox Restaurant Concepts, Flower Child, North Italia.
+*   **Industrials:** Boeing.
+*   **Energy:** ExxonMobil (XOM).
+*   **Indices:** KOSPI, Dow Jones Industrial Average, S&P 500, Nasdaq.
+
+---
+
+#### 2. Stocks with Bad Sentiment:
+
+*   **Nvidia:** Received "alarm" warnings from Mark Cuban and Michael Burry, compared to the dot-com bust due to financing customer purchases. Its credit default swaps are "going parabolic," and the stock is down 18% from its May peak, recently ceding its "most valuable company" title to Apple. Burry holds bearish puts on the stock.
+*   **SK Hynix:** Led the plunge in South Korean stocks, with its record AI-fueled earnings missing market estimates. Shares tumbled significantly (nearly 19% intraday, closed down 9.6%), and the stock is down 34% from its post-IPO peak due to cyclicality fears and a shattered HBM monopoly from Chinese competition (CXMT).
+*   **Meta:** Shares plunged over 8% after missing Q2 EPS forecasts and anticipating softer Q3 revenue. Investors are concerned about the ROI of its massive AI investments ($130B-$145B this year), and the stock was already down 10% YTD.
+*   **Tesla:** Cybertruck sales are significantly below targets, described as the "biggest flop in U.S. automotive history." Elon Musk's "political meltdowns" are cited for making the brand "toxic." TSLA stock is down 31.90% this year.
+*   **Samsung Electronics:** Its shares "took a tumble" as part of the broader South Korean market and chipmaker sell-off, facing competition from CXMT.
+*   **Kioxia:** Fell 13.85% as part of the chipmaker sell-off, impacted by Chinese advancements.
+*   **MediaTek:** Fell nearly 5% due to the chipmaker sell-off and concerns about Chinese competition.
+*   **Micron Technology:** Down 15.48% in the past week and 27.53% in the past month, triggered by CXMT's IPO success and broader memory sector sell-off, despite strong earnings. Cyclicality fears are weighing heavily.
+*   **ASML:** Shares have fallen over 11% in the past week due to major strides reported by Chinese chipmaking machine advancements.
+*   **TSMC:** Stock dropped over 6.5% due to similar concerns about Chinese advancements in advanced chip-making machines.
+*   **SanDisk / Western Digital:** SanDisk fell 9%, and is mentioned as down 55% from recent highs, part of the memory sector sell-off.
+*   **Boeing:** A deal with Beijing hit "turbulence" due to China's demands for parts and service guarantees amid possible future U.S. export restrictions.
+
+---
+
+#### 3. Stocks with Good Sentiment:
+
+*   **Apple:** Briefly achieved a $5 trillion market capitalization, with its stock price passing $340, making it once again the world's most valuable publicly traded company.
+*   **The Cheesecake Factory (CAKE):** Shares peaked at an all-time high, surging 12% after reporting over $1 billion in quarterly revenue for the first time and exceeding earnings estimates. The stock has grown 91% this year, and the company is outperforming the casual dining industry.
+*   **CXMT:** Experienced a massive success with its IPO on the Shanghai STAR Market, surging 466% on debut and becoming the most valuable listed firm in mainland China. It rose an additional 12.6% on Wednesday, posing a "major emerging threat" to established memory chipmakers.
+*   **Ionic Digital (IOND):** Rose 26% on its Nasdaq debut, valuing the company at $2.8 billion, marking the exchange's largest direct listing since 2021. It's pivoting to AI calculations, has significant Bitcoin holdings, and no debt.
+*   **Space Exploration Technologies Corp. (SPCX):** The news suggests shares became "so cheap that they became irresistible," implying a strong value proposition or positive turnaround potential at a lower price.
+*   **Texas Instruments:** Stock rose approximately 82% from November 2025 to July 2026, benefiting from providing key components for the booming AI data center industry.
+*   **NVent:** Stock rose approximately 190% over a year, providing liquid cooling systems for data centers.
+*   **Analog Devices:** Its technology, focused on power delivery to data centers, is implicitly seen positively due to its role in the booming data center market.
+*   **ExxonMobil (XOM):** Up about 27% this year, indicating strong performance in the energy sector despite global oil price volatility.
+
+---
+
+#### 4. Which would you advise me to keep an eye on?
+
+Given the dynamic and often volatile nature of today's market news, several stocks warrant close observation:
+
+*   **Nvidia (NVDA):** Despite current negative sentiment and warnings from prominent investors, Nvidia remains a central player in the AI boom. Its deep entanglement with customers and the broader AI ecosystem means its performance will continue to be a bellwether for the sector. Watch for further developments on credit default swaps and how management addresses financing concerns.
+*   **Meta (META):** The significant investment in AI coupled with missed earnings forecasts creates a high-stakes scenario. Can CEO Mark Zuckerberg's optimism translate into a tangible return on investment that satisfies the market? This will be a key storyline to follow.
+*   **The AI Memory Chip Sector (SK Hynix, Samsung, Micron, ASML, TSMC, CXMT):** This entire sector is undergoing a massive transformation. The rise of CXMT and China's advancements are directly challenging the long-standing dominance of Korean and other Asian chipmakers. The interplay between AI demand, increasing competition, and historical cyclicality makes these stocks highly volatile but also potentially ripe for significant shifts. **CXMT**, in particular, is a disruptive new entrant to watch.
+*   **Tesla (TSLA):** The Cybertruck's performance and Elon Musk's influence continue to make Tesla a highly volatile stock. Any signs of improvement in Cybertruck sales or a shift in market perception could lead to big swings.
+*   **Ionic Digital (IOND):** As a newly public company pivoting towards AI calculations, IOND represents a fresh opportunity in a high-growth area. Its debut performance is strong, but continued monitoring is needed to see if it can sustain momentum and execute its AI strategy effectively.
+*   **Texas Instruments, NVent, Analog Devices:** These companies are critical suppliers to the AI data center buildout. While currently performing well, they are indirectly exposed to the broader "AI bubble" concerns. Continued demand for data center components will be crucial for their sustained growth.
+
+---
+
+**Disclaimer:** This advice is based solely on the provided news articles and does not constitute professional financial advice. Always conduct your own thorough research and consult with a qualified financial advisor before making any investment decisions. The stock market is inherently volatile, and past performance is not indicative of future results.
