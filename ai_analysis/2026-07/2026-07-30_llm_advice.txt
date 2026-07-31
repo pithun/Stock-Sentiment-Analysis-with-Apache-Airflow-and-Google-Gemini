@@ -1,0 +1,60 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### Stock Sentiment Analysis for Today
+
+**Disclaimer:** This advice is based solely on the provided news snippets and should not be taken as professional financial advice. Always conduct your own research before making investment decisions.
+
+---
+
+#### 1. The Stocks Mentioned Today:
+
+*   **Media/Tech/Streaming:** AMC Global Media (AMC), Netflix, Meta Platforms (META), Apple (AAPL), Microsoft (MSFT), Alphabet (GOOGL), Amazon (AMZN), Snowflake (SNOW), Adobe (ADBE), Trump Media & Technology Group (DJT).
+*   **Hydrogen/Fuel Cell:** Bloom Energy (BE), FuelCell Energy (FCEL), Plug Power (PLUG), Global X Hydrogen ETF (HYDR).
+*   **Crypto/Blockchain Related:** Bitcoin (BTC), MicroStrategy (MSTR), Coinbase (COIN), Robinhood (HOOD), Intercontinental Exchange (ICE) (mentioning tokenized securities), IREN, Hut 8 (HUT), Cipher Mining (CIFR), Keel Infrastructure (KEEL), MARA Holdings (MARA), Riot Platforms (RIOT), CleanSpark (CLSK), Bitdeer (BTDR), Galaxy Digital.
+*   **Semiconductors/AI Infrastructure:** NVIDIA (NVDA), SK Hynix, Micron (MU), AMD, Intel (INTC).
+*   **Financial Services:** MarketAxess Holdings (MKTX).
+
+---
+
+#### 2. Stocks with Bad Sentiment Today:
+
+These stocks received negative news or experienced significant price drops:
+
+*   **AMC Global Media (AMC):** Reported Q2 results below Wall Street expectations, swinging to an adjusted net loss, and shares sank 6%.
+*   **Meta Platforms (META):** Raised capital expenditure guidance significantly while free cash flow collapsed 91%, leading to a 9% stock tumble as investors question the immediate return on AI investments.
+*   **Alphabet (GOOGL):** Raised its 2026 capex outlook significantly, causing its stock to fall over 6% last week, as the market did not reward its aggressive AI spending plans.
+*   **MicroStrategy (MSTR):** Reported an $8.2 billion Q2 net loss primarily due to the decline in Bitcoin's price, although the stock did not move significantly as this was priced in.
+*   **Coinbase (COIN):** Shares fell roughly 5% after missing Q2 revenue estimates due to weak crypto trading volumes and challenging market conditions.
+*   **Robinhood (HOOD):** Reported a 38% year-over-year drop in crypto trading revenue.
+*   **Adobe (ADBE):** Mentioned as a "software name" tumbling, after a major AI fund (Situational Awareness) reportedly exited its short positions in software companies.
+
+---
+
+#### 3. Stocks with Good Sentiment Today:
+
+These stocks received positive news or experienced significant price increases:
+
+*   **Bloom Energy (BE):** Beat Q2 estimates with 165% revenue growth, raised full-year guidance, and shares surged 26-28% as it was declared "the standard for AI onsite power."
+*   **FuelCell Energy (FCEL):** Surged 27-28% in a sympathy rally driven by Bloom Energy's strong results and a broader "risk-on" tape in the market.
+*   **Global X Hydrogen ETF (HYDR):** Gained 10%, benefiting from the positive sentiment in the hydrogen sector.
+*   **NVIDIA (NVDA):** Identified as a "natural read-through winner" from Microsoft's commitment to continued GPU investment for its Azure buildout.
+*   **Microsoft (MSFT):** Delivered a "fiscal fourth-quarter blowout," with Azure revenue surging 43% (crossing $100B annual run rate) and EPS beating estimates, while capital expenditures were below feared levels. Shares were up 9-15%.
+*   **Amazon (AMZN):** Reported Q2 EPS that "blew away estimates" thanks to a $53.4 billion gain on its investment in AI giant Anthropic, with revenue also topping forecasts. Shares were up 6% after-hours.
+*   **Intercontinental Exchange (ICE):** Agreed to acquire MarketAxess Holdings for $6 billion (a 33% premium), expected to be accretive to EPS, with its stock up slightly.
+*   **MarketAxess Holdings (MKTX):** Shares jumped roughly 28% pre-market due to the acquisition announcement by ICE at a significant premium.
+*   **SK Hynix, Micron (MU), AMD, Intel (INTC):** These "AI infrastructure names" were all higher by double-digit percentages, reversing recent plunges as a large AI fund reportedly exited its long positions, potentially signaling a floor.
+
+---
+
+#### 4. Which Stocks to Keep an Eye On:
+
+These stocks present interesting dynamics, mixed signals, or significant volatility that warrant further observation:
+
+*   **Apple (AAPL):** Despite beating Q3 EPS and sales estimates and robust gross margins, shares were lower by 2.5% after-hours. However, the stock has been a strong performer recently (up 15% MoM), indicating underlying strength. Its evolving AI narrative (from lagging to disciplined spending) is also a key area to watch.
+*   **Plug Power (PLUG):** While gaining 9% today, it lagged its hydrogen peers (BE, FCEL). Its relative underperformance in a booming sector could signal either a missed opportunity or underlying issues that prevent it from fully capitalizing on the trend.
+*   **Bitcoin (BTC) & Bitcoin Miners (IREN, HUT, CIFR, KEEL, MARA, RIOT, CLSK, BTDR, Galaxy Digital):** Bitcoin itself showed resilience with a modest gain despite negative news from crypto platforms and macro warnings. Bitcoin miners experienced sharp reversals today (18-28% gains) after significant declines tied to the "AI momentum trade" unraveling. This entire sector is highly volatile and sensitive to broader tech/AI sentiment, making it a high-risk, high-reward area for observation.
+*   **Trump Media & Technology Group (DJT):** Shares jumped over 5%, continuing a roughly 48% rally from an all-time low in June. The company announced "Truth API" as a potential new revenue stream, but its fundamentals remain very weak (large 2025 loss, YTD stock decline). Its high volatility and reliance on unique news events make it a speculative watch.
+
+---
