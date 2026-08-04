@@ -1,0 +1,50 @@
+Here's a summary of today's stock sentiment, based on the provided news:
+
+---
+
+### **Stock Market Snapshot: Today's Sentiment Analysis**
+
+**1. The Stocks Mentioned Today:**
+
+*   **Palantir**
+*   **Paramount**
+*   **Warner Bros. Discovery (WBD)**
+*   **Strategy (MSTR)**
+*   **STRC** (Strategy's preferred stock)
+*   **SpaceX (SPCX)**
+*   **Abbott Laboratories (ABT)**
+*   **Boston Scientific (BSX)**
+*   **CoreWeave (CRWV)**
+*   **Snowflake (SNOW)**
+*   **Oracle (ORCL)**
+*   **Nebius Group (NBIS)**
+*   **Semiconductor stocks** (sector)
+
+**2. Stocks with Negative Sentiment Today:**
+
+*   **Paramount:** Shares have plunged 40% due to the slowdown and legal challenges related to its merger. Revenue and EPS are expected to drop.
+*   **Warner Bros. Discovery (WBD):** Stock has slipped 7% since the Paramount deal news and both companies face concerns over declining linear TV operations.
+*   **Strategy (MSTR):** Slightly lower pre-market due to a decline in Bitcoin price, following recent sales of Bitcoin and common stock.
+*   **SpaceX (SPCX):** Stock has weakened significantly since its IPO, down 17% from its offering price, due to valuation concerns, high AI capital expenditures, and upcoming lock-up expirations.
+*   **Boston Scientific (BSX):** Shares are down over 50% year-to-date following two consecutive guidance cuts.
+*   **Semiconductor stocks:** Sent lower by worries over increased competition from China.
+
+**3. Stocks with Positive Sentiment Today:**
+
+*   **Palantir:** Stock jumped ahead of its quarterly results, indicating positive market anticipation.
+*   **Abbott Laboratories (ABT):** Despite a YTD decline, adjusted EPS beat consensus for the fifth straight quarter, and management expects accelerating sales and earnings growth in H2 2026. Barclays has a high price target implying 35% upside.
+*   **CoreWeave (CRWV):** Stock is up 11% today, leading a broader risk-on rally for AI cloud infrastructure names, recovering from a rough July.
+*   **Snowflake (SNOW):** Shares climbed 6% after BTIG raised its price target to $340, citing strong demand signals and AI product traction ahead of Q2 earnings.
+*   **Oracle (ORCL):** Shares gained 5% today, participating in the AI cloud rally, though still down significantly year-to-date.
+*   **Nebius Group (NBIS):** Stock is up 8% today, also benefiting from the risk-on sentiment in AI cloud infrastructure, despite being down from earlier July levels.
+
+**4. Stocks to Keep an Eye On:**
+
+*   **SpaceX (SPCX):** Despite recent struggles and high volatility, the underlying business fundamentals in space, connectivity (Starlink), and AI are strong. Upcoming lock-up expirations and significant short interest make it highly susceptible to price swings, making it a critical watch for investors looking for directional plays or hedging opportunities.
+*   **Abbott Laboratories (ABT):** Showing strong operational execution with consistent adjusted EPS beats and raised guidance. If management's forecast for accelerating growth in the second half of 2026 materializes, the stock could see a significant re-rating, making it a potential turnaround story.
+*   **Paramount / Warner Bros. Discovery (WBD):** The ongoing legal challenge to their merger is a significant catalyst. While currently negative, any development, positive or negative, could lead to substantial volatility and trading opportunities. Paramount, with its 40% plunge, has particularly high potential for dramatic movement on merger news.
+*   **Snowflake (SNOW):** With a raised price target and positive analyst sentiment ahead of its Q2 earnings, Snowflake could experience further momentum or significant reactions post-earnings, driven by updates on AI adoption and demand.
+
+---
+
+**Investment Disclaimer:** This analysis is based solely on the provided news snippets and does not constitute financial advice. Investors should conduct their own due diligence and consult with a qualified financial professional before making any investment decisions.
