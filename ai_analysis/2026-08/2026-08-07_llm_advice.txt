@@ -1,0 +1,113 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+## Stock Sentiment Analysis Report
+
+### 1. Stocks and Entities Mentioned Today
+
+*   **Publicly Traded Companies:**
+    *   23andMe (Indirect mention)
+    *   Hindalco
+    *   SpiceJet
+    *   Airbus (Indirect mention, related to sourcing)
+    *   Future Consumer
+    *   Sezzle (SEZL)
+    *   Halozyme Therapeutics (HALO)
+    *   Berkshire (Implied, Warren Buffett's Berkshire)
+    *   Cisco (Implied)
+    *   Lumentum (Implied)
+    *   First Solar (FSLR)
+    *   Alphabet (GOOGL/GOOG) (via Google)
+    *   Reddit (RDDT)
+    *   Bullish (BLSH)
+    *   Natera (NTRA)
+    *   Microchip Technology (MCHP)
+    *   SK Hynix Inc. (SKHY)
+    *   Citigroup (C)
+    *   Hertz (HTZ)
+    *   SpaceX (SPCX)
+    *   Rocket Lab (RKLB)
+    *   Cognex (CGNX)
+    *   Visa (V) (Implied)
+    *   Arista Networks (ANET) (Implied)
+    *   Palantir (PLTR)
+    *   Cloudflare (NET)
+    *   Uber (UBER)
+    *   Micron (MU)
+    *   Intel (INTC)
+    *   Nvidia (NVDA)
+    *   Apple (AAPL)
+    *   Tesla (TSLA)
+    *   Meta (META)
+    *   IMAX (Implied)
+
+*   **Private Companies / Cryptocurrencies / Indices / Other Entities:**
+    *   Kalshi (Private)
+    *   Polymarket (Private)
+    *   Whatnot (Private)
+    *   OPPO (Private)
+    *   OnePlus (Private)
+    *   Wintermute (Private)
+    *   Ripple (Private, but major crypto entity)
+    *   GSR (Private)
+    *   Crypto.com (Private)
+    *   Tether (Private, stablecoin issuer)
+    *   Zcash (Cryptocurrency)
+    *   Mutual Funds (Category)
+    *   Nasdaq Composite (Index)
+    *   Dow Jones (Index)
+    *   S&P 500 (Index)
+    *   Gold (Commodity)
+    *   Silver (Commodity)
+    *   Bitcoin (Cryptocurrency)
+
+### 2. Stocks with Bad Sentiment
+
+*   **Sezzle (SEZL):** Cratered after a negative earnings report.
+*   **SpiceJet:** Facing "more troubles brewing," suggesting ongoing financial or operational difficulties.
+*   **Future Consumer:** Experiencing issues with insolvency professional selection, indicating distress.
+*   **OnePlus (Private):** Retreating from major Western markets, leading to fan betrayal and ecosystem concerns.
+*   **Alphabet (Google):** Mentioned in the context of "messy politics behind Google’s big AI shakeup" and "internal ethical conflicts."
+*   **Reddit (RDDT):** Despite a recent surge, the stock is down 30% year-to-date and is struggling with an "AI SEO spam" problem threatening its authenticity.
+*   **Uber (UBER):** Saw a spike today but remains down 9.3% year-to-date.
+*   **Tesla (TSLA):** Down 26% year-to-date, not participating in recent tech rallies.
+*   **Meta (META):** Down 9% year-to-date, also lagging in the current tech rally.
+*   **First Solar (FSLR):** While showing recent gains, it exhibits high volatility and "falls harder than it rises," making it a risky, "return engine" rather than a "shock absorber."
+*   **Mexico Avocado Industry:** Facing significant negative impact as the US halts imports over security concerns, threatening jobs and the multibillion-dollar industry.
+
+### 3. Stocks with Good Sentiment
+
+*   **Halozyme Therapeutics (HALO):** Rocketed higher following a positive earnings report.
+*   **Natera (NTRA):** Surged over 21% to an all-time high due to "blowout volume" for its cancer-detecting blood test, Signatera, and a strong revenue beat, up 40.6% YTD.
+*   **Microchip Technology (MCHP):** Jumped after delivering a beat-and-raise earnings report, surging 12.9%.
+*   **Hertz (HTZ):** Experienced a "record rally" with shares jumping 30% and then another 15% following an earnings beat, indicative of a potential short squeeze.
+*   **SpaceX (SPCX):** Stock vaulted higher, continuing its rebound after an upgrade from Argus to "buy" and a Q2 beat.
+*   **Rocket Lab (RKLB):** Surged above a key resistance level after a successful mission.
+*   **Cognex (CGNX):** Positioned as a diversified play in the artificial intelligence space, leveraging machine vision products for automation.
+*   **Palantir (PLTR):** Rose 8.9% and capped a strong week with a 35% gain in five days.
+*   **Cloudflare (NET):** Surged 8% after exceeding revenue expectations.
+*   **Micron (MU):** Up 205% year-to-date, leading tech sector gains.
+*   **Intel (INTC):** Up 175% year-to-date.
+*   **Nvidia (NVDA):** Up 20% year-to-date.
+*   **Apple (AAPL):** Up 14.8% year-to-date.
+*   **SK Hynix Inc. (SKHY):** Described as a "classic tale of how fortunes can change due to expanding industries," implying positive growth.
+*   **Mutual Funds (Active):** An analysis indicates 94% of large-cap active funds outperformed their benchmarks, showing strong performance from strategic stock selection.
+*   **Airbus:** Set to source Indian titanium for its planes, a positive supply chain development.
+*   **OPPO (Private):** Launching a "generous" rewards campaign to attract users from OnePlus, showing proactive market engagement.
+*   **Wintermute (Private):** Secured broker-dealer status in the U.S., allowing it to expand into traditional financial services and position for tokenized securities growth.
+*   **Tether (Private):** Expanding its tokenization business to Saudi Arabia with its "Hadron" platform, a significant move into real-world asset tokenization.
+*   **Gold & Silver:** Both saw significant gains (Gold +3%, Silver +6%) in reaction to the weak U.S. jobs report.
+
+### 4. Stocks to Keep an Eye On
+
+*   **Natera (NTRA):** With a massive surge and "blowout" results, Natera is demonstrating strong momentum in cancer diagnostics. Watch for continued growth in its Signatera blood test adoption and any further analyst upgrades.
+*   **Hertz (HTZ):** The "record rally" driven by an earnings beat and potential short squeeze indicates extreme short-term volatility and investor interest. While attractive, monitor closely for signs of a sustained turnaround versus a speculative pop.
+*   **SpaceX (SPCX):** After an initial mixed performance post-IPO, the stock has rebounded strongly with an analyst upgrade and a Q2 beat. This shift in sentiment makes it a compelling watch for continued upward trajectory as it moves beyond initial post-IPO jitters.
+*   **First Solar (FSLR):** This stock is up significantly in the short term but described as highly volatile. The company's unique correlation profile and specific operational questions (like the Section 232 action on polysilicon imports affecting Malaysia and Vietnam capacity) make it a complex, but potentially rewarding, play for investors who understand and can manage high risk.
+*   **Cognex (CGNX):** Positioned as a diversified way to invest in the booming AI sector through machine vision products. This could offer a more stable growth avenue compared to direct AI software pure-plays.
+*   **Palantir (PLTR) & Cloudflare (NET):** Both tech stocks delivered strong performances and exceeded expectations. They are worth watching to see if they can maintain this growth trajectory, especially in their respective high-demand enterprise software and cybersecurity/CDN markets.
+*   **Macroeconomic Indicators (U.S. Labor Market & Fed Policy):** The weak U.S. jobs report is a critical factor influencing the Federal Reserve's potential interest rate decisions. Keep a close eye on upcoming economic data and Fed statements, as these will have broad market implications, affecting all equities and commodities like Gold and Silver. The market's reaction suggests an expectation of less aggressive rate hikes, which could be a tailwind for growth stocks.
+
+---
+**Disclaimer:** This analysis is based solely on the provided news articles and should not be taken as direct financial advice. Always conduct your own research and consult with a financial professional before making any investment decisions. Stock markets are volatile, and past performance is not indicative of future results.
