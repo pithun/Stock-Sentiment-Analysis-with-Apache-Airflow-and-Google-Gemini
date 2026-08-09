@@ -1,0 +1,67 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+**Stock Sentiment Analysis for Today**
+
+The overall market saw positive momentum with the Dow, S&P 500, and Nasdaq hitting new highs, signaling a shift back into rally mode during the first week of August (News 2, 6, 9). However, individual stock performance varies.
+
+---
+
+### 1. The Stocks Mentioned Today
+
+*   **Conglomerates & Financials:** Berkshire Hathaway (BRK-A, BRK-B), SBI, Axis Bank, HDFC Bank, MFA Financial (MFA), Blue Owl Capital (OBDC)
+*   **Technology & AI:** Advanced Micro Devices (AMD), Nvidia, Oracle, Amazon, Microsoft, Lumentum, Cisco, Applied Materials, Broadcom (AVGO), Alphabet, Onto Innovation (ONTO), GoDaddy Inc. (GDDY), SK hynix (mentioned in MIAX pipeline)
+*   **ETFs:** JPMorgan Nasdaq Equity Premium Income ETF (JEPQ), Invesco QQQ Trust (QQQ)
+*   **Healthcare:** Oscar Health (OSCR), Envista (NVST)
+*   **Real Estate:** Realty Income (O)
+*   **Industrials & Materials:** Owens Corning (OC), Orion (OEC), Airbus
+*   **Indian Market Specifics:** Dhoot Transmission, Infosys, Wipro, NTPC, Tata Power, SpiceJet, Future Consumer
+*   **Exchanges:** Miami International (MIAX)
+
+---
+
+### 2. Stocks with Bad Sentiment Today
+
+*   **Oracle:** Stock has fallen 59% from its peak, failing key investor tests for AI providers. It's borrowing heavily for AI cloud services, burning cash, and faces balance sheet worries, credit rating scrutiny (cut to BBB- by S&P), and OpenAI dependence risks. It's explicitly advised as "not the stock to buy." (News 5)
+*   **SpiceJet:** Described as having "more troubles brewing," suggesting ongoing negative financial or operational issues. (News 3, 17, 22)
+*   **Future Consumer:** News indicates "insolvency professional selection slipped from SBI’s control," which is a very negative event. (News 3, 17, 22)
+*   **GoDaddy Inc. (GDDY):** Despite beating consensus estimates on revenue and earnings, the stock dropped 12%, indicating a strong negative market reaction or underlying concerns. (News 19)
+
+---
+
+### 3. Stocks with Good Sentiment Today
+
+*   **Berkshire Hathaway (BRK-A, BRK-B):** Strong positive sentiment. Greg Abel oversaw a significant increase in net stock purchases (first in 14 quarters) and substantial share buybacks. Q2 operating income rose 16% and beat expectations, positioning the stock in a "buy zone." (News 1, 2, 6, 9, 12)
+*   **Advanced Micro Devices (AMD):** Its stock has more than doubled this year, proving its strong competitive position against Nvidia in the AI race. (News 4)
+*   **Nvidia:** Continues to be a strong performer, mentioned as the benchmark AMD is competing against and a holding in JEPQ. (News 4, 7)
+*   **Amazon & Microsoft:** Both passed investor tests for AI cloud service providers, boosted guidance, and saw their share prices bid up. (News 5)
+*   **ON Semiconductor Corp (ON):** Delivered stronger-than-expected second-quarter earnings, giving investors "plenty of reasons for optimism." (News 8)
+*   **Alphabet:** Berkshire Hathaway significantly increased its stake by 224% in Q1, investing $10 billion for AI infrastructure, becoming an "Abel favorite." (News 12)
+*   **Miami International (MIAX):** Reported record second-quarter net revenue, a 57% increase in adjusted EBITDA, strong options segment growth, new product rollouts, and a growing pipeline including SpaceX and SK hynix. (News 13)
+*   **Onto Innovation (ONTO):** Exceeded Q2 guidance, reported record revenue, boasts a backlog exceeding $1.1 billion, and raised its second-half revenue growth outlook significantly. (News 14)
+*   **Realty Income (O):** Raised its full-year 2026 outlook, reported AFFO per share growth, increased investment volume targets, and showed strong investment activity in industrial, European, and data center properties. (News 15)
+*   **Oscar Health (OSCR):** Achieved record profitability for the first half of 2026, raised its full-year operating outlook, driven by membership growth, improved efficiency (MLR, SG&A), and effective use of AI. (News 16)
+*   **Dhoot Transmission:** Successfully raised substantial funds from anchor investors in its IPO, earmarked for debt repayment, expansion, and acquisitions, indicating positive growth prospects. (News 17)
+*   **Envista (NVST):** Reported strong Q2 sales, core revenue growth, a 28% increase in adjusted EBITDA, raised and narrowed its full-year guidance, and demonstrated robust free cash flow and new product launches. (News 24)
+*   **Indian Financial Sector (SBI, Axis Bank, HDFC Bank, Infosys, Wipro):** A DSP Mutual Fund manager remains "constructive" on the sector, citing healthy retail and SME credit demand and early corporate lending recovery. (News 22)
+*   **Airbus:** Set to source Indian titanium, a positive development for its supply chain. (News 3, 17, 22)
+
+---
+
+### 4. Stocks to Keep an Eye On
+
+*   **NTPC:** While technically advised to "hold" despite a negative bias, it's mentioned in the context of broader positive Indian financial sentiment. Keep an eye on its performance against the suggested stop loss. (News 21, 3, 17, 22)
+*   **Tata Power:** The news highlights an ongoing "Bigger or Better" series, suggesting potential future developments that could swing its sentiment more decisively. (News 3, 17, 22)
+*   **JEPQ (JPMorgan Nasdaq Equity Premium Income ETF):** Offers high monthly income and volatility benefits, but lagged QQQ in total returns and its drawdown cushion was smaller than implied. It might be suitable for income-focused investors but not for those seeking growth. Monitor if its strategy yields better total returns or if market conditions favor its income generation. (News 7)
+*   **Broadcom (AVGO):** While it has gained "significant market attention" for AI chips, the news mentions a "but" regarding a new VMware vDefend announcement without elaborating on its impact. This suggests potential mixed signals or pending developments. (News 10)
+*   **MFA Financial (MFA):** Exhibits mixed signals. It reported stable book value and portfolio growth, but distributable earnings were weighed down by realized credit losses, and economic book value declined slightly post-quarter. Credit losses are expected to remain elevated in Q3. Currently has a "Hold" rating. (News 11)
+*   **Apple (AAPL):** Berkshire Hathaway has significantly reduced its exposure, with Apple's portfolio share dropping from over 50% to 20%. This could signal a cautious outlook from a major investor, warranting monitoring. (News 12)
+*   **Bank of America (BAC):** Similar to Apple, Berkshire Hathaway nearly halved its position, indicating a strategic shift from a major holder. Keep an eye on reasons behind this reduction and its impact. (News 12)
+*   **Blue Owl Capital (OBDC):** Reported increased adjusted net investment income and covered its dividend, but its net asset value (NAV) declined due to a credit-specific markdown on one portfolio company (Loparex). Portfolio activity remains muted. Monitor the resolution of problem assets and the impact of subdued transaction activity. (News 18)
+*   **Orion (OEC):** Mixed results with strong performance in its Specialty segment but a significant decline in its Rubber segment's adjusted EBITDA due to contractual pricing. It reaffirmed full-year EBITDA but expects seasonal weakness in Q3 for Specialty. The overall outlook depends on how well it manages these segment-specific dynamics and cost programs. (News 20)
+*   **Owens Corning (OC):** Delivered strong overall Q2 results, but its Roofing segment faced negative price-cost dynamics and expects a Q3 decline due to inventory levels. While Insulation is growing, the "recession red flag" context and inflationary pressures on roofing/doors warrant caution. (News 23)
+
+---
+
+**Disclaimer:** This summary is based solely on the provided news articles and does not constitute financial advice. Always conduct your own thorough research and consult with a financial professional before making any investment decisions. Stock markets are volatile, and past performance is not indicative of future results.
