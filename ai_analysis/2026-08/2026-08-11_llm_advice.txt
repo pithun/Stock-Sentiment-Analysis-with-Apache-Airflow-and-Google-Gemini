@@ -1,0 +1,106 @@
+Here's a summary of today's stock news with sentiment analysis:
+
+## Stock Sentiment Analysis for Today
+
+### 1. Stocks Mentioned Today
+
+Here are the publicly traded stocks mentioned in today's news:
+
+*   **Apple (AAPL)**
+*   **AppLovin (APP)**
+*   **Amazon (AMZN)**
+*   **Apollo (APO)**
+*   **Babcock & Wilcox (BW)**
+*   **BlackRock (BLK)**
+*   **Blackstone (BX)**
+*   **Brookfield (BAM)**
+*   **BuzzFeed (BZFD)**
+*   **Cipher Mining (CIFR)**
+*   **Cisco Systems (CSCO)**
+*   **CoreWeave (CRWV)**
+*   **Criteo (CRTO)**
+*   **DoubleVerify (DV)**
+*   **Duolingo (DUOL)**
+*   **Dynatrace (DT)**
+*   **eBay (EBAY)**
+*   **Galaxy Digital (GLXY)**
+*   **GameStop (GME)**
+*   **Goldman Sachs (GS)**
+*   **Google / Alphabet (GOOGL/GOOG)**
+*   **Hut 8 (HUT)**
+*   **Intel (INTC)**
+*   **KKR (KKR)**
+*   **LiveRamp (RAMP)**
+*   **Lucid Group (LCID)**
+*   **Lumentum (LITE)**
+*   **Meta Platforms (META)**
+*   **Microchip Technology (MCHP)**
+*   **Microsoft (MSFT)**
+*   **MicroStrategy / Strategy (MSTR)**
+*   **Nielsen (NLSN)**
+*   **Nio (NIO)**
+*   **Nocera (NCRA)**
+*   **Nvidia (NVDA)**
+*   **NXP Semiconductors (NXPI)**
+*   **On Holding (ONON)**
+*   **ON Semiconductor (ON)**
+*   **Palantir (PLTR)**
+*   **Publicis Groupe (PUBGY)**
+*   **Riot Platforms (RIOT)**
+*   **Rivian (RIVN)**
+*   **Sony Group (SONY)**
+*   **Tesla (TSLA)**
+*   **TeraWulf (WULF)**
+*   **Texas Instruments (TXN)**
+*   **TSMC (TSM)**
+*   **The Trade Desk (TTD)**
+*   **XPeng (XPEV)**
+
+### 2. Stocks with Bad Sentiment
+
+*   **AppLovin (APP):** Suffered sharp stock price declines after Q2 earnings despite underlying profitability, indicating low investor tolerance for even minor disappointments.
+*   **Apple (AAPL):** Experiencing global memory shortages impacting MacBook Air supply, pushing consumers towards higher-tier models and potentially sourcing chips from CXMT, suggesting supply chain challenges.
+*   **Amazon (AMZN):** Jeff Bezos filed to sell $4 billion in shares, and the stock is falling despite recent strong earnings, indicating profit-taking or valuation concerns.
+*   **BuzzFeed (BZFD):** Announced layoffs of 33% of its staff and is struggling, signaling ongoing challenges despite an AI pivot.
+*   **Criteo (CRTO):** Its stock price dropped significantly (approximately a quarter) after Q2 earnings, with revenue declining and management acknowledging customer spending shifts.
+*   **MicroStrategy (MSTR):** Has shed roughly three-quarters of its value over the past year, booked significant unrealized losses on Bitcoin, and carries substantial convertible debt, making it a high-risk, Bitcoin-dependent play.
+*   **Nio (NIO):** Fell 5% after BlackRock disclosed a 12% stake cut, with institutional positioning overriding positive July delivery figures.
+*   **NXP Semiconductors (NXPI):** Dropped 20% in a month due to acquisition rumors (Ambarella) and a UBS downgrade citing Chinese automotive inventory correction and limited AI data center exposure.
+*   **On Holding (ONON):** Was "slammed" on the stock market today without further specific details, implying a significant negative move.
+*   **The Trade Desk (TTD):** Stock price lost almost a quarter of its value post-Q2 earnings, driven by lagging revenue growth, declining valuations, macroeconomic pressures, and acknowledged execution issues.
+*   **XPeng (XPEV):** Stock fell after BlackRock trimmed its position by 24%, showing a similar institutional rotation out of Chinese EV names as Nio.
+
+### 3. Stocks with Good Sentiment
+
+*   **Apollo (APO), BlackRock (BLK), Blackstone (BX), Brookfield (BAM), Goldman Sachs (GS), KKR (KKR):** All are partnering with Nvidia to mobilize over $500 billion in financing for AI infrastructure, indicating significant confidence and strategic positioning in the AI boom.
+*   **Babcock & Wilcox (BW):** Shares surged 40.5% in pre-market after beating Q2 earnings forecasts, raising full-year outlook, swinging from a net loss to profit, and announcing a share repurchase program and debt redemption.
+*   **Cipher Mining (CIFR):** Gained significantly (up 11% at one point) driven by Riot Platforms' deal with Anthropic, part of the broader "AI miners" surge.
+*   **CoreWeave (CRWV):** Reported revenue more than doubling, beating estimates, and a massive backlog of over $100 billion in AI computing capacity, with shares jumping 9% after-hours despite a net loss.
+*   **DoubleVerify (DV):** Set to be acquired by Nielsen for $2.15 billion, a positive outcome for shareholders.
+*   **Duolingo (DUOL):** Showed accelerating user growth in its latest quarter, providing fresh evidence for investors.
+*   **Dynatrace (DT):** CEO highlighted observability as an "AI winner," reporting strong Q1 performance with 41% organic ARR growth and record new-logo ARR, with AI workloads driving higher platform consumption.
+*   **Galaxy Digital (GLXY):** Rose 5% as part of the AI miners surge following Riot Platforms' deal.
+*   **Hut 8 (HUT):** Saw initial gains (4-6%) as part of the AI miners surge due to the Anthropic deal.
+*   **Intel (INTC):** Successfully raised $20 billion in an upsized share offering that was oversubscribed 2,700 times by institutional investors, signaling strong confidence in its AI-driven growth strategy despite initial retail selling.
+*   **LiveRamp (RAMP):** Acquired by Publicis Groupe, a positive event for its shareholders.
+*   **Lucid Group (LCID):** BlackRock doubled its stake to a record 12 million shares, signaling increased institutional confidence.
+*   **Nielsen (NLSN):** Acquired DoubleVerify for $2.15 billion, strengthening its position in ad tech measurement.
+*   **Nocera (NCRA):** Announced a new 50/50 joint venture focused on mission-critical energy, signaling a strategic transformation towards diversified technology and infrastructure.
+*   **Nvidia (NVDA):** Leading the charge in AI infrastructure, partnering with major financial groups to fund over $500 billion in AI expansion, reinforcing its strong position.
+*   **Palantir (PLTR):** CEO reported "explosive growth" in its commercial business with a "minuscule and shrinking" sales team, indicating efficiency and strong demand.
+*   **Rivian (RIVN):** BlackRock increased its holdings to a record 56.4 million shares, showing strong institutional buying interest.
+*   **Sony Group (SONY):** Partnering with TSMC on a $4.69 billion chip venture in Japan for next-generation image sensors, a strategic move into a growing market.
+*   **TSMC (TSM):** Partnering with Sony on a $4.69 billion chip venture, indicating continued investment in advanced chip manufacturing.
+*   **TeraWulf (WULF):** Gained 8% as part of the AI miners surge following Riot Platforms' deal.
+
+### 4. Stocks to Keep an Eye On
+
+*   **CoreWeave (CRWV):** While showing explosive revenue growth and a massive backlog in AI computing, it also reported a significant net loss. Its after-hours jump is positive, but sustained profitability and managing operating expenses will be key.
+*   **GameStop (GME) & eBay (EBAY):** GameStop is reportedly considering dropping its $56 billion bid for eBay in favor of a commercial partnership. The outcome of these strategic discussions could significantly impact both companies.
+*   **Intel (INTC):** Despite a massive institutional vote of confidence in its $20 billion capital raise for AI infrastructure, the initial retail sell-off due to dilution fears highlights ongoing investor scrutiny. Its ability to execute on foundry ambitions and AI-driven growth will be crucial.
+*   **Microsoft (MSFT):** After a remarkable 31% one-month surge and strong fundamentals (Azure, Copilot), the article advises a "Hold" due to peak sentiment, high valuation, and surging capital expenditure. A pullback could offer a better entry point.
+*   **MicroStrategy (MSTR):** Its performance is almost entirely tied to Bitcoin. While analysts are bullish on Bitcoin's long-term recovery, the stock faces significant downside risk from its leveraged position and large unrealized losses. Watch Bitcoin's movements closely.
+*   **NXP Semiconductors (NXPI):** Experienced a significant 20% drop recently, but Cantor Fitzgerald maintains a very high price target, citing strong Q2 and a robust AI design-win pipeline. The divergence in analyst opinion and the need for China auto inventories to clear make it one to watch for a potential rebound or further decline.
+*   **ON Semiconductor (ON):** Down recently but up year-to-date on its AI data center power story. Analyst sentiment is mixed, suggesting continued monitoring for clearer trends in its competitive positioning and growth.
+*   **Riot Platforms (RIOT):** Exhibited high volatility today, with a significant gain almost disappearing before ending up slightly. Its $9.1 billion deal with Anthropic is a major development, but the stock's unpredictable reaction warrants close observation for stabilization.
+*   **Tesla (TSLA):** Showed mixed sentiment with a slight gain in one report, but also a recall for headlights and analysts (Morgan Stanley) seeking more evidence of Robotaxi scaling. Continues to be a high-profile, volatile stock with significant narrative shifts around its AI and EV ambitions.
