@@ -1,0 +1,64 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+## Stock Sentiment Analysis: Daily Briefing
+
+### 1. Stocks Mentioned Today:
+
+*   **Eli Lilly (LLY)**
+*   **Lionsgate (LGF)**
+*   **Apple (AAPL)**
+*   **Nvidia (NVDA)**
+*   **Tesla (TSLA)**
+*   **SPDR Gold Shares (GLD)**
+*   **iShares Silver Trust (SLV)**
+*   **Citigroup (C)**
+*   **Cupid**
+*   **Wendy's (WEN)**
+*   **Future Consumer**
+*   **Tata Power**
+*   **SBI**
+*   **Axis Bank**
+*   **HDFC Bank**
+*   **Infosys**
+*   **Wipro**
+*   **NTPC**
+*   **HLT**
+*   **NVO**
+*   **Paramount Skydance**
+*   **Warner Bros. Discovery**
+*   **Oracle**
+*   Cisco, Coherent, Cerebras (as earnings movers, no specific sentiment)
+*   Spotify, MGM, Activision Blizzard, Netflix, Microsoft (mentioned in context of others)
+*   GameStop, AMC, SpaceX (mentioned in historical context)
+*   Baron Capital (investment firm)
+*   Dunkin’, JDE Peet's, Starbucks (mentioned as industry examples)
+*   Crypto.com, Kraken, Bybit, Bitget, Robinhood (crypto platforms, some private)
+*   Bitcoin, Ethereum, Zcash (cryptocurrencies)
+*   Bullish (BLSH)
+
+### 2. Stocks with Bad Sentiment:
+
+*   **Lionsgate (LGF):** Extended losses and fell further after an activist investor expressed restlessness with the company's AI strategy, leading to a 13% value shed over the past month.
+*   **Future Consumer:** Mentioned negatively as its insolvency professional selection slipped from SBI’s control.
+*   **NVO:** Downgraded to 'Hold' by Berenberg, suggesting a less positive outlook from analysts.
+*   **Bitcoin & Ethereum:** Both cryptocurrencies experienced declines (approx. 1.2%) due to renewed U.S.-Iran geopolitical tensions and ETF outflows.
+
+### 3. Stocks with Good Sentiment:
+
+*   **Eli Lilly (LLY):** Picked as a "Growth Stock To Watch" following a strong quarterly earnings report, putting it within striking distance of a new buy point.
+*   **Cupid:** Shares gained 8.8% after reporting a threefold rise in Q1 net profit and a 159% YoY revenue surge, along with strengthened guidance.
+*   **Wendy's (WEN):** Shares soared as much as 17% on news that Nelson Peltz's Trian Fund Management could lead a bid to take the restaurant chain private, indicating investor excitement for a potential buyout.
+*   **HLT:** Upgraded to 'Buy' by Deutsche Bank with a $365 target, reflecting increased confidence from analysts.
+*   **Warner Bros. Discovery:** Stock was up 1.4% amid ongoing discussions and legal challenges regarding its merger with Paramount Skydance, suggesting market optimism for the deal.
+
+### 4. Stocks to Keep an Eye On:
+
+*   **Lionsgate (LGF):** Despite recent negative sentiment from activist investors regarding its AI strategy, the stock is still up 28% year-to-date and the company is seen as a desirable acquisition target. Its long-term approach to AI and potential M&A activity make it volatile but interesting.
+*   **Wendy's (WEN):** The stock saw a significant surge on takeover news, but it had fallen nearly half its value over the past year. The progression of the take-private bid and its eventual terms will be crucial in determining its future trajectory. High potential for volatility based on deal news.
+*   **Paramount Skydance:** Its stock is up, but the company is navigating a complex antitrust lawsuit challenging its merger with Warner Bros. Discovery and is considering selling CNN. This multifaceted situation (legal, M&A, potential asset divestiture) means significant developments are likely and could lead to sharp movements.
+*   **Apple (AAPL), Nvidia (NVDA), Tesla (TSLA), Citigroup (C):** These major players are repeatedly mentioned in the context of the rapidly expanding tokenized securities market, which Citi estimates could reach $5.5 trillion by 2030. While not directly impacting their stock *today*, their strategic positioning and involvement in this emerging market could be a significant long-term growth driver to monitor.
+
+---
+**Disclaimer:** This information is for educational purposes only and should not be construed as financial advice. Always conduct your own research or consult with a qualified financial advisor before making any investment decisions.
