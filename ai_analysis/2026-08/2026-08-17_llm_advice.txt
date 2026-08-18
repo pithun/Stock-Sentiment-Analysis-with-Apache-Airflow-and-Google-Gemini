@@ -1,0 +1,53 @@
+Here's a summary of today's stock news with sentiment analysis and investment advice:
+
+---
+
+### Stock Sentiment Analysis for Today
+
+**1. The Stocks Mentioned Today:**
+
+*   **Technology & AI:** SanDisk, Micron (MU), TSMC, Nebius, Oracle, Broadcom, AMD, ASML, Intel (INTC), Unitree Robotics, Tencent, Alibaba, DeepSeek, AgiBot, Leju, EngineAI, Alphabet (GOOG), Amazon (AMZN), SpaceX (SPCX), Anthropic, Reddit (RDDT), Apple (AAPL), Applied Materials (AMAT), ServiceNow (NOW), Salesforce (CRM), Workday (WDAY), Armis (acquisition), Veza (acquisition), Palantir (PLTR), NVIDIA (NVDA), Microsoft (MSFT), Snap (SNAP), Meta Platforms (META), Pinterest (PINS).
+*   **Retail & Consumer Goods:** Home Depot (HD), Target (TGT), Lowe’s (LOW), Walmart (WMT), Beyond Meat (BYND), Oatly (OTLY), Vital Farms (VITL), Nike (NKE), Lululemon Athletica (LULU), Deckers Outdoor (DECK), On Holding (ONON).
+*   **Financial & Industrial:** Bloom Energy, Chevron Corporation (CVX), Uber Technologies (UBER), Union Pacific (UNP), Autodesk (ADSK), L3Harris (LHX), SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC, Bharat Electronics, Air India.
+*   **Indexes/ETFs (General Market Indicators):** S&P 500, Nasdaq 100, Nifty Fifty (historical reference), VanEck Semiconductor ETF, Invesco Food & Beverage ETF (PBJ), SPDR S&P Retail ETF (XRT), Global X Social Media ETF (SOCL), Nikkei 225 (Japan), KOSPI (South Korea), Hang Seng Index (Hong Kong), SSE Composite Index (Shanghai), TAIEX (Taiwan).
+*   **Other:** Brent Crude (commodity), Bitcoin (cryptocurrency).
+
+**2. Stocks with Bad Sentiment Today:**
+
+*   **Beyond Meat (BYND):** Continues to slide after a reverse stock split and faces a Nasdaq compliance deadline. The underlying business appears to be in a "longer decline," with concerns about dividend coverage.
+*   **Nike (NKE):** Hit a fresh 52-week low, down 51% from its high. Facing significant challenges with a 29% drop in China digital sales, contracting direct-to-consumer businesses, and stagnant underlying margins. JPMorgan downgraded it to "Sell."
+*   **Snap (SNAP):** Dropped after a federal appeals court stripped its Section 230 immunity, opening the door to over 3,000 lawsuits. This creates "unquantifiable legal overhang" and raises concerns about potential liabilities.
+*   **Palantir (PLTR):** Despite strong revenue growth (up 92.8%), its valuation is considered "fully valued" with high P/E ratios and a lack of "cushion." Multiple compression and insider selling suggest the stock may have run ahead of itself.
+*   **L3Harris (LHX):** Retreating after its CEO parted ways due to "conduct violations," leading to leadership uncertainty.
+*   **SanDisk:** Experienced a significant tank of 47% in July, contributing to a hedge fund's implosion, though it has since regained some ground.
+*   **Applied Materials (AMAT):** Contributed to a decline in the S&P 500.
+*   **Vital Farms (VITL):** Fell 66% year-to-date, indicating a difficult year for the brand.
+*   **Social Media Sector (general impact):** Meta Platforms (META), Pinterest (PINS), and Reddit (RDDT) all saw declines following the Section 230 ruling against Snap, suggesting industry-wide concerns about liability.
+
+**3. Stocks with Good Sentiment Today:**
+
+*   **Unitree Robotics:** Had a highly successful STAR Market debut, oversubscribed by more than 8,000 times by retail investors. Valued near $9 billion, it's profitable and unveiled a new high-speed humanoid robot, "Superman," positioning it as a national project.
+*   **ServiceNow (NOW):** Shows "meaningful upside" with accelerating AI monetization (AI ACV crossed $1 billion, agentic deployments up 9x) and 24% revenue growth. Analysts rate it a "Buy" with a significant price target.
+*   **AMD (NASDAQ:AMD):** "Constructively positioned" with 107% data center growth in Q2 and strong customer commitments (Anthropic, OpenAI, Meta, Microsoft). It's seen as having a "favorable risk/reward" and a "path of least resistance is higher."
+*   **SpaceX (SPCX):** Harvard Management Co. disclosed a $2.2 billion investment, making it the largest position in their U.S. equity portfolio. It also received bond ratings after raising $25 billion and was tapped by Space Force.
+*   **Chevron Corporation (CVX):** Confirmed a major oil and gas condensate discovery offshore Angola.
+*   **Union Pacific (UNP):** Reported that fuel surcharges exceeded its Q2 fuel costs, directly contributing to profitability.
+*   **Apple (AAPL):** Rothschild & Co Redburn upgraded it to "Buy" with a sharply lifted price target, citing its expected entry into foldable smartphones and potential AI strategy evolution.
+*   **Anthropic:** Reported increased Q2 revenue to prospective investors, signaling growth.
+*   **Oatly (OTLY):** Gained 41% in the past month and 29% year-to-date, indicating a strong positive trend within the plant-based category.
+*   **Intel (INTC):** Its stock "skyrocketed" despite the company losing its crown as the largest semiconductor manufacturer, suggesting investor optimism.
+*   **Walmart (WMT):** Positioned as a key indicator of household spending, its upcoming earnings report is highly anticipated, suggesting positive expectations.
+
+**4. Which Stocks I Advise You to Keep an Eye On:**
+
+*   **S&P 500 & Nasdaq 100:** The broader market is at a critical juncture. While major indexes have hit record highs on tame inflation and upbeat earnings, billionaire investor Leon Cooperman warns of a coming recession, mispriced S&P 500 earnings, and advises avoiding tech. Monitor for clarity on economic direction and Fed policy.
+*   **Unitree Robotics:** Its highly successful IPO and innovative humanoid robot developments are exciting. However, the challenge will be to translate viral demonstrations into sustainable, recurring business. Watch how it performs post-listing.
+*   **Micron (MU) & SanDisk:** Both experienced significant drops in July linked to a hedge fund's implosion due to AI stock sell-offs, yet recent news suggests they are regaining momentum and are seen as major beneficiaries of AI infrastructure buildout. This volatility presents both risk and potential reward.
+*   **ServiceNow (NOW):** A strong contender in enterprise software with impressive AI monetization and revenue growth. Keep an eye on its ability to integrate acquisitions smoothly and how its GAAP margins evolve, especially as it aims for ambitious long-term revenue targets.
+*   **AMD (NASDAQ:AMD):** Showing robust data center growth and securing major commitments, challenging NVIDIA's dominance in the GPU market. While its valuation is high, its growth vectors are strong. Monitor its execution and any potential impacts from China export rules.
+*   **Palantir (PLTR):** Despite exceptional business execution, its valuation is extremely stretched. Watch for new catalysts or further extension of its growth runway that could justify its high price, or signs of further multiple compression.
+*   **Nike (NKE):** This is a high-risk, high-reward situation. With shares at a 52-week low and significant challenges in China and direct sales, a successful turnaround could lead to substantial gains. Watch for any signs of stabilization in its key markets and improved margin performance.
+*   **Snap (SNAP), Meta Platforms (META), Pinterest (PINS), Reddit (RDDT):** The recent Section 230 legal ruling has cast an "industry-wide liability shadow" over social media platforms. Monitor closely for legal developments, their potential financial impact, and how these companies adapt their product designs and business models in response.
+*   **Apple (AAPL):** With an analyst upgrade driven by potential new ventures like foldable iPhones and an evolving AI strategy, Apple could be entering a new growth phase. Watch for concrete announcements and execution on these strategic initiatives.
+*   **Autodesk (ADSK):** The stock presents mixed signals: recent declines, projected halving of revenue growth, and margin dilution from a large acquisition, yet analysts still see potential upside. Monitor whether management's guidance behind earnings keeps climbing.
+*   **Walmart (WMT):** As one of America's largest retailers, its upcoming earnings will be a crucial indicator of overall household spending and consumer health in the U.S. economy, providing broader market insights.
