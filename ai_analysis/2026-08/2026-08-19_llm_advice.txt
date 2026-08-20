@@ -1,0 +1,46 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+## Stock Sentiment Analysis: Today's Market Snapshot
+
+### 1. Stocks Mentioned Today
+
+*   **Magnificent Seven (Collective):** Nvidia, Amazon, Alphabet (Google), Meta Platforms, Microsoft, Tesla, Apple
+*   **Individual Stocks:** Moderna (MRNA), Merck, MicroStrategy (MSTR), Coinbase (COIN), Milky Mist Dairy Foods, SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC, Bharat Electronics, Intel (INTC), Advanced Micro Devices (AMD), Broadcom (AVGO), Keysight Technologies (KEYS), Lowe's (LOW), Target (TGT), Estée Lauder (EL), Dollar Tree (DLTR), Home Depot (HD), Americore Resources, Globex Mining Enterprises, American Airlines (AAL), Delta Air Lines (DAL), United Airlines (UAL), Disney (DIS), Zaggle Prepaid Ocean Services.
+*   **ETFs/Sectors:** S&P 500, Nasdaq 100, VanEck Semiconductor ETF (SMH), Tech Futures, China's robot makers, AI "hyperscalers."
+
+### 2. Stocks with Bad Sentiment
+
+*   **Magnificent Seven (Collective - General Concerns):** The group's collective performance has become "pedestrian," declining in value in the first half of 2026. Concerns include overvaluation (high CAPE ratios), market concentration (34% of S&P 500), and questions about the payoff from massive AI investments. The "moniker" may no longer fit as they "separate."
+*   **Meta Platforms:** Swooned due to ongoing litigation alleging addictive behavior in children and faces a landmark 29-state trial.
+*   **Microsoft:** Sank amid a broader decline in software stocks, also facing general Mag-7 concerns.
+*   **Tesla:** Plummeted in 2025 due to CEO Elon Musk's controversial political involvement, also part of the general Mag-7 concerns.
+*   **Intel (INTC), Advanced Micro Devices (AMD), Broadcom (AVGO):** All dropped 4-5% today as chip stocks remain under pressure, likely due to portfolio-level trimming and profit-taking ahead of Nvidia's earnings. Broadcom's year-to-date gain is also significantly lower than Intel and AMD.
+*   **VanEck Semiconductor ETF (SMH):** Slipped due to weakness in its top holdings, masking sharper declines internally.
+*   **Lowe's (LOW):** Lowered its full-year sales outlook as discretionary home improvement spending remains weak, causing its shares to fall.
+*   **Disney (DIS):** Filed a lawsuit against the FCC, alleging retaliation by the Trump administration over an early review of ABC station licenses.
+
+### 3. Stocks with Good Sentiment
+
+*   **Nvidia (NVDA):** The only "Magnificent Seven" stock beating the market this year, holding flat while peers dropped. Benefited from China easing H200 chip import restrictions and an analyst calling it a "compelling opportunity" with a significant discount to AI compute peers. High probability (94.5%) of beating quarterly earnings.
+*   **Moderna (MRNA):** Surged 177% after reporting successful late-stage trial results for a melanoma drug in partnership with Merck, marking a "pivotal moment for cancer research."
+*   **Merck:** Positively associated with Moderna's successful melanoma drug trial, as its immunotherapy drug Keytruda is used alongside Moderna's vaccine.
+*   **MicroStrategy (MSTR):** Made strides on the stock market today amid news of a White House crypto meeting.
+*   **Milky Mist Dairy Foods:** Made a strong debut on the NSE, listing 17.9% above its issue price and climbing further to close at a day's high.
+*   **Keysight Technologies (KEYS):** Climbed after delivering record fiscal third-quarter results, comfortably exceeding Wall Street expectations for earnings and revenue. Orders surged 56% driven by AI infrastructure demand, and management provided a stronger-than-expected outlook.
+*   **Target (TGT):** Increased its annual sales forecast for a second consecutive quarter, indicating its turnaround strategy is gaining traction.
+*   **Estée Lauder (EL):** Shares moved sharply higher after its fiscal 2027 profit outlook beat forecasts, supported by resilient demand and improving performance.
+*   **Dollar Tree (DLTR):** Gained after Jefferies upgraded the stock to Hold from Underperform, citing improving customer traffic.
+*   **Home Depot (HD):** Reported stronger-than-expected second-quarter results, lifting its shares.
+*   **American Airlines (AAL):** Plans to significantly expand premium seating and restore seatback entertainment screens, aiming to improve its competitive position.
+*   **Amazon, Alphabet (Google), Apple:** Despite collective "Magnificent Seven" concerns, Motley Fool still lists them among its "top 10 stocks to buy and hold."
+
+### 4. Stocks to Keep an Eye On
+
+*   **Nvidia (NVDA):** As the standout performer in the chip sector and the "Magnificent Seven," its upcoming earnings report (August 26) will be a critical catalyst that could reset the tone for the entire semiconductor and AI hardware group. Its ability to hold flat during a sector-wide dip and strong analyst sentiment makes it compelling.
+*   **Moderna (MRNA):** The massive surge on melanoma drug news is significant. Investors should monitor the sustainability of this momentum, further developments in the drug's approval process, and how the company leverages this "second act" beyond COVID vaccines.
+*   **Keysight Technologies (KEYS):** Its robust performance and strong outlook are directly tied to accelerating AI data center investment. This makes it a key play for the underlying infrastructure driving the AI boom, offering a potentially less volatile entry than some direct AI hyperscalers.
+*   **Coinbase (COIN) & MicroStrategy (MSTR):** These crypto-related stocks are sensitive to regulatory news. The White House crypto meeting mentioned could signal policy changes that significantly impact their future performance, creating potential volatility and opportunity. Coinbase specifically has mixed signals (poor earnings vs. crypto meeting news) that warrant close attention.
+*   **Zaggle Prepaid Ocean Services:** After a sharp drop due to weak earnings, a prominent investor (Vijay Kedia) "bought the dip," causing the stock to surge. This suggests a potential turnaround play, but also high volatility. It's worth watching to see if the institutional confidence is justified.
+*   **The "Magnificent Seven" (Collectively and Individually):** While facing headwinds and concerns about overvaluation, their sheer market weight means their trajectory will heavily influence the broader market. Their "separation" suggests it's time to evaluate each company on its individual merits rather than as a homogenous group. Pay close attention to how Amazon, Alphabet, and Apple perform given they still have strong analyst recommendations.
