@@ -1,0 +1,63 @@
+Here's a summary of today's stock news with sentiment analysis:
+
+---
+
+### **Stock Market Sentiment Analysis: Today's Digest**
+
+**Overall Market Outlook:** JPMorgan, Bank of America, and Goldman Sachs all point to potential seasonal weakness in the broader market from August to October, citing technical signals and historical trends. There's also a re-ignited conversation around a potential "AI bubble" and concerns about divergence between AI hardware and hyperscalers. Investors are advised to maintain stop-loss strategies and consider reducing long exposure into early September if current conditions persist. Treasury yields are at multi-year highs, impacting stock performance.
+
+---
+
+### **1. Stocks Mentioned Today**
+
+*   **Major Indexes/General Market:** S&P 500, Nasdaq, Dow Jones Industrial Average, Philadelphia Semiconductor Index, S&P 500 Value Index, S&P 500 Software Industry Group Index, CoinShares Bitcoin Mining and Digital Power ETF (WGMI), Global X Autonomous & Electric Vehicles ETF (DRIV), iShares U.S. Technology ETF (IYW)
+*   **Technology/AI/Semiconductors:** Nvidia (NVDA), Microsoft (MSFT), Amazon (AMZN), Micron Technology (MU), Analog Devices (ADI), Super Micro Computer (SMCI), Dell Technologies (DELL), Hewlett Packard Enterprise (HPE), Alibaba (BABA), Tencent, Cisco (CSCO), Marvell Technology (MRVL), Adobe (ADBE), Oracle (ORCL), Seagate Technology, Synopsys (SNPS), Broadcom
+*   **Automotive/EV:** XPeng (XPEV), NIO, Tesla (TSLA), Lucid (LCID), Rivian (RIVN)
+*   **Financial/Crypto:** Gemini (GEMI), MicroStrategy (MSTR), Strive (ASST), Bitmine Immersion Technologies (BMNR), SharpLink (SBET), Coinbase (COIN), Robinhood (HOOD)
+*   **Consumer/Retail:** Walmart (WMT), Intuit (INTU), TJX Companies, Ross Stores (ROST)
+*   **Industrial/Energy/Logistics:** Cleveland-Cliffs (CLF), ExxonMobil (XOM), Phillips 66, UPS
+*   **Healthcare/Pharma:** Eli Lilly (LLY), Picard Medical Inc. (PMI)
+*   **Other/Indian Market Specific:** Apple (AAPL), Meta Platforms (META), Accenture (ACN), Netflix (NFLX), SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC, CapitaLand India Trust (CLINT), H.B. Fuller Co. (FUL), Symbiotec Pharmalab (planning IPO)
+
+---
+
+### **2. Stocks with Bad Sentiment Today**
+
+*   **Super Micro Computer (SMCI):** Down 7% after Taiwanese prosecutors indicted employees for illegally routing AI servers to China, raising compliance and legal risks.
+*   **XPeng (XPEV):** Sinks 7% due to a Q2 revenue miss, weak Q3 guidance, and a wider-than-expected non-GAAP loss.
+*   **NIO:** Down 4% in sympathy with XPeng, reflecting broader negative sentiment in the Chinese EV sector.
+*   **Walmart (WMT):** Mentioned with a "worrying outlook" and previously slid 9%.
+*   **Gemini (GEMI):** Declined 87% since its IPO, expanding into prediction markets to diversify revenue amidst "weaker trading volumes."
+*   **Dell Technologies (DELL):** Slipped 2%, though this was attributed more to "broad-tape drift" than direct contagion from SMCI's issues.
+*   **Tesla (TSLA):** Sliding 2%, part of the general EV sector downturn, albeit a milder cut than Chinese ADRs.
+*   **Lucid (LCID):** Slipping 1%, also caught in the EV sector weakness.
+
+---
+
+### **3. Stocks with Good Sentiment Today**
+
+*   **Microsoft (MSFT):** Rated a "BUY" with a $590 price target, driven by Azure crossing $100 billion in annual revenue and Copilot's rapid monetization.
+*   **Analog Devices (ADI):** Upgraded to Outperform after stronger-than-expected Q3 results and an upbeat outlook for Q4.
+*   **Cleveland-Cliffs (CLF):** Gained 2% on news of a $1 billion modernization program for its Middletown Works facility, partially funded by the U.S. Department of Energy, aiming to improve efficiency and strengthen its position in higher-value steel markets.
+*   **Strive (ASST):** Up 5% after its CEO declared the Bitcoin bear market over, supported by an insider share purchase.
+*   **MicroStrategy (MSTR):** Up 3% (and surged 10.9% previously) as Bitcoin rallied, having raised over $2 billion without selling any of its Bitcoin holdings.
+*   **SharpLink (SBET):** Climbed 2% with institutional ownership jumping significantly and returns generated from staking Ethereum.
+*   **Rivian (RIVN):** Rose 0.7% "against the trend" of other electric vehicle stocks, showing relative strength.
+*   **UPS:** Investing over $2 billion to expand its global logistics network, indicating strong growth plans.
+*   **Ross Stores (ROST):** Raised its full-year earnings guidance following stronger-than-expected Q2 results.
+*   **Picard Medical Inc. (PMI):** Surged nearly 44% pre-market due to Q2 revenue significantly beating Wall Street expectations, despite a wider quarterly loss.
+
+---
+
+### **4. Stocks to Keep an Eye On**
+
+*   **Nvidia (NVDA):** With its Q2 earnings report and the Fed's Jackson Hole symposium happening this week, Nvidia is central to the AI investment narrative. Its performance will be a major market driver, and investor sentiment around the "AI bubble" will be closely watched.
+*   **Micron Technology (MU):** Despite a strong run and strategic shifts towards high-value AI memory, its low forward P/E compared to trailing and insider selling signals market caution. Monitoring whether its new research labs and long-term contracts can truly insulate it from cyclicality will be crucial.
+*   **Super Micro Computer (SMCI):** The legal issues regarding illegal server exports create significant short-term risk and volatility. Watch for the company's official response and the outcome of the independent board review; this could present either further downside or a potential rebound opportunity if issues are contained.
+*   **Intuit (INTU):** Trades at a discount compared to its decade range, and its operating margin continues to widen despite a recent miss in a segment. The 17% headcount cut aims to boost the bottom line. Watch if these strategic moves translate into sustained EPS growth and a re-rating of the stock.
+*   **Picard Medical Inc. (PMI):** A significant revenue beat led to a massive pre-market surge, but the company still reported a wider-than-expected loss. This indicates high volatility and potential, but also significant risk. Investors should watch closely if the strong revenue growth can be translated into profitability.
+*   **EV Sector (XPeng (XPEV), NIO, Tesla (TSLA), Lucid (LCID), Rivian (RIVN)):** The sector shows divergent performance (Chinese EVs struggling, Rivian showing strength). Broader market and specific company developments (like XPeng's robotics unit) could signal shifts or opportunities.
+
+---
+
+**Disclaimer:** This analysis is based solely on the provided news articles and does not constitute financial advice. Always conduct your own due diligence and consult with a qualified financial professional before making any investment decisions.
