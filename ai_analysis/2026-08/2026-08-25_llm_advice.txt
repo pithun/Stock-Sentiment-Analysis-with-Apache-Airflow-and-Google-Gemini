@@ -1,0 +1,68 @@
+Here's a summary of today's stock news with investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Daily Digest**
+
+**Date:** August 25, 2026
+
+---
+
+#### **1. Stocks Mentioned Today**
+
+*   **Technology & AI:** Advanced Micro Devices (AMD), Alphabet (GOOG/GOOGL), Alibaba (BABA), Amazon (AMZN), Apple (AAPL), Broadcom (AVGO), Cerebras Systems (CBRS), Coinbase (COIN), CXMT, Intel (INTC), Meta Platforms (META), Microsoft (MSFT), Micron (MU), Nvidia (NVDA), Rezolve Ai (RZLV), SanDisk (SNDK), Tencent, Tesla (TSLA), Western Digital (WDC).
+*   **Retail & Consumer Goods:** Airbnb (ABNB), Coca-Cola (KO), Costco (COST), Dick's Sporting Goods (DKS), Eli Lilly (LLY), Expedia Group (EXPE), Foot Locker (FL), FirstCash (FCFS), JD Sports, Kroger (KR), Target (TGT), Walmart (WMT).
+*   **Energy & Industrials:** Bloom Energy (BE), Centrus Energy (LEU), ExxonMobil (XOM), FuelCell Energy (FCEL), Larsen & Toubro (L&T), NuScale Power (SMR), Oklo (OKLO), Plug Power (PLUG), Uranium Energy (UEC), UPS (UPS).
+*   **Financial & Other:** Berkshire Hathaway (BRK.A/BRK.B), Chainlink (LINK - cryptocurrency/oracle provider), Mastercard (MA), Merck (MRK), Moderna (MRNA), Thomson Reuters, Unitree, Visa (V).
+
+---
+
+#### **2. Stocks with Bad Sentiment**
+
+*   **Unitree:** Debuted up 460% but quickly plunged 45% ($30bn swing), leading to accusations of being mispriced and a "rip-off" due to IPO system loopholes and "exuberant mood breeding bubbles." Adjusted net profit also fell 53%.
+*   **Alibaba (BABA):** Shares fell significantly after a $10.2 billion share placement. Quarterly net profit dropped 75%, and capital expenditure rose 75%, raising investor concerns about AI spending outpacing revenue.
+*   **Dick's Sporting Goods (DKS):** Stock sank over 16% pre-market due to weaker-than-expected earnings and a lowered full-year outlook. The company cited a "challenging athletic footwear and apparel marketplace" and ongoing costs from its Foot Locker acquisition.
+*   **Foot Locker (FL):** Outlook for its sales was specifically lowered by Dick's Sporting Goods, indicating continued struggles.
+*   **JD Sports:** Shares dropped over 13% last week after reporting a nearly 7% decline in North America sales, attributed to "weaker core sentiment" and slower demand.
+*   **FirstCash (FCFS):** Described as having its "breakout fade," suggesting a loss of momentum or negative market reaction.
+*   **Walmart (WMT):** Shares fell 6% despite an EPS beat and raised full-year guidance. The market reacted negatively as a significant portion of operating income growth came from one-time tariff refunds, which management plans to reinvest in lower prices, impacting future margins. Q3 guidance was also weak.
+*   **Cerebras Systems (CBRS):** Crashed 40% from its May high after missing Q2 estimates and guiding for lower gross margins, making it one of the "choppiest names in AI infrastructure" with high execution risk.
+
+---
+
+#### **3. Stocks with Good Sentiment**
+
+*   **Alphabet (GOOG/GOOGL):** Saw strong Q2 results with revenue up 24% and EPS beating estimates. Google Cloud revenue accelerated 82% with a $514 billion backlog. Endorsed by billionaires (Buffett, Ackman, Druckenmiller) and considered cheaper than peers like Microsoft and Meta. Launched Gemini Enterprise for Legal.
+*   **Airbnb (ABNB) & Expedia Group (EXPE):** Both trending higher and outperforming despite broader market concerns and volatility in tech stocks.
+*   **Larsen & Toubro (L&T):** Won a "major" order (€5,000-10,000 crore) in the Middle East to develop three battery energy storage system projects with a combined capacity of 6 GWh, signaling strong growth in its renewables business.
+*   **Microsoft (MSFT):** Continues to show strong performance, with Azure revenue exceeding $100 billion annually and a substantial commercial RPO backlog. Also expanding into legal AI.
+*   **Amazon (AMZN) & Broadcom (AVGO):** Mentioned as top holdings in the Vanguard Total Stock Market Index Fund (VTSAX), reflecting their strong market cap and contribution to broad market returns.
+*   **Eli Lilly (LLY):** Included as a top holding in VTSAX. Launched its weight-loss pill Foundayo in the UK, its first European market.
+*   **Advanced Micro Devices (AMD):** Raymond James upgraded the stock to Strong Buy, raising its price target to $641. The firm sees an attractive valuation and compelling long-term growth in the AI server CPU market. Shares gained 2.5% pre-market.
+*   **Rezolve Ai (RZLV):** Google selected its proprietary distributed database technology for Google Cloud Web3 blockchain datasets, marking a significant commercial deployment.
+*   **Moderna (MRNA):** Shares rebounded 2.9% after positive Phase 3 results for its mRNA cancer vaccine, intismeran autogene. Barclays significantly raised its price target to $125 from $48, citing the commercial potential.
+*   **UPS (UPS):** Committed over $2 billion to expand its global logistics network across Europe, Asia-Pacific, and the Americas, indicating strategic growth and investment.
+*   **ExxonMobil (XOM):** Increasing its use of automated drilling technology in the Permian Basin to boost oil production, improve safety, and accelerate well development.
+*   **Coca-Cola (KO):** Explicitly noted as having "a big year for Coca-Cola stock holders," suggesting strong performance.
+*   **Uranium Energy (UEC):** Led a sector-wide bounce in nuclear stocks with a 6% gain and was already an outlier with positive year-to-date returns.
+*   **Centrus Energy (LEU):** Participated in the nuclear sector rally, rising 2% without specific company news, indicating positive market sentiment for the sector.
+*   **Visa (V) & Mastercard (MA):** Both closed at record highs, signaling continued strength in U.S. consumer spending. Visa reported strong fiscal Q3 net revenue (up 14%) and payments volume (up 10%).
+*   **SanDisk (SNDK):** Given a BUY rating with a $2,117 price target, implying 41.81% upside. It has impressive 372% revenue growth, 84.6% gross margin, and $93.9 billion in signed multi-year datacenter contracts providing strong revenue visibility.
+*   **Micron (MU):** Described as a direct memory competitor to SanDisk with a similar strong profile and strategic customer agreements.
+*   **Costco (COST) & Target (TGT) & Kroger (KR):** All held firm or rallied post-earnings, contrasting with Walmart's decline, indicating strong performance and positive investor sentiment in their respective retail segments.
+*   **Chainlink (LINK):** Selected as the official oracle infrastructure for Coinbase's new tokenized stocks on Base, enhancing its utility in the DeFi ecosystem.
+*   **Bloom Energy (BE):** Shares surged 6.4% after congressional filings revealed Nancy Pelosi's household established a significant new position (up to $14.5M). The company also reported record Q2 revenue (up 166%) and raised full-year guidance, driven by AI data center demand.
+*   **FuelCell Energy (FCEL):** Rose 4% in sympathy with Bloom Energy, benefiting from the broader positive sentiment around AI data center power solutions.
+
+---
+
+#### **4. Stocks to Keep an Eye On**
+
+*   **Nvidia (NVDA):** Despite being a top performer with "parabolic" demand and massive revenue visibility, shares have been jittery, falling 7% last week. Investors are scrutinizing its AI financing strategy and anticipating its Q2 FY27 earnings report on August 26. The stock presents high potential but also high volatility and upcoming catalysts.
+*   **Tesla (TSLA):** While a top holding in VTSAX and a competitor in robotics (Unitree), recent news includes price increases for Cybertruck models. This could boost revenue but also impact demand. Its volatile nature and ongoing AI/robotics initiatives make it one to watch.
+*   **NuScale Power (SMR) & Oklo (OKLO):** Both are nuclear energy story stocks seeing a bounce after significant YTD losses. NuScale is deploying internal AI tools, and Oklo's Groves reactor achieved first criticality. However, both are still pre-revenue in their core deployment businesses, and today's news is more about internal developments or retrospective milestones rather than new revenue-generating contracts. Their long-term potential in AI power demand is significant, but execution risk and timeline remain key.
+*   **SanDisk (SNDK):** Experienced an extraordinary run (3,120% one-year gainer, 529% YTD) but recently pulled back 16% due to "bubble signal" concerns. Its strong growth and contract backlog are bullish, but its past volatility and dependence on NAND pricing (non-NBM portion) warrant close monitoring for sustained growth and margin stability.
+*   **Cerebras Systems (CBRS):** While it experienced a sharp 40% decline, analysts still maintain a largely bullish stance with an implied 57% upside, citing a massive $25 billion backlog (including OpenAI) and plans to triple 2027 revenue. It represents a high-risk, high-reward play tied to its CS-4 platform launch and AWS/AMD integrations. Watch for execution on these catalysts.
+*   **Plug Power (PLUG):** Part of the hydrogen and fuel-cell cluster, but only saw a modest 2% lift compared to Bloom Energy and FuelCell Energy. This suggests less direct positive sentiment or specific catalysts. It's worth watching to see if it can catch up to its peers or if underlying issues limit its participation in the sector's rally.
+
+---
