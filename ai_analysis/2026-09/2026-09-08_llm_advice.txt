@@ -1,0 +1,68 @@
+Here's a summary of today's stock news with sentiment analysis and investment advice:
+
+---
+
+## Stock Sentiment Analysis: Today's Market Snapshot
+
+### 1. The Stocks Mentioned Today
+
+Here are the unique stocks identified across today's news:
+
+*   **Technology & Semiconductors:** Apple (AAPL), Adobe (ADBE), ASML Holding (ASML), Dell Technologies (DELL), Google/Alphabet (GOOGL), Hewlett Packard Enterprise (HPE), Intel (INTC), Nvidia (NVDA), Oracle (ORCL), Palantir Technologies (PLTR), Qualcomm (QCOM), Salesforce (CRM), Snowflake (SNOW), Super Micro Computer (SMCI), Taiwan Semiconductor Manufacturing (TSM), Cloudflare (NET).
+*   **Aerospace & Space:** AST SpaceMobile (ASTS), BlackSky Technology (BKSY), Bombardier (BBD.B), Intuitive Machines (LUNR), Planet Labs (PL), Rocket Lab (RKLB), SpaceX (SPCX).
+*   **Financial Services:** American International Group (AIG), CME Group (CME), Intercontinental Exchange (ICE), Nasdaq (NDAQ).
+*   **Retail & Consumer:** Lululemon Athletica (LULU), Amazon.com (AMZN), Tesla (TSLA).
+*   **Industrial & Materials:** CF Industries (CF).
+*   **Healthcare:** Novo Nordisk (NVO).
+*   **Others/No Clear Sentiment:** Broadcom (AVGO), Lockheed Martin (LMT), Amgen (AMGN), Vistra (VST), AllianceBernstein (AB).
+
+### 2. Stocks with Bad Sentiment
+
+The following stocks faced negative news or significant headwinds today:
+
+*   **Adobe (ADBE):** Shares fell after announcing a leadership transition and executive departure.
+*   **AST SpaceMobile (ASTS):** Stock is down significantly over the past month following a "rough Q2 miss."
+*   **Bombardier (BBD.B):** Faced a call from President Trump to end sales in the U.S., which accounts for over half its revenue, posing a significant threat.
+*   **BlackSky Technology (BKSY):** Was highlighted as the group's worst monthly performer, despite analyst ratings.
+*   **Lululemon Athletica (LULU):** Shares plunged over 17% after the company lowered its fiscal 2026 guidance again, despite an earnings beat.
+*   **SpaceX (SPCX):** Stock is down 8% since its IPO, with concerns about its xAI product struggling against rivals, contributing to a decline in Elon Musk's net worth.
+*   **Tesla (TSLA):** Identified as being "in trouble," with stock drops, potential decreases in car sales, and regulatory scrutiny over its "Cybercab" vehicle.
+
+### 3. Stocks with Good Sentiment
+
+These stocks received positive news or showed strong performance today:
+
+*   **Apple (AAPL):** Morgan Stanley raised its price target, citing its first foldable iPhone as a significant potential revenue driver (estimated $14 billion in December quarter).
+*   **American International Group (AIG):** Received a bullish endorsement from "The Big Short" investor Steve Eisman and an analyst upgrade, seen as a cheap "self-help story" with improving operations.
+*   **ASML Holding (ASML):** Surging on a lithography milestone with Intel, putting it years ahead of rivals in chipmaking tools, and raised its full-year sales outlook.
+*   **CF Industries (CF):** Was noted as "actionable" as fertilizer names advanced in the market.
+*   **CME Group (CME):** Reported record market-data revenue, growing 20% year-over-year.
+*   **Dell Technologies (DELL):** Reported record AI orders and lifted its full-year fiscal 2027 revenue guidance.
+*   **Google/Alphabet (GOOGL):** Its cloud computing chief highlighted that the AI chip business is more than twice the size, boosting the stock.
+*   **Intercontinental Exchange (ICE):** Billionaire investor Bill Ackman initiated a major bet, arguing the market overestimates AI threats and undervalues its recurring data and mortgage tech businesses; the company also beat EPS estimates for the fifth consecutive quarter.
+*   **Intel (INTC):** Hit a lithography milestone that puts it years ahead of rivals, leading to a 5% stock surge against a falling market, bolstered by a strong collaboration with ASML.
+*   **Intuitive Machines (LUNR):** Shows nearly 99% implied upside from analyst targets, with a majority rating it Buy after an acquisition.
+*   **Nasdaq (NDAQ):** Grew index revenue significantly and successfully listed SpaceX's IPO.
+*   **Cloudflare (NET):** Stock was up after a Scotiabank upgrade and price target raise.
+*   **Novo Nordisk (NVO):** Reported positive Phase 3 trial results for its semaglutide in children with obesity.
+*   **NVIDIA (NVDA):** CEO Jensen Huang declared that "AGI has arrived" following OpenAI's GPT-6 Astra launch, reinforcing its leading position in AI.
+*   **Palantir Technologies (PLTR):** Entered a partnership with Nebius Group to integrate AI computing infrastructure with Palantir's enterprise platform.
+*   **Qualcomm (QCOM):** Made a pivotal deal with Amazon.com.
+*   **Snowflake (SNOW):** Delivered strong Q2 results, exceeding revenue and EPS expectations, and raised FY27 product revenue guidance, driven by AI workloads.
+*   **Taiwan Semiconductor Manufacturing (TSM):** Shares are up, riding the wave of AI-driven capacity demand and commitment to ASML's newest chipmaking tools.
+
+### 4. Stocks to Keep an Eye On
+
+These stocks have mixed signals, potential risks, or upcoming catalysts that warrant close monitoring:
+
+*   **Amazon (AMZN):** While QCOM deal is a positive, a Prime Air cargo plane crash is a recent negative event. Watch for further details on the crash impact and continued growth in its cloud and e-commerce segments.
+*   **Salesforce (CRM):** Its recent 34% surge was primarily driven by strategic investment gains rather than core operational outperformance, prompting questions about recurring earnings power. Monitor future reports for sustainable organic growth.
+*   **Hewlett Packard Enterprise (HPE):** Showing strong AI systems orders and revenue, but management warned that gross margins would moderate as AI systems become a larger part of the mix. Keep an eye on margin trends in upcoming quarters.
+*   **Oracle (ORCL):** Surging on AI cloud infrastructure enthusiasm and a Morgan Stanley upgrade, backed by massive Remaining Performance Obligations (RPO). However, it faces a significant capital plan (debt and negative free cash flow), and its upcoming Q1 FY27 earnings report will be crucial for validating the AI cloud growth narrative.
+*   **Planet Labs (PL):** Despite a Q2 beat and high implied analyst upside, the stock has been down significantly over the past month. Watch if its underlying business strengths can reverse the recent negative price action.
+*   **Rocket Lab (RKLB):** Currently "deep in the red" due to a rocket test failure and delayed Neutron rocket debut, but analysts are maintaining high price targets based on a record backlog and defense contracts. The success of the Neutron's first flight (expected Q4 2026) is a critical catalyst to watch.
+*   **Super Micro Computer (SMCI):** Despite a stock rally, the margin beat reported was attributed to one-time factors, and management guided current-quarter gross margins significantly lower. Investors should monitor if the company can maintain profitability amidst booming demand or if margins normalize as management expects.
+
+---
+
+**Disclaimer:** This summary is for informational purposes only and should not be construed as investment advice. Stock markets are volatile, and past performance is not indicative of future results. Always conduct your own thorough research and consult with a qualified financial advisor before making any investment decisions.
