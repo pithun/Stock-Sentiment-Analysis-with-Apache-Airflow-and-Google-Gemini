@@ -1,0 +1,51 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+### **Stock Sentiment Analysis: Today's Market Snapshot**
+
+**Overall Market Sentiment:** The general market sentiment today is largely negative, driven by rising crude oil prices (surging past $100), multi-year high Treasury yields, and an impending inflation report. All major indices (Russell 2000, Nasdaq, Dow Jones Industrials, S&P 500) closed lower, with the S&P 500 even breaking support levels. Geopolitical tensions are also adding to the pressure.
+
+---
+
+**1. The Stocks Mentioned Today:**
+
+*   **Technology & Cloud:** Oracle (ORCL), Microsoft (MSFT), Alphabet (GOOG/GOOGL), Tesla, Meta Platforms (META), Nvidia (NVDA), Palantir (PLTR), Dell Technologies (DELL), Cisco, Rackspace, Nebius, IonQ (IONQ), Rigetti Computing (RGTI), D-Wave Quantum (QBTS).
+*   **Semiconductors & Memory:** SK Hynix (SKHY), Micron Technology (MU), Western Digital Corporation (WDC), Samsung Electronics.
+*   **Indian IT & Banking (Nifty IT Index constituents):** Infosys, Wipro, SBI, Axis Bank, HDFC Bank, NTPC.
+*   **Automotive:** Ford.
+*   **Defense & Drones:** AeroVironment (AVAV), Unusual Machines (UMAC), Ondas (ONDS), Red Cat (RCAT), Kratos Defense & Security Solutions (KTOS).
+*   **Other:** AccuStaff (historical reference).
+
+---
+
+**2. Stocks with Bad Sentiment Today:**
+
+*   **Tesla:** Mentioned as "stocks tumbling" in July alongside Alphabet due to increased capex projections.
+*   **Nifty IT Index (and associated stocks like Infosys, Wipro, SBI, Axis Bank, HDFC Bank, NTPC):** Experienced its largest single-day drop in three months, with significant declines across the board. This was triggered by renewed risk-off sentiment, US interest rate hike worries, geopolitical tensions, rising oil prices, H-1B visa cost concerns, and generative AI disruption.
+*   **Nvidia (NVDA):** Despite positive strategic news, the stock "slid" today, suggesting broader market pressure outweighed company-specific good news.
+*   **Palantir (PLTR):** Although reporting an "otherworldly quarter" and a significant partnership with Nvidia, the stock continues to slide (down 4.19% YTD, 1.41% today) due to its high valuation (P/E of 241x) and sensitivity to rising rates.
+*   **Memory Chip Sector:** SK Hynix (down 5%), Micron Technology (sliding 3%), Western Digital Corporation (falling 3%), and Samsung Electronics (traded lower) all experienced a selloff, leading the memory-chip complex lower. This was primarily attributed to adverse macro conditions (rising Treasury yields, crude oil prices) overriding positive analyst ratings or demand picture.
+*   **Ondas (ONDS) & Red Cat (RCAT):** Slipping and trading heavy, respectively, within the drone sector, failing to catch a broader bid from AeroVironment's positive news.
+*   **Quantum Computing Stocks:** IonQ (fell 5.78%, down 15.02% YTD), Rigetti Computing (down 31.2% YTD), and D-Wave Quantum (down 34.53% YTD) all saw declines. Despite ambitious CEO claims, market skepticism persists due to high operating expenses, negative EBITDA, and valuation concerns for a technology still seeking widespread commercial validation.
+
+---
+
+**3. Stocks with Good Sentiment Today:**
+
+*   **Oracle (ORCL):** Shares were up 7% after reporting 121% growth in cloud infrastructure revenue, easing Wall Street fears about its heavy data center spending.
+*   **Microsoft (MSFT):** Mentioned as a company whose stock "soared after reporting earnings" (in context of keeping its capex forecast unchanged in July).
+*   **Apple (AAPL):** Headed higher after its launch of the folding iPhone.
+*   **AeroVironment (AVAV):** Stock was up 5% today following a milestone international order for its LOCUST laser weapon system and strong fiscal Q1 2027 results, beating consensus expectations.
+
+---
+
+**4. Which Stocks to Keep an Eye On:**
+
+*   **Alphabet (GOOG/GOOGL):** Despite a recent pullback (down 8% from last month's highs) and concerns about increased CapEx, Alphabet posted "blowout earnings" with accelerating Google Cloud growth (82% YoY) and a significant price target ($509.02). The current stock softness against strong operating results presents a potential long-term opportunity, especially as its AI story strengthens.
+*   **Palantir (PLTR):** While the stock is currently struggling with valuation friction and macro headwinds, its "otherworldly quarter" performance (92.83% YoY revenue growth, 149% U.S. commercial growth) and strategic partnership with Nvidia (running Nvidia's supply chain software) indicate strong underlying business momentum. If it continues to execute and EPS catches up, it could see significant multiple compression and upside.
+*   **Nvidia (NVDA):** Even though it "slid" today, the news of its critical partnership with Palantir for its supply chain software is a robust endorsement of Palantir's platform and reinforces Nvidia's own operational strength. Any dips caused by broader market sentiment could be an opportunity for investors confident in its long-term AI dominance.
+*   **AeroVironment (AVAV):** Today's 5% rally on strong news is notable, especially as the stock is still down 39% YTD. Its unique and cost-effective directed-energy laser weapon system, significant international orders, and robust defense budget tailwinds position it well. Watch for continued LOCUST production ramp-up and additional orders.
+*   **The Memory Chip Sector (SK Hynix, Micron Technology, Western Digital Corporation):** This sector is facing a severe macro headwind today, leading to significant drops despite intact demand drivers for the AI era. If the broader macro environment (yields, oil prices) stabilizes or improves, these stocks could see a sharp rebound, as the underlying demand for memory is expected to remain strong.
+
+---
