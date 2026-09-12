@@ -1,0 +1,65 @@
+Here's a summary of today's stock news and sentiment analysis:
+
+---
+
+## **Stock Sentiment Analysis: Daily Briefing**
+
+### **1. Stocks Mentioned Today**
+
+*   **Technology & Semiconductors:** Enflame, Tencent, Nvidia, Unitree, Moore Threads, MetaX, Biren, CXMT, TSMC, Apple (AAPL), Oracle (ORCL), OpenAI, Salesforce (CRM), Intel (INTC), Advanced Micro Devices (AMD), Micron Technology (MU), SK Hynix, Samsung, Skyworks Solutions (SWKS), Alphabet (GOOGL), Qorvo (QRVO), Qualcomm (QCOM), Hewlett Packard Enterprise (HPE), Dell Technologies (DELL), Super Micro Computer (SMCI), CoreWeave.
+*   **Biotechnology & Healthcare:** Nutex Health, Exelixis (EXEL), Roche (RHHBY), Hims & Hers (HIMS).
+*   **Energy & Industrials:** Torm (TRMD), Bloom Energy (BE), FuelCell Energy (FCEL), Plug Power (PLUG), SpaceX ($SPCX - *tokenized stock, SpaceX is private*), Africell (*private company*).
+*   **Financials:** Goldman Sachs (GS), JPMorgan Chase (JPM), Citigroup (C), Bank of America (BAC), Bitwise Dogecoin ETF ($BWOW), Dogecoin (DOGE), Bitwise Asset Management (*private company*), Situational Awareness Hedge Fund.
+*   **ETFs/Indices:** Dow Jones Industrial Average (DJIA), Star 50 Index, CSI 300 Index, Liv-ex Fine Wine 100 index, S&P 500, iShares Semiconductor ETF (SOXX), Invesco QQQ Trust (QQQ), SPDR S&P 500 ETF Trust (SPY), iShares Global Clean Energy ETF (ICLN), iShares U.S. Technology ETF (IYW), Roundhill Memory ETF (DRAM).
+*   **Other Assets:** Fine Wines, Gold, Real Estate, US Dollar Index.
+
+### **2. Stocks with Bad Sentiment**
+
+*   **General Market/Economy:**
+    *   The **overall stock market** faces a significant blow from escalating bond selloff and surging US Treasury yields (News 1, 4, 5, 10, 11).
+    *   The **US Dollar Index** is predicted by Michael Burry to face a "colossal train wreck" over the next 5-10 years (News 3).
+*   **Specific Stocks/Assets:**
+    *   **Shopify (SHOP):** Under heavy selling pressure, broke below its 200-day moving average, signaling potential further weakness (News 12).
+    *   **Bitwise Dogecoin ETF ($BWOW):** Liquidating and closing after only 10 months due to failing to maintain trading activity and launching after the crypto market peak (News 16).
+    *   **Dogecoin (DOGE):** Its price has declined 66% over the last 12 months, coinciding with the ETF closure (News 16).
+    *   **Exelixis (EXEL):** Dropped out of a buy zone after the FDA delayed approval for its new colon cancer treatment by three months (News 22).
+    *   **Moore Threads, MetaX, Biren:** While they surged on debut, Bloomberg reported they have fallen "substantially" (more than 40-60%) from their peaks (News 2).
+    *   **SanDisk:** Fell nearly 47% in July, though a hedge fund is now buying options (News 25).
+    *   **Micron Technology (MU):** Despite reporting record revenue guidance and strong fundamentals, the stock closed down 4.9% post-earnings and saw significant 1-week/30-day drawdowns, indicating potential profit-taking or macro concerns (News 15).
+
+### **3. Stocks with Good Sentiment**
+
+*   **Enflame:** Closed an astounding 179% above its offer price on its Shanghai debut, backed by Tencent and seen as a leading AI chipmaker in China (News 2).
+*   **Tencent:** Benefits from its 20% stake in Enflame and being its largest customer, with Enflame's strong IPO debut reflecting positively (News 2).
+*   **Apple (AAPL):** Finished a winning week (News 4) and climbed after unveiling its new foldable iPhone at a premium price point, which could boost average selling prices (News 18).
+*   **Nutex Health:** Saw its Relative Strength Rating move into the 80-plus level, indicating strong technical momentum (News 5).
+*   **Africell:** Receiving a nearly $100 million loan from the Trump administration as Africa's only American-owned telecoms (News 6).
+*   **Oracle (ORCL):** Stock jumped after reporting 121% cloud revenue growth and booking over $30 billion in new AI cloud contracts, weakening bearish arguments (News 7, 8, 9, 19).
+*   **Wheaton Precious Metals (WPM):** Reaching a buy point with "profit rockets" due to soaring energy prices driving commodity markets (News 13).
+*   **Intel (INTC):** Shares surged on reports of raising chip prices for PC processors and is up 183% year-to-date, leading other large-cap chip names (News 14).
+*   **Advanced Micro Devices (AMD):** Shares rose 2% (News 14) and a hedge fund was reported to be buying options (News 25).
+*   **Bloom Energy (BE):** Shares climbed after its addition to the S&P 500, benefiting from mechanical buying pressure and the theme of onsite power for AI data centers (News 17). A hedge fund also bought options (News 25).
+*   **FuelCell Energy (FCEL) & Plug Power (PLUG):** Surged in sympathy with Bloom Energy, driven by the strong thematic demand for onsite power solutions for AI data centers (News 17).
+*   **Skyworks Solutions (SWKS):** Rallying significantly due to its strong ties to Apple's premium iPhone launch and its proposed merger with Qorvo reaching final stages (News 18, 20).
+*   **Alphabet (GOOGL):** Saw gains reflecting broad mega-cap tech strength (News 18).
+*   **Qorvo (QRVO):** Climbing due to the positive news regarding its merger with Skyworks Solutions (News 20).
+*   **Hewlett Packard Enterprise (HPE) & Dell Technologies (DELL):** Both stocks surged over 11% driven by Oracle's announcement of massive capital spending plans for AI data centers, directly benefiting server and networking vendors (News 19).
+*   **Super Micro Computer (SMCI):** Climbed 7% on the same Oracle spending news, building on its already strong order book outlook (News 19).
+*   **Qualcomm (QCOM):** Rose, riding the broader positive trend in the chip sector (News 20).
+*   **SpaceX ($SPCX):** The tokenized stock rose after its CFO announced a new AI compute customer worth $13 billion annually and plans for its first revenue-generating Starship mission (News 21).
+*   **Torm (TRMD):** Eyeing an entry as its profit "rockets" due to soaring energy prices driven by geopolitical tensions (News 23).
+*   **SK Hynix:** A hedge fund was reported to be buying options (News 25).
+*   **Roundhill Memory ETF (DRAM):** A hedge fund was reported to be buying options (News 25).
+
+### **4. Stocks to Keep an Eye On**
+
+*   **Enflame:** Its stellar IPO debut is impressive, but watch for its ability to achieve profitability and navigate geopolitical tensions given its reliance on overseas manufacturing. Its historical lack of profit and the subsequent drops experienced by other Chinese "AI dragons" warrant caution and close monitoring for sustained performance (News 2).
+*   **Oracle (ORCL):** While recent results and contract wins are very strong, the company faces significant capital expenditure plans ($90-95bn in FY27/28) and substantial long-term debt. Investors should monitor the conversion timing of its massive backlog into revenue and the impact of lower-margin infrastructure on overall profitability (News 9, 19).
+*   **Micron Technology (MU):** Despite overwhelmingly positive fundamental news (highest revenue guidance, worsening supply shortage, strong contracts), the stock experienced a sharp post-earnings decline. This presents a potential buying opportunity for long-term investors if the market is overreacting, but it also signals underlying skepticism or macro concerns (like rising interest rates and oil prices) that need careful monitoring (News 15).
+*   **Intel (INTC):** Its impressive year-to-date run and reported price hikes are positive, but a recent "Neutral" rating from Piper Sandler highlighted execution risk and competition. Observe if its pricing power is sustainable due to genuine demand or temporary scarcity, especially against AMD (News 14).
+*   **Bloom Energy (BE):** The S&P 500 inclusion provides a short-term mechanical buying boost. The key is to see if the underlying demand for its onsite power solutions for AI data centers can sustain its valuation once the index-driven buying subsides, especially given its prior ~20% decline (News 17).
+*   **Hewlett Packard Enterprise (HPE), Dell Technologies (DELL), Super Micro Computer (SMCI):** These server makers surged on Oracle's huge capex plans. Keep an eye on whether other hyperscale customers announce similar large-scale investments, which would signal a broader, durable demand trend for AI infrastructure rather than a one-off customer event (News 19).
+*   **Skyworks Solutions (SWKS) & Qorvo (QRVO):** Their proposed merger is in its final stages, which is positive. Monitor for the final regulatory approvals and the successful integration of the two companies. Their performance will also remain heavily tied to Apple's iPhone sales cycles (News 18, 20).
+
+---
+**Disclaimer:** This summary is based on the provided news articles and is for informational purposes only. It does not constitute financial advice. Always conduct your own research and consult with a qualified financial advisor before making any investment decisions.
