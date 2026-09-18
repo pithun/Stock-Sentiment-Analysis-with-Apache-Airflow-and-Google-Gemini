@@ -1,0 +1,95 @@
+Here's a summary of today's stock news and investment advice:
+
+---
+
+## Stock Sentiment Analysis: Daily Wrap-Up
+
+**Date:** Today
+
+**Overall Market Tone:** The market experienced a general rally today, with major U.S. indexes (S&P 500, Nasdaq, Dow, Russell 2000) rising, largely driven by big jumps in tech shares. The Federal Reserve's rate hike offered some relief to investors by signaling efforts to contain inflation, even as warnings of potential future hikes exist. Crypto markets, however, are facing headwinds from recent Fed decisions and previous declines.
+
+### 1. The Stocks Mentioned Today
+
+*   **Publicly Traded Companies & ETFs:**
+    *   Advanced Micro Devices (NASDAQ:AMD)
+    *   Amazon (NASDAQ:AMZN)
+    *   Broadcom (NASDAQ:AVGO)
+    *   Caterpillar (NYSE:CAT)
+    *   Ciena (CIEN)
+    *   Coinbase
+    *   CoreWeave (NASDAQ:CRWV)
+    *   Cummins (NYSE:CMI)
+    *   Dell Technologies (NYSE:DELL)
+    *   Generac Holdings (NYSE:GNRC)
+    *   Hewlett Packard Enterprise (NYSE:HPE)
+    *   IREN Limited (NASDAQ:IREN)
+    *   Intel (NASDAQ:INTC)
+    *   iShares Semiconductor ETF (NASDAQ:SOXX)
+    *   iShares U.S. Technology ETF (NYSEARCA:IYW)
+    *   Kraken
+    *   Marvell Technology (NASDAQ:MRVL)
+    *   Microsoft (NASDAQ:MSFT)
+    *   MicroStrategy (NASDAQ:MSTR)
+    *   Micron Technology (NASDAQ:MU)
+    *   Nasdaq
+    *   Nebius Group (NASDAQ:NBIS)
+    *   Nokia (NYSE:NOK)
+    *   NVIDIA (NASDAQ:NVDA)
+    *   OG.com
+    *   ON Semiconductor (NASDAQ:ON)
+    *   Oracle (NYSE:ORCL)
+    *   Rackspace Technology (NASDAQ:RXT)
+    *   Snowflake (NYSE:SNOW)
+    *   SoFi Technologies (NASDAQ:SOFI)
+    *   SPDR S&P 500 ETF Trust (NYSEARCA:SPY)
+    *   Super Micro Computer (NASDAQ:SMCI)
+    *   Synaptics (NASDAQ:SYNA)
+    *   Tempus AI (NASDAQ:TEM)
+    *   Invesco QQQ Trust (NASDAQ:QQQ)
+    *   Global X Data Center & Digital Infrastructure ETF (NASDAQ:DTCR)
+*   **Cryptocurrencies:**
+    *   Bitcoin (CRYPTO:BTC)
+    *   Ethereum (CRYPTO:ETH)
+    *   XRP (CRYPTO:XRP)
+*   **Other Entities/Mentions:**
+    *   Greenlight Capital, Morgan Stanley, Redfin, JPMorganChase Institute, Baron Capital, NXP, SiFive, Great Wall, AWS, Google, Meta, OpenAI, Anthropic, Apollo, Blackstone, Rosenblatt Securities, Canaccord Genuity, B. Riley, Mizuho, Evercore ISI, Access/Macro, ABN-AMRO, Northlight Asset Management, London Stock Exchange.
+
+### 2. Which of These Stocks Had a Bad Sentiment
+
+*   **ON Semiconductor (NASDAQ:ON):** The stock sank 9% during an investor day, with the CEO explaining a smaller-than-expected total addressable market and market perception of the growth math. Sellers showed up despite analyst upgrades, indicating a negative sentiment.
+*   **CoreWeave (NASDAQ:CRWV):** Slipped 2% while its neocloud peers rallied, with concerns cited about capacity committed at older rates, debt, and free cash flow. This divergence signals investor caution.
+*   **Cryptocurrencies (Bitcoin, Ethereum, XRP) and related companies:**
+    *   **Bitcoin (CRYPTO:BTC), Ethereum (CRYPTO:ETH), XRP (CRYPTO:XRP):** Facing a "steeper climb" with less reliable correlation to tech stocks. Bitcoin is down 34% year-over-year, XRP down 56%, and Ethereum needs a 100% gain to return to year-ago levels.
+    *   **MicroStrategy (NASDAQ:MSTR):** Reported an $8.32 billion unrealized loss on its Bitcoin treasury in Q2, reflecting the negative crypto performance.
+
+### 3. Which Had Good Sentiment
+
+*   **Advanced Micro Devices (NASDAQ:AMD):** Led semiconductor gains, up 7%, and is up 156% year-to-date, with strong data center revenue growth.
+*   **NVIDIA (NASDAQ:NVDA):** Up 2% and contributed to broader tech gains, mentioned positively in partner content expansions.
+*   **Amazon (NASDAQ:AMZN):** Was part of the tech shares driving market gains today and signed a significant contract with Generac.
+*   **Microsoft (NASDAQ:MSFT):** Saw big jumps in tech shares and announced an expanded partnership with Nokia.
+*   **Intel (NASDAQ:INTC):** Experienced a big jump as part of the broader tech rally.
+*   **Tempus AI (NASDAQ:TEM):** Had a breakout week, rallying nearly 30% and 13.83% today, driven by Morgan Stanley's positive reframe on reimbursement-driven revenue lifts and accelerating data licensing.
+*   **Ciena (CIEN):** Stock climbed after announcing new financial targets (30% CAGR) and strong Q3 earnings (boomed 215%), exceeding guidance.
+*   **Rackspace Technology (NASDAQ:RXT):** Shares climbed over 6% after joining Nvidia’s Cloud Partner Program.
+*   **Hewlett Packard Enterprise (NYSE:HPE):** The biggest mover in AI server stocks, up 9.02%.
+*   **Super Micro Computer (NASDAQ:SMCI):** Climbed 6.08% as part of the AI hardware assembler rotation.
+*   **Dell Technologies (NYSE:DELL):** Rose 3.36% in the AI server rally.
+*   **Nebius Group (NASDAQ:NBIS):** Climbed 10% after notifying customers of higher on-demand rental rates for AI GPUs, signaling pricing power.
+*   **IREN Limited (NASDAQ:IREN):** Up 6%, benefiting from the positive read-through of Nebius's GPU pricing power due to owning similar scarce capacity.
+*   **OG.com, Kraken, Coinbase:** Crypto platforms received positive news regarding regulatory approvals for stock futures or expansion of offerings, bridging TradFi and digital assets.
+*   **Marvell Technology (NASDAQ:MRVL):** Mentioned positively for its custom silicon story leading to a 170.7% YTD re-rating.
+*   **Micron Technology (NASDAQ:MU):** Up 5% (mentioned in related snippet), indicating positive momentum in memory chips.
+
+### 4. Which Would You Advise Me to Keep an Eye On
+
+These stocks present compelling narratives with significant upside potential but also identifiable risks or complexities that warrant close observation.
+
+*   **Broadcom (NASDAQ:AVGO):** Despite posting its ninth consecutive EPS beat, guiding AI revenue up 236% YOY, and receiving bullish analyst upgrades (e.g., Rosenblatt's $600 target implies 77% upside), the stock continues to slide (down 13.49% over the past month, 1.54% YTD). This extreme disconnect between strong fundamentals and price action makes it a potential contrarian buy if the market eventually re-rates it to align with its AI leadership and consistent performance.
+*   **Oracle (NYSE:ORCL):** Similar to Broadcom, Oracle's stock is falling significantly (down 51.46% YOY, 8.95% weekly) despite reporting a "loudest cloud quarter" with revenue up 29.6%, cloud infrastructure growing 121%, and a staggering $664 billion AI backlog. The market is focused on negative free cash flow and high capex, but bulls see a massive backlog conversion opportunity. If Oracle executes on its backlog and returns to positive free cash flow, the current valuation could be a "generational buying opportunity."
+*   **SoFi Technologies (NASDAQ:SOFI):** The stock has had a "punishing 2026," down 34.8% YTD and near 52-week lows. However, the business posted a record quarter, raised full-year guidance, and management sees it as an "inflection point." With rising 2027 EPS estimates and strong growth forecasts, it offers a compelling risk-reward if the market begins to re-rate it based on its operational execution rather than current sentiment.
+*   **Generac Holdings (NYSE:GNRC):** While up 16% today on a major multi-year Amazon contract for data center generators, the deal includes warrants for Amazon, raising concerns about potential dilution. Also, peer stocks like Cummins remained flat, suggesting the rally is company-specific rather than a sector-wide re-rating. Watch how the warrant math plays out and if Generac can secure additional hyperscaler contracts to validate the long-term growth story beyond the initial Amazon deal.
+*   **Nokia (NYSE:NOK):** The stock has rallied significantly (up 132.81% YOY, 65.14% YTD) and received a "strong buy" call from Jim Cramer, boosted by a Microsoft partnership for AI-powered telecom networks. However, Q2 saw an operating income loss and negative free cash flow due to restructuring charges. The balance between promising AI growth and ongoing restructuring challenges, plus the "Inverse Cramer" sentiment, makes it a fascinating watch for its turnaround potential.
+*   **Snowflake (NYSE:SNOW):** The company is executing exceptionally well with accelerating product revenue growth and strong AI adoption, but its stock has already rallied over 50% YTD and trades at very high valuations (e.g., 167x forward earnings) with deeply negative GAAP economics. It's currently a "Hold" recommendation. Watch for sustained GAAP profitability or a significant pullback to improve the risk/reward for new positions.
+
+---
