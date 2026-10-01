@@ -1,0 +1,57 @@
+Here's a summary of today's stock news and investment advice:
+
+## Stock Sentiment Analysis Report
+
+**Date:** September 30, 2026
+
+---
+
+### 1. Stocks Mentioned Today:
+
+*   **Publicly Traded Companies:**
+    *   SBI (State Bank of India)
+    *   Axis Bank
+    *   HDFC Bank
+    *   Infosys
+    *   Wipro
+    *   NTPC
+    *   Mitsubishi Motors (parent company/brand for Triton AT Premium offers)
+    *   Adani (mentioned in context of "US indictment")
+    *   Reliance (mentioned in context of "acquisition spree")
+    *   L&T (Larsen & Toubro) (mentioned in context of "acquisition spree")
+    *   Huawei (mentioned as competing with Google/Apple)
+    *   Google (Alphabet Inc.) (mentioned as competitor to Huawei)
+    *   Apple (mentioned as competitor to Huawei)
+*   **Companies in IPO Discussion (currently private):**
+    *   Anthropic
+    *   Oura
+    *   Holtec Nuclear
+    *   Bamboo Insurance
+
+---
+
+### 2. Stocks/Categories with Bad Sentiment:
+
+*   **Oura, Holtec Nuclear, Bamboo Insurance:** These companies have postponed their IPO plans, citing "macro and market conditions that are too choppy." This indicates a negative outlook for their near-term public market entry.
+*   **Adani:** Mentioned in the context of a "US indictment," which carries significant negative sentiment and potential risk.
+*   **Broad Market (Non-AI stocks / "Unloved stocks"):** News suggests that much of the market outside of AI-linked mega-caps is "battered by higher oil prices and soaring bond yields," with the median S&P 500 stock trading 16% below its 52-week high. This indicates a generally negative sentiment for a significant portion of non-AI related public companies.
+
+---
+
+### 3. Stocks/Categories with Good Sentiment:
+
+*   **Anthropic:** Its leaked IPO prospectus highlights "eye-popping financial snippets," and the company is reportedly "full steam ahead" with its offering, showing strong positive sentiment for its AI-driven business model and market entry.
+*   **Mitsubishi Motors:** The company is offering substantial benefits and promotions (up to RM25,000, free maintenance, warranty) for its Triton AT Premium, indicating an aggressive and positive sales strategy in the Malaysian market.
+*   **Reliance, L&T (Larsen & Toubro):** Both companies are highlighted for being on an "acquisition spree," suggesting strategic growth initiatives and a positive outlook for expansion.
+*   **SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC:** These are listed as "Top Trending Stocks," which generally implies positive investor interest or recent favorable performance, though specific reasons for their trending status were not detailed in the news.
+*   **AI-linked mega-caps (General Category):** These companies are credited with "keeping the S&P 500 afloat," indicating strong performance and positive investor sentiment in the current market.
+
+---
+
+### 4. Stocks to Keep an Eye On:
+
+*   **Anthropic (IPO):** Its upcoming IPO will be a significant test of how much more "top-heavy AI action the market can stomach." Watch its performance closely as an indicator for the broader AI sector's public market appetite.
+*   **Oura, Holtec Nuclear, Bamboo Insurance (and broader IPO market):** Their postponed IPOs serve as barometers for the health of non-AI sectors and overall market conditions. A successful resurgence in these companies' IPO plans could signal an improvement in macro factors (oil prices, bond yields) for the broader market.
+*   **Adani:** The mention of a "US indictment" is a serious development. Monitor any further news or regulatory actions that could impact the various Adani Group companies.
+*   **Mitsubishi Motors:** Observe how the aggressive Triton AT Premium promotions translate into sales figures and overall market share in Malaysia. This could indicate a strategic move to boost performance.
+*   **"Unloved stocks" / Non-AI companies:** Goldman Sachs and Morgan Stanley view the current market breadth as an "opportunity for unloved stocks to catch up." Keep an eye on well-managed companies outside the immediate AI frenzy with healthy earnings and less demanding valuations. A significant de-escalation of the Iran war (potentially easing oil prices) and calming of the bond market could trigger a "catch-up trade" in this category.
