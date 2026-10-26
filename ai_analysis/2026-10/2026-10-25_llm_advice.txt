@@ -1,0 +1,54 @@
+Here's a summary of today's stock news with sentiment analysis:
+
+---
+
+### 📰 Stock Sentiment Analysis: Today's Headlines 📰
+
+**1. The Stocks Mentioned Today:**
+
+*   **Audi** (German automaker)
+*   **SBI** (State Bank of India)
+*   **Axis Bank**
+*   **HDFC Bank**
+*   **Infosys**
+*   **Wipro**
+*   **NTPC**
+*   **Divi's Lab**
+*   **Getty Images**
+*   **Shutterstock** (mentioned in context of Getty's failed merger)
+*   **Fossil**
+*   **Republic Bancorp**
+*   **Sandisk (NASDAQ: SNDK)**
+*   **Microsoft**
+*   **Google (Alphabet)**
+*   **Amazon**
+*   **Eli Lilly**
+*   **NextNav**
+
+---
+
+**2. Stocks with Bad Sentiment:**
+
+*   **Indian Equities (including implicitly: SBI, Axis Bank, HDFC Bank, Infosys, Wipro, NTPC, Divi's Lab):** The Indian market fell over 2% last week due to rising crude oil prices, FII outflows, and geopolitical tensions. Broad-based selling hit smallcaps and midcaps, and global indices also declined.
+*   **Getty Images:** Filed for Chapter 11 bankruptcy. Public shareholders are expected to see their equity largely wiped out. The company is struggling with heavy debt and mounting competition from AI image generators, and a planned merger with Shutterstock fell apart.
+*   **Shutterstock:** Mentioned in the context of its failed merger with Getty Images, indicating a missed strategic opportunity for both.
+*   **AI Trade (General):** Described as having a "bad week," suggesting a broader negative trend for companies heavily involved in AI.
+*   **NextNav:** Despite strong gains over three years, the share price is "down heavily over the year to date," indicating recent negative performance.
+
+---
+
+**3. Stocks with Good Sentiment:**
+
+*   **Audi:** Announced a significant $4 billion investment in a new US plant, projected to produce 200,000 SUVs annually. This signals strong growth and expansion plans.
+*   **Fossil:** Launched a new limited-edition watch collection in collaboration with Minecraft, demonstrating product innovation and brand engagement.
+
+---
+
+**4. Stocks to Keep an Eye On:**
+
+*   **Republic Bancorp:** While its share price "barely flinched" today, the bank posted solid Q3 earnings with strong basic earnings per share and a stable net interest margin (5.08%). This fundamental strength could lead to positive movement if the market catches up.
+*   **Sandisk (NASDAQ: SNDK):** Has had a strong run over the past couple of years due to its role in NAND flash and AI applications. However, given the general "bad week for the AI trade" and upcoming busy earnings season, it's worth monitoring how current market sentiment and its own earnings report might impact its trajectory.
+*   **Microsoft, Google, Amazon, Eli Lilly:** These major companies are headlining a very busy third-quarter earnings season and have significant influence on the broader market. Their upcoming reports will be critical indicators for Wall Street.
+*   **Crude Oil Prices:** The news highlights rising crude oil prices as a "prolonged threat to the global economy." This is a macro factor that could impact various sectors and company performances, so keeping an eye on oil trends is crucial for overall market assessment.
+
+---
