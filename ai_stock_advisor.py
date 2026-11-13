@@ -50,7 +50,8 @@ def generate_ai_advice(gemini_api_key, stock_news, ai_content_path, exec_date):
     
     # System instruction for the language model
     sys_instruct = "You are a Stock Sentiment Analyst. Your work is to summarize news data and give stock investment advice in a nicely formatted way."
-    client = genai.Client(api_key=gemini_api_key)
+    #client = genai.Client(api_key=gemini_api_key)
+    client = genai.Client(api_key=gemini_api_key, http_options={'api_version': 'v1beta'})
     
     # Format news as text
     news_as_text = ''
