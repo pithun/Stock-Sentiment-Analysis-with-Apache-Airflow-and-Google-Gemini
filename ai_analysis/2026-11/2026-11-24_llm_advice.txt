@@ -1,0 +1,45 @@
+As a Stock Sentiment Analyst, here's a summary of today's news and investment advice:
+
+---
+
+### **Stock Market Sentiment Report: November 24, 2026**
+
+#### **1. Stocks Mentioned Today:**
+
+*   **Nvidia (NVDA)**: Semiconductor giant, central to AI.
+*   **Anthropic (ANT)**: AI company, recent IPO.
+*   **Advanced Micro Devices (AMD)**: Semiconductor competitor to Nvidia.
+*   **Broadcom**: Semiconductor and infrastructure software company.
+*   **Micron Technology**: Memory and data storage company.
+*   **Direxion Daily Semiconductor Bull 3X ETF (SOXL)**: Leveraged ETF tracking semiconductor performance.
+*   **Boeing (BA)**: Aerospace manufacturer.
+*   **China Southern Airlines / Xiamen Airlines**: Airlines, Boeing customer.
+*   **Taiwan Semiconductor Manufacturing Company (TSMC)**: Semiconductor foundry, Nvidia supplier.
+*   **Foxconn**: Electronics manufacturing services company.
+*   **SK Hynix**: South Korean memory chip maker.
+*   **Samsung Electronics**: South Korean electronics and memory chip maker.
+*   **Advantest**: Japanese semiconductor testing equipment maker.
+*   **CoreWeave / Nebius**: Neoclouds companies (AI infrastructure).
+*   *Indirectly mentioned but not for direct trading:* Tesla, SpaceX, Coinbase, OpenAI, Google, Amazon, Meta, Microsoft.
+
+#### **2. Stocks with Bad Sentiment Today:**
+
+*   **Nvidia (NVDA):** Despite a massive 31% surge on Monday following CEO Jensen Huang's reinstatement, the stock reversed significantly on Tuesday, falling between 5% and 9%. The underlying issues contributing to this negative turn include ongoing investigations (SEC, DOJ), persistent national security concerns related to alleged Chinese spy ties, questions about corporate governance amid political intervention, and broader "AI bubble" warnings from prominent analysts. This creates extreme volatility and uncertainty.
+*   **Anthropic (ANT):** After an initially strong IPO debut last week and significant retail buying, the stock quickly slumped, falling 22% since its trading debut and 7.3% on Tuesday. This suggests a rapid cooling of investor enthusiasm for the "pure AI" play.
+*   **Advanced Micro Devices (AMD), Broadcom, Micron Technology:** These semiconductor stocks experienced pullbacks on Tuesday (AMD >10% slump), largely in correlation with Nvidia's reversal and general sector jitters, including reports of potential new tariffs on China.
+
+#### **3. Stocks with Good Sentiment Today:**
+
+*   **Nvidia (NVDA):** *While its Tuesday performance was negative, Monday's market reaction to Huang's reinstatement was overwhelmingly positive, resulting in a 31% surge and nearly $1 trillion added to its market cap.* This initial rally was fueled by widespread belief in Huang's indispensability to the AI sector and aggressive retail "dip-buying" after prior losses.
+*   **CoreWeave & Nebius:** These "neoclouds" companies saw their shares climb more than 30% on Monday, benefiting from the broader positive sentiment in the AI infrastructure sector, which was ignited by Nvidia's rally.
+*   **Boeing (BA):** Secured a significant order for 50 737-8 aircraft from China Southern Airlines' subsidiary, Xiamen Airlines. This marks a major win, being its first substantial order from China in almost a decade, indicating a potential improvement in trade relations.
+*   **Taiwan Semiconductor Manufacturing Company (TSMC), Foxconn, SK Hynix, Samsung Electronics, Advantest:** These companies, critical components of Nvidia's supply chain, saw their shares surge or gain on Tuesday. This indicates a positive ripple effect from the perceived stability brought by Huang's return and continued confidence in the robust AI infrastructure buildout.
+*   **Direxion Daily Semiconductor Bull 3X ETF (SOXL):** Experienced its highest 1-month rolling net flows in nine years, reflecting strong, aggressive bullish sentiment from retail investors on the overall semiconductor sector.
+
+#### **4. Stocks to Keep an Eye On:**
+
+*   **Nvidia (NVDA):** **Highly Volatile - Proceed with Caution.** Nvidia remains the focal point of the AI revolution, and its leadership position in GPUs is undeniable. However, the current situation is incredibly complex. The stock's extreme sensitivity to CEO Jensen Huang, coupled with ongoing national security investigations, political intervention, and "AI bubble" warnings, creates a high-risk, high-reward scenario. Monitor developments on the investigations closely, as well as the broader sentiment regarding AI valuations. The influence of political figures like President Trump adds an unpredictable variable.
+*   **Anthropic (ANT):** **Early Indicator for AI Sector.** As a pure-play AI company, Anthropic's post-IPO performance will be a crucial barometer for broader investor appetite in the AI sector. The quick swing from initial enthusiasm to significant declines highlights the speculative nature of this market. Watch for signs of stabilization or further price discovery to gauge the market's long-term conviction in AI startups.
+*   **Boeing (BA):** **Potential for Continued China Re-engagement.** The substantial order from China is a significant positive. Keep an eye on any further announcements regarding Chinese orders or broader trade policy shifts that could impact Boeing's access to this vital market. This could signal a sustained recovery for the aerospace giant.
+
+---
